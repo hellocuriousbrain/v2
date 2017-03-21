@@ -223,7 +223,7 @@ nav ul, nav ol{margin:0; padding:0; list-style:none;}
 #facebook_share i{display:block; width:100%; height:100%; line-height:inherit;}
 #facebook_share.visible{visibility:visible; opacity:.5;}
 #facebook_share:hover{opacity:1;}
-.sm_share{padding-top:20px;}
+.sm_share{padding-top:12px;}
 
 /* Tables
 --------------------------------------------------------------------------------------------------------------- */
