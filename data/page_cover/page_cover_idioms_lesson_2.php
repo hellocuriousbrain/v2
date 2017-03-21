@@ -7,9 +7,11 @@ function page_cover_fun($currpageId) {
   <div id="breadcrumb" class="hoc clear"> 
     <!-- ################################################################################################ -->
     <ul>
-      <li><a href="#">Home</a></li>
-      <li><a href="#">Lorem</a></li>
-      <li><a href="#">Ipsum</a></li>
+      <li><a href="../../index.php">Home</a></li>
+      <li><a href="../../courses/courses.php">Courses</a></li>
+      <li><a href="../../courses/english.php">English</a></li>
+      <li><a href="../../courses/idioms.php">Idioms</a></li>
+      <li><a href="../../courses/idioms_lesson_2.php">Idioms Lesson#2</a></li>
     </ul>
     <!-- ################################################################################################ -->
   </div>

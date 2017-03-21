@@ -7,9 +7,8 @@ function page_cover_fun($currpageId) {
   <div id="breadcrumb" class="hoc clear"> 
     <!-- ################################################################################################ -->
     <ul>
-      <li><a href="#">Home</a></li>
-      <li><a href="#">Lorem</a></li>
-      <li><a href="#">Ipsum</a></li>
+      <li><a href="../../index.php">Home</a></li>
+      <li><a href="../../students/students.php">Students</a></li>
     </ul>
     <!-- ################################################################################################ -->
   </div>
