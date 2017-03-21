@@ -17,7 +17,7 @@ Your valuable involvement will certainly enhance student-teacher performance.  <
 	
       <div id="comments">
         <h2>Write A Comment</h2>
-<div class="fb-comments" data-href="http://www.hellocuriousbrain.com/study/study.php" data-width="900" data-numposts="5"></div>
+<div class="fb-comments" data-href="http://www.hellocuriousbrain.com/parents/parents.php" data-width="900" data-numposts="5"></div>
       </div>
       <!-- ################################################################################################ -->
     </div>
@@ -25,5 +25,13 @@ Your valuable involvement will certainly enhance student-teacher performance.  <
     <!-- / main body -->
     <div class="clear"></div>
   </main>
+</div>
+
+
+<!-- / FB share  -->
+<div id="facebook_share">
+    <div class="sm_share">
+        <div class="fb-share-button" data-href="http://www.hellocuriousbrain.com/parents/parents.php" data-layout="box_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.hellocuriousbrain.com%2Fparents%2Fparents.php&amp;src=sdkpreparse">Share</a></div>
+    </div>
 </div>
 
