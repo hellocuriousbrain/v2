@@ -11,7 +11,7 @@ function page_cover_fun($currpageId) {
       <li><a href="../../courses/courses.php">Courses</a></li>
       <li><a href="../../courses/english.php">English</a></li>
       <li><a href="../../courses/idioms.php">Idioms</a></li>
-      <li><a href="../../courses/idioms_lesson_4.php">Idioms Lesson 4</a></li>
+      <li><a href="../../courses/idioms_lesson_3.php">Idioms Lesson#3</a></li>
     </ul>
     <!-- ################################################################################################ -->
   </div>

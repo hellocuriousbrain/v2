@@ -100,7 +100,25 @@ Idioms Tips and Tricks are explained in below lessons :-
 </p>
 
 <br>
+<h3 class="heading_h3">
+<a href="../../courses/idioms_lesson_4.php"> Tips and tricks for Idioms Lesson #4 </a>
+</h3>
+<a href="../../courses/idioms_lesson_4.php"><img class="imgl borderedbox inspace-5" src="../data/images/english/idioms/idioms_lesson_plan_4.jpg" alt=""></a>
+<p>
 
+#22 To draw the line somewhere = To set some limit 
+
+<br>
+#23 To have a green thumb = To have natural interest in gardening
+
+<br>
+#24 Ended in a fiasco = An utter failure
+<br>
+#25 The twinkling of an eye = Very quickly
+ <a class="btn medium inverse" href="../../courses/idioms_lesson_4.php"> READ MORE  »</a>
+</p>
+
+<br>
 
 
       <div id="comments">
