@@ -108,6 +108,11 @@
 .clrbox .heading_h1, .clrbox p:first-of-type{margin-bottom:30px;}
 .clrbox .btn{}
 
+/* font Size
+---------------------------------------------------------------------------------------------------------------*/
+
+.font_size_24{font-family: 'Pangolin', cursive;}
+
 
 /* Footer
 --------------------------------------------------------------------------------------------------------------- */
@@ -274,6 +279,8 @@ body{color:#888888; background-color:#EEEEEE;}
 a{color:#8A0C0C;}
 a:active, a:focus{background:transparent;}/* IE10 + 11 Bugfix - prevents grey background */
 hr, .borderedbox{border-color:#D7D7D7;}
+.quotes_about{border-color:#D7D7D7;}
+.quotes_main{border-color:#D7D7D7;}
 label span{color:#FF0000; background-color:inherit;}
 input:focus, textarea:focus, *:required:focus{border-color:#0584BB;}
 .overlay{color:#FFFFFF; background-color:inherit;}
