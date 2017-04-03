@@ -6,9 +6,11 @@ cp data/utility/sample/new_author_first_quotes/data/title/author/new_author/quot
 cp data/utility/sample/new_author_first_quotes/data/page_cover/author/new_author/quotes/page_cover_new_author.php data/page_cover/author/$1/quotes/page_cover_$1.php
 cp data/utility/sample/new_author_first_quotes/data/sub_page_content/author/new_author/quotes/1/sub_page_content_new_author.php data/sub_page_content/author/$1/quotes/$2/sub_page_content_$1.php
 
-cp /home/kaira/Desktop/attachments/profile_$1.jpg data/images/author/$1/profile/$1.jpg
+cp data/utility/sample/new_author_first_quotes/data/sub_page_content/author/new_author/quotes/sub_page_content_new_author.php data/sub_page_content/author/$1/quotes/sub_page_content_$1.php
 
-cp /home/kaira/Desktop/attachments/page_cover_$1.jpg data/images/author/$1/page_cover/quotes/$1.jpg
+cp $3/profile_$1.jpg data/images/author/$1/profile/$1.jpg
 
-cp /home/kaira/Desktop/attachments/Quotes_$1.jpg data/images/author/$1/quotes/$2/$1_Quotes.jpg
+cp $3/page_cover_$1.jpg data/images/author/$1/page_cover/quotes/$1.jpg
+
+cp $3/Quotes_$1.jpg data/images/author/$1/quotes/$2/$1_Quotes.jpg
 
