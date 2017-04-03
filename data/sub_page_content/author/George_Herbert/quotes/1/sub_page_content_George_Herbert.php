@@ -1,10 +1,13 @@
+<?php
+function sub_page_content($currQuoteAutherId,$currentQuoteNumber) {
+   ?>
 <div class="wrapper row3">
   <main class="hoc container clear"> 
     <!-- main body -->
     <!-- ################################################################################################ -->
     <div class="sidebar one_quarter first"> 
       <!-- ################################################################################################ -->
-<?php include "../data/left_menu/left_menu_english.php";
+<?php include "../../../../data/left_menu/left_menu_english.php";
     $level1 = "1";
     $level2 = "11";
     $level3 = "0";
@@ -23,7 +26,6 @@
     <!-- ################################################################################################ -->
     <div class="content three_quarter"> 
       <!-- ################################################################################################ -->
-      <h1> Quotes of The Day </h1>
 
 <?php
 	
@@ -32,52 +34,37 @@
 	$username="root";
 	$password="Ytf(bkU3@q";
     $dbname="curiousbrain";
-    $authorNumberTable="authorNumber";
     $authorRecordTable="authorRecord";
-    $numberField = "number";
     $nameField = "name";
-    $idField = "author_id";
-    $date_today = date("m") . date("d") ;
     
 	mysql_connect($hostname,$username, $password) or die ("<html><script language='JavaScript'>alert('Unable to connect to database! Please try again later.'),history.go(-1)</script></html>");
 	mysql_select_db($dbname);
 	
-	# Check If Record Exists
-	
-    $authorNumberGetQuery = "SELECT * FROM $authorNumberTable where date='$date_today'";
-	
-	$result = mysql_query($authorNumberGetQuery);
-
-	if($result){
-        while($row = mysql_fetch_array($result)){
-			$authorNumberVal = $row["$numberField"];
-		}
-    }
-    for( $i = 1; $i<=$authorNumberVal; $i++ ) {
-        $offsetVal = $i - 1;
-        $authorRecordGetQuery = "SELECT * FROM $authorRecordTable where date='$date_today' LIMIT 1 OFFSET $offsetVal";
+        $authorRecordGetQuery = "SELECT * FROM $authorRecordTable where author_id='$currQuoteAutherId'";
         $resultRecord = mysql_query($authorRecordGetQuery);
 
 	if($resultRecord){
         while($row = mysql_fetch_array($resultRecord)){
 			$authorName = $row["$nameField"];
-			$authorId = $row["$idField"];
+			$authorId = $currQuoteAutherId;
 		}
     }
 ?>
+
+<h1 class="center"> <?php echo $authorName ?> Quotes </h1>
 
 <div class="borderedbox_quotes">
 <ul class="nospace btmspace-10 group font-xs">
           <li class="fl_left">
 
-          <a class="font_size_32"> #<?php echo $i ?> </a>
+          <a class="font_size_32"> #<?php echo $currentQuoteNumber ?> </a>
           </li>
           <li class="fl_right"> <a class="font_size_30" href="../courses/cursive_handwriting_lesson_1.php">By <?php echo $authorName ?></a></li>
         </ul>
         <hr class="quotes_main">
-<a href="../../courses/idioms_lesson_1.php"><img class="imgl borderedbox inspace-5" src="../data/images/author/<?php echo $authorId ?>/quotes/1/<?php echo $authorId ?>_Quotes.jpg" alt=""></a>
+<a href="../../courses/idioms_lesson_1.php"><img class="imgl borderedbox inspace-5" src="../../../../data/images/author/<?php echo $authorId ?>/quotes/<?php echo $currentQuoteNumber ?>/<?php echo $authorId ?>_Quotes.jpg" alt=""></a>
 <p class="font_size_30 center">
-<?php include "../data/author/$authorId/quotes/1/$authorId.php"; ?>
+<?php include "../../../../data/author/$authorId/quotes/$currentQuoteNumber/$authorId.php"; ?>
 
 </p>
 <br>
@@ -87,9 +74,9 @@
 <a href="../../courses/idioms_lesson_4.php"> About <?php echo $authorName ?> </a>
 </h3>
         <hr class="quotes_about">
-<a href="../../courses/idioms_lesson_4.php"><img class="imgl borderedbox inspace-5" src="../data/images/author/<?php echo $authorId ?>/profile/<?php echo $authorId ?>.jpg" alt=""></a>
+<a href="../../courses/idioms_lesson_4.php"><img class="imgl borderedbox inspace-5" src="../../../../data/images/author/<?php echo $authorId ?>/profile/<?php echo $authorId ?>.jpg" alt=""></a>
 <p>
-<?php include "../data/author/$authorId/about/short/$authorId.php"; ?>
+<?php include "../../../../data/author/$authorId/about/short/$authorId.php"; ?>
 
 <br>
 <br>
@@ -107,11 +94,6 @@
 
 <br>
 <br>
-<?php } ?>
-
-
-<br>
-
 
       <div id="comments">
         <h2>Write A Comment</h2>
@@ -132,3 +114,6 @@
         <div class="fb-share-button" data-href="http://www.hellocuriousbrain.com/courses/courses.php" data-layout="box_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.hellocuriousbrain.com%2Fcourses%2Fcourses.php&amp;src=sdkpreparse">Share</a></div>
     </div>
 </div>
+
+<?php } ?>
+
