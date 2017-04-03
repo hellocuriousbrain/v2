@@ -1,0 +1,1 @@
+Nicholas Murray Butler was an American philosopher, diplomat, and educator. Butler was president of Columbia University, president of the Carnegie Endowment for International Peace, and a recipient of the Nobel Peace Prize.

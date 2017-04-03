@@ -1,0 +1,9 @@
+mkdir -p author/$1/quotes/$2/
+mkdir -p data/author/$1/quotes/$2/
+mkdir -p data/author/$1/about/short/
+mkdir -p data/title/author/$1/quotes/$2/
+mkdir -p data/page_cover/author/$1/quotes/
+mkdir -p data/sub_page_content/author/$1/quotes/$2/
+mkdir -p data/images/author/$1/profile/
+mkdir -p data/images/author/$1/page_cover/quotes/
+mkdir -p data/images/author/$1/quotes/$2/

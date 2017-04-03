@@ -1,4 +1,3 @@
-
 <?php
 function page_cover_fun($currQuoteAutherId,$currentQuoteNumber) {
    ?>
