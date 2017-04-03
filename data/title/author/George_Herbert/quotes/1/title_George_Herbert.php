@@ -1,2 +1,1 @@
-<title> Nicholas Murray Butler Quotes - Curious Brain </title>
-
+<title> Living well is the best revenge :- George Herbert Quotes - Curious Brain </title>

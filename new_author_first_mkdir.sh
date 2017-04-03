@@ -1,3 +1,6 @@
+
+[ -z $2 ] && { echo "Usage: sh new_author_first_mkdir.sh <Author Id> <Quote Number>"; exit 1; }
+
 mkdir -p author/$1/quotes/$2/
 mkdir -p data/author/$1/quotes/$2/
 mkdir -p data/author/$1/about/short/

@@ -1,6 +1,5 @@
 <?php
 function sub_page_content($currQuoteAutherId,$currentQuoteNumber) {
-    
    ?>
 <div class="wrapper row3">
   <main class="hoc container clear"> 
@@ -8,7 +7,7 @@ function sub_page_content($currQuoteAutherId,$currentQuoteNumber) {
     <!-- ################################################################################################ -->
     <div class="sidebar one_quarter first"> 
       <!-- ################################################################################################ -->
-<?php include "../../../data/left_menu/left_menu_english.php";
+<?php include "../../../../data/left_menu/left_menu_english.php";
     $level1 = "1";
     $level2 = "11";
     $level3 = "0";
@@ -37,7 +36,6 @@ function sub_page_content($currQuoteAutherId,$currentQuoteNumber) {
     $dbname="curiousbrain";
     $authorRecordTable="authorRecord";
     $nameField = "name";
-    $numberOfQuotesField = "numberOfQuotes";
     
 	mysql_connect($hostname,$username, $password) or die ("<html><script language='JavaScript'>alert('Unable to connect to database! Please try again later.'),history.go(-1)</script></html>");
 	mysql_select_db($dbname);
@@ -48,31 +46,25 @@ function sub_page_content($currQuoteAutherId,$currentQuoteNumber) {
 	if($resultRecord){
         while($row = mysql_fetch_array($resultRecord)){
 			$authorName = $row["$nameField"];
-			$quotesNumber = $row["$numberOfQuotesField"];
 			$authorId = $currQuoteAutherId;
 		}
     }
-        
-?>
-      <h1 class="center"> <?php echo $authorName ?> Quotes </h1>
-
-<?php
-        for( $i = 1; $i<=$quotesNumber; $i++ ) {
 ?>
 
-<br>
+<h1 class="center"> <?php echo $authorName ?> Quotes </h1>
+
 <div class="borderedbox_quotes">
 <ul class="nospace btmspace-10 group font-xs">
           <li class="fl_left">
 
-          <a class="font_size_32"> #<?php echo $i ?> </a>
+          <a class="font_size_32"> #<?php echo $currentQuoteNumber ?> </a>
           </li>
           <li class="fl_right"> <a class="font_size_30" href="../courses/cursive_handwriting_lesson_1.php">By <?php echo $authorName ?></a></li>
         </ul>
         <hr class="quotes_main">
-<a href="../../courses/idioms_lesson_1.php"><img class="imgl borderedbox inspace-5" src="../../../data/images/author/<?php echo $authorId ?>/quotes/<?php echo $i ?>/<?php echo $authorId ?>_Quotes.jpg" alt=""></a>
+<a href="../../courses/idioms_lesson_1.php"><img class="imgl borderedbox inspace-5" src="../../../../data/images/author/<?php echo $authorId ?>/quotes/<?php echo $currentQuoteNumber ?>/<?php echo $authorId ?>_Quotes.jpg" alt=""></a>
 <p class="font_size_30 center">
-<?php include "../../../data/author/$authorId/quotes/$i/$authorId.php"; ?>
+<?php include "../../../../data/author/$authorId/quotes/$currentQuoteNumber/$authorId.php"; ?>
 
 </p>
 <br>
@@ -82,9 +74,9 @@ function sub_page_content($currQuoteAutherId,$currentQuoteNumber) {
 <a href="../../courses/idioms_lesson_4.php"> About <?php echo $authorName ?> </a>
 </h3>
         <hr class="quotes_about">
-<a href="../../courses/idioms_lesson_4.php"><img class="imgl borderedbox inspace-5" src="../../../data/images/author/<?php echo $authorId ?>/profile/<?php echo $authorId ?>.jpg" alt=""></a>
+<a href="../../courses/idioms_lesson_4.php"><img class="imgl borderedbox inspace-5" src="../../../../data/images/author/<?php echo $authorId ?>/profile/<?php echo $authorId ?>.jpg" alt=""></a>
 <p>
-<?php include "../../../data/author/$authorId/about/short/$authorId.php"; ?>
+<?php include "../../../../data/author/$authorId/about/short/$authorId.php"; ?>
 
 <br>
 <br>
@@ -99,7 +91,7 @@ function sub_page_content($currQuoteAutherId,$currentQuoteNumber) {
 <br>
 <br>
 </div>
-<?php } ?>
+
 <br>
 <br>
 

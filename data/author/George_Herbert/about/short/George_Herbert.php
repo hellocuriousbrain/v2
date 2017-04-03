@@ -1,1 +1,2 @@
-Nicholas Murray Butler was an American philosopher, diplomat, and educator. Butler was president of Columbia University, president of the Carnegie Endowment for International Peace, and a recipient of the Nobel Peace Prize.
+George Herbert was a Welsh-born poet, orator and Anglican priest. Herbert's poetry is associated with the writings of the metaphysical poets, and
+he is recognised as one of the foremost British devotional lyricists
