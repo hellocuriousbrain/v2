@@ -1,35 +1,29 @@
 <?php
-function sub_page_content($currQuoteAutherId,$currentQuoteNumber) {
-   ?>
+    function sub_page_content($currQuoteAutherId,$currentQuoteNumber) {
+?>
 <div class="wrapper row3">
   <main class="hoc container clear"> 
     <!-- main body -->
     <!-- ################################################################################################ -->
     <div class="sidebar one_quarter first"> 
       <!-- ################################################################################################ -->
-<?php include "../../../../data/left_menu/left_menu_english.php";
-    $level1 = "1";
-    $level2 = "11";
-    $level3 = "0";
-	left_menu_fun($currpageId, $level1,$level2,$level3);
-?>
-
-      <div class="sdb_holder">
-        
-      </div>
-      <div class="sdb_holder">
-        
-      </div>
+    <?php include "../../../../data/left_menu/left_menu_english.php";
+        $level1 = "1";
+        $level2 = "11";
+        $level3 = "0";
+	    left_menu_fun($currpageId, $level1,$level2,$level3);
+    ?>
+        <div class="sdb_holder">
+        </div>
+        <div class="sdb_holder">
+        </div>
       <!-- ################################################################################################ -->
     </div>
     <!-- ################################################################################################ -->
     <!-- ################################################################################################ -->
     <div class="content three_quarter"> 
       <!-- ################################################################################################ -->
-
-<?php
-	
-	
+    <?php
 	$hostname="localhost";
 	$username="root";
 	$password="Ytf(bkU3@q";
@@ -40,8 +34,8 @@ function sub_page_content($currQuoteAutherId,$currentQuoteNumber) {
 	mysql_connect($hostname,$username, $password) or die ("<html><script language='JavaScript'>alert('Unable to connect to database! Please try again later.'),history.go(-1)</script></html>");
 	mysql_select_db($dbname);
 	
-        $authorRecordGetQuery = "SELECT * FROM $authorRecordTable where author_id='$currQuoteAutherId'";
-        $resultRecord = mysql_query($authorRecordGetQuery);
+    $authorRecordGetQuery = "SELECT * FROM $authorRecordTable where author_id='$currQuoteAutherId'";
+    $resultRecord = mysql_query($authorRecordGetQuery);
 
 	if($resultRecord){
         while($row = mysql_fetch_array($resultRecord)){
@@ -49,61 +43,56 @@ function sub_page_content($currQuoteAutherId,$currentQuoteNumber) {
 			$authorId = $currQuoteAutherId;
 		}
     }
-?>
+    ?>
 
-<h1 class="center"> <?php echo $authorName ?> Quotes </h1>
+    <h1 class="center"> <?php echo $authorName ?> Quotes </h1>
 
-<div class="borderedbox_quotes">
-<ul class="nospace btmspace-10 group font-xs">
-          <li class="fl_left">
+        <div class="borderedbox_quotes">
+            <ul class="nospace btmspace-10 group font-xs">
+                <li class="fl_left">
+                <a class="font_size_32"> #<?php echo $currentQuoteNumber ?> </a>
+                </li>
+                <li class="fl_right"> <a class="font_size_30" href="../../../../author/<?php echo $authorId ?>/quotes/<?php echo $authorId ?>.php">By <?php echo $authorName ?></a></li>
+            </ul>
+            <hr class="quotes_main">
+            <img class="imgl borderedbox inspace-5" src="../../../../data/images/author/<?php echo $authorId ?>/quotes/<?php echo $currentQuoteNumber ?>/<?php echo $authorId ?>_Quotes.jpg" alt="">
+            <p class="font_size_30 center">
+            <?php include "../../../../data/author/$authorId/quotes/$currentQuoteNumber/$authorId.php"; ?>
+            </p>
+            <br>
+            <div class="borderedbox ">
+                <br>
+                <h3 class="heading_h3 center">
+                <a href="../../../../author/<?php echo $authorId ?>/quotes/<?php echo $authorId ?>.php"> About <?php echo $authorName ?> </a>
+                </h3>
+                <hr class="quotes_about">
+                <img class="imgl borderedbox inspace-5" src="../../../../data/images/author/<?php echo $authorId ?>/profile/<?php echo $authorId ?>.jpg" alt="">
+                <p>
+                <?php include "../../../../data/author/$authorId/about/short/$authorId.php"; ?>
+                </p>
+                <br>
+            </div>
 
-          <a class="font_size_32"> #<?php echo $currentQuoteNumber ?> </a>
-          </li>
-          <li class="fl_right"> <a class="font_size_30" href="../courses/cursive_handwriting_lesson_1.php">By <?php echo $authorName ?></a></li>
-        </ul>
-        <hr class="quotes_main">
-<a href="../../courses/idioms_lesson_1.php"><img class="imgl borderedbox inspace-5" src="../../../../data/images/author/<?php echo $authorId ?>/quotes/<?php echo $currentQuoteNumber ?>/<?php echo $authorId ?>_Quotes.jpg" alt=""></a>
-<p class="font_size_30 center">
-<?php include "../../../../data/author/$authorId/quotes/$currentQuoteNumber/$authorId.php"; ?>
+            <p class="font_size_24" >
+            <a  class="fl_right" href="../../../../author/<?php echo $authorId ?>/quotes/<?php echo $authorId ?>.php"> Check more <?php echo $authorName ?> Quotes »</a>
+            </p>
+            <br>
+            <br>
+        </div>
 
-</p>
-<br>
-<div class="borderedbox ">
-<br>
-<h3 class="heading_h3 center">
-<a href="../../courses/idioms_lesson_4.php"> About <?php echo $authorName ?> </a>
-</h3>
-        <hr class="quotes_about">
-<a href="../../courses/idioms_lesson_4.php"><img class="imgl borderedbox inspace-5" src="../../../../data/images/author/<?php echo $authorId ?>/profile/<?php echo $authorId ?>.jpg" alt=""></a>
-<p>
-<?php include "../../../../data/author/$authorId/about/short/$authorId.php"; ?>
+        <br>
+        <br>
 
-<br>
-<br>
-<br>
-<br>
-</div>
-
-</p>
-<p class="font_size_24" >
- <a  class="fl_right" href="../../courses/idioms_lesson_1.php"> Check more <?php echo $authorName ?> Quotes »</a>
-</p>
-<br>
-<br>
-</div>
-
-<br>
-<br>
-
-      <div id="comments">
-        <h2>Write A Comment</h2>
-<div class="fb-comments" data-href="http://www.hellocuriousbrain.com/courses/idioms.php" data-width="900" data-numposts="5"></div>
-      </div>
+        <div id="comments">
+            <h2>Write A Comment</h2>
+            <div class="fb-comments" data-href="http://www.hellocuriousbrain.com/courses/idioms.php" data-width="900" data-numposts="5"></div>
+        </div>
       <!-- ################################################################################################ -->
     </div>
     <!-- ################################################################################################ -->
     <!-- / main body -->
-    <div class="clear"></div>
+    <div class="clear">
+    </div>
   </main>
 </div>
 
