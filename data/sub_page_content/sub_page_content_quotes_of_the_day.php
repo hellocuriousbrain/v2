@@ -1,32 +1,6 @@
-<div class="wrapper row3">
-  <main class="hoc container clear"> 
-    <!-- main body -->
-    <!-- ################################################################################################ -->
-    <div class="sidebar one_quarter first"> 
-      <!-- ################################################################################################ -->
-        <?php include "../data/left_menu/left_menu_english.php";
-            $level1 = "1";
-            $level2 = "11";
-            $level3 = "0";
-	        left_menu_fun($currpageId, $level1,$level2,$level3);
-        ?>
-        <div class="sdb_holder">
-        
-        </div>
-        <div class="sdb_holder">
-        
-        </div>
-        <!-- ################################################################################################ -->
-    </div>
-    <!-- ################################################################################################ -->
-    <!-- ################################################################################################ -->
-        <div class="content three_quarter"> 
-            <!-- ################################################################################################ -->
-            <h1> Quotes of The Day </h1>
-            <?php
-	
-	
-        	$hostname="localhost";
+<?php
+
+            $hostname="localhost";
 	        $username="root";
 	        $password="Ytf(bkU3@q";
             $dbname="curiousbrain";
@@ -35,6 +9,8 @@
             $numberField = "number";
             $nameField = "name";
             $idField = "author_id";
+            $uniqueIdField = "uniqueId";
+            $author_idField = "author_id";
             $date_today = date("m") . date("d") ;
     
 	        mysql_connect($hostname,$username, $password) or die ("<html><script language='JavaScript'>alert('Unable to connect to database! Please try again later.'),history.go(-1)</script></html>");
@@ -51,6 +27,43 @@
 			        $authorNumberVal = $row["$numberField"];
 		        }
             }
+
+?>
+<div class="wrapper row3">
+  <main class="hoc container clear"> 
+    <!-- main body -->
+    <!-- ################################################################################################ -->
+    <div class="sidebar one_quarter first"> 
+      <!-- ################################################################################################ -->
+        <?php include "../data/left_menu/left_menu_author_quotes.php";
+                $authorRecordLeftGetQuery = "SELECT * FROM $authorRecordTable where date_val='$date_today' LIMIT 1 OFFSET 0";
+                $resultRecordLeft = mysql_query($authorRecordLeftGetQuery);
+
+	            if($resultRecordLeft){
+                    while($row = mysql_fetch_array($resultRecordLeft)){
+                        $authorIdLeft = $row["$idField"];
+                        $uniqueIdField = $row["$uniqueIdField"];
+		            }
+                }
+                $currQuoteAutherId = $authorIdLeft; 
+
+            left_menu_fun($currQuoteAutherId,$authorRecordTable, $uniqueIdField,$nameField,$author_idField);
+        ?>
+        <div class="sdb_holder">
+        
+        </div>
+        <div class="sdb_holder">
+        
+        </div>
+        <!-- ################################################################################################ -->
+    </div>
+    <!-- ################################################################################################ -->
+    <!-- ################################################################################################ -->
+        <div class="content three_quarter"> 
+            <!-- ################################################################################################ -->
+            <h1> Quotes of The Day </h1>
+            <?php
+        	
             for( $i = 1; $i<=$authorNumberVal; $i++ ) {
                 $offsetVal = $i - 1;
                 $authorRecordGetQuery = "SELECT * FROM $authorRecordTable where date_val='$date_today' LIMIT 1 OFFSET $offsetVal";

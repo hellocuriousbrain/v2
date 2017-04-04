@@ -1,5 +1,29 @@
 <?php
 function sub_page_content($currQuoteAutherId,$currentQuoteNumber) {
+    $hostname="localhost";
+	$username="root";
+	$password="Ytf(bkU3@q";
+    $dbname="curiousbrain";
+    $authorRecordTable="authorRecord";
+    $nameField = "name";
+    $numberOfQuotesField = "numberOfQuotes";
+    $uniqueIdField = "uniqueId";
+    $author_idField = "author_id";
+    
+    
+    mysql_connect($hostname,$username, $password) or die ("<html><script language='JavaScript'>alert('Unable to connect to database! Please try again later.'),history.go(-1)</script></html>");
+	mysql_select_db($dbname);
+	$authorRecordGetQuery = "SELECT * FROM $authorRecordTable where author_id='$currQuoteAutherId'";
+    $resultRecord = mysql_query($authorRecordGetQuery);
+    
+    if($resultRecord){
+        while($row = mysql_fetch_array($resultRecord)){
+            $authorName = $row["$nameField"];
+            $quotesNumber = $row["$numberOfQuotesField"];
+            $uniqueIdFieldVal = $row["$uniqueIdField"];
+            $authorId = $currQuoteAutherId;
+        }
+    }
 ?>
 <div class="wrapper row3">
   <main class="hoc container clear"> 
@@ -7,12 +31,9 @@ function sub_page_content($currQuoteAutherId,$currentQuoteNumber) {
     <!-- ################################################################################################ -->
     <div class="sidebar one_quarter first"> 
       <!-- ################################################################################################ -->
-        <?php include "../../../data/left_menu/left_menu_english.php";
-        $level1 = "1";
-        $level2 = "11";
-        $level3 = "0";
-	    left_menu_fun($currpageId, $level1,$level2,$level3);
-        ?>
+        <?php include "../../../data/left_menu/left_menu_author_quotes.php";
+	    left_menu_fun($currQuoteAutherId,$authorRecordTable, $uniqueIdFieldVal,$nameField,$author_idField);
+    ?>
 
         <div class="sdb_holder">
         
@@ -29,27 +50,7 @@ function sub_page_content($currQuoteAutherId,$currentQuoteNumber) {
       <!-- ################################################################################################ -->
 
         <?php
-	    $hostname="localhost";
-	    $username="root";
-	    $password="Ytf(bkU3@q";
-        $dbname="curiousbrain";
-        $authorRecordTable="authorRecord";
-        $nameField = "name";
-        $numberOfQuotesField = "numberOfQuotes";
-    
-	    mysql_connect($hostname,$username, $password) or die ("<html><script language='JavaScript'>alert('Unable to connect to database! Please try again later.'),history.go(-1)</script></html>");
-	    mysql_select_db($dbname);
-	
-        $authorRecordGetQuery = "SELECT * FROM $authorRecordTable where author_id='$currQuoteAutherId'";
-        $resultRecord = mysql_query($authorRecordGetQuery);
-
-	    if($resultRecord){
-            while($row = mysql_fetch_array($resultRecord)){
-			    $authorName = $row["$nameField"];
-			    $quotesNumber = $row["$numberOfQuotesField"];
-			    $authorId = $currQuoteAutherId;
-		    }
-        }
+	    
         ?>
         <h1 class="center"> <?php echo $authorName ?> Quotes </h1>
 
