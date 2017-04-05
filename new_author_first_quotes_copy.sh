@@ -13,6 +13,12 @@ cp data/utility/sample/new_author_first_quotes/data/sub_page_content/author/new_
 
 cp data/utility/sample/new_author_first_quotes/data/sub_page_content/author/new_author/quotes/sub_page_content_new_author.php data/sub_page_content/author/$1/quotes/sub_page_content_$1.php
 
+cp data/utility/sample/new_author_first_quotes/data/sm_share/author/new_author/1/sm_share_new_author.php data/sm_share/author/$1/$2/sm_share_$1.php
+cp data/utility/sample/new_author_first_quotes/data/sm_comment/author/new_author/1/sm_comment_new_author.php data/sm_comment/author/$1/$2/sm_comment_$1.php
+
+cp data/utility/sample/new_author_first_quotes/data/sm_share/author/new_author/sm_share_new_author.php data/sm_share/author/$1/sm_share_$1.php
+cp data/utility/sample/new_author_first_quotes/data/sm_comment/author/new_author/sm_comment_new_author.php data/sm_comment/author/$1/sm_comment_$1.php
+
 cp $3/profile_$1.jpg data/images/author/$1/profile/$1.jpg
 
 cp $3/page_cover_$1.jpg data/images/author/$1/page_cover/quotes/$1.jpg

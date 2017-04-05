@@ -10,3 +10,5 @@ mkdir -p data/sub_page_content/author/$1/quotes/$2/
 mkdir -p data/images/author/$1/profile/
 mkdir -p data/images/author/$1/page_cover/quotes/
 mkdir -p data/images/author/$1/quotes/$2/
+mkdir -p data/sm_share/author/$1/$2/
+mkdir -p data/sm_comment/author/$1/$2/

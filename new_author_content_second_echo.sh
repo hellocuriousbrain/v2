@@ -6,4 +6,5 @@
 echo "Add Quotes Here" > data/author/$1/quotes/$2/$1.php
 
 #Title
-echo "<title> Add Quote Here </title>" > data/title/author/$1/quotes/$2/title_$1.php
+echo "<title> Add Quotes Here :
+Add Author Name Here </title>" > data/title/author/$1/quotes/$2/title_$1.php

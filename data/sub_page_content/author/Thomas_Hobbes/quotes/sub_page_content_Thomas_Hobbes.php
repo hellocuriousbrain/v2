@@ -95,7 +95,7 @@ function sub_page_content($currQuoteAutherId,$currentQuoteNumber) {
 
         <div id="comments">
             <h2>Write A Comment</h2>
-            <?php include "../../../data/sm_comment/author/$authorId/sm_comment_$authorId.php"; ?> 
+            <div class="fb-comments" data-href="http://www.hellocuriousbrain.com/courses/idioms.php" data-width="900" data-numposts="5"></div>
         </div>
       <!-- ################################################################################################ -->
     </div>
@@ -107,7 +107,7 @@ function sub_page_content($currQuoteAutherId,$currentQuoteNumber) {
     <!-- / FB share  -->
 <div id="facebook_share">
     <div class="sm_share">
-        <?php include "../../../data/sm_share/author/$authorId/sm_share_$authorId.php"; ?> 
+        <div class="fb-share-button" data-href="http://www.hellocuriousbrain.com/courses/courses.php" data-layout="box_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.hellocuriousbrain.com%2Fcourses%2Fcourses.php&amp;src=sdkpreparse">Share</a></div>
     </div>
 </div>
 
