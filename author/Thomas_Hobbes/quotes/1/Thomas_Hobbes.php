@@ -1,4 +1,6 @@
-<?php 
+<?php
+    // Url Structure 
+    //author/Thomas_Hobbes/quotes/1/Thomas_Hobbes.php
     $path = $_SERVER['REQUEST_URI']; // this gives you /folder1/folder2/THIS_ONE/file.php
     $folders = explode("/", $path); // splits folders in array
     $currentQuoteNumber = $folders[4];
