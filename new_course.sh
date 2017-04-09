@@ -20,23 +20,23 @@ URL=courses/$CourseName/$ChapterName/$CourseType/$LessonNumber/
 #mkdir 
 
 #Main File 
-mkdir ${URL}
+mkdir -p ${URL}
 
 #title
-mkdir data/title/${URL}
+mkdir -p data/title/${URL}
 
 #Page Cover
-mkdir data/page_cover/${URL}
+mkdir -p data/page_cover/${URL}
 
 #Main Contain 
-mkdir data/sub_page_content/${URL}
+mkdir -p data/sub_page_content/${URL}
 
 #Social Media
-mkdir data/sm_comment/${URL}
-mkdir data/sm_share/${URL}
+mkdir -p data/sm_comment/${URL}
+mkdir -p data/sm_share/${URL}
 
 #Images Folder :-
-mkdir data/images/${URL}/page_cover/
+mkdir -p data/images/${URL}/page_cover/
 
 
 #Copy :-
@@ -55,7 +55,7 @@ cp data/utility/sample/new_lesson_course/sm_comment_new_lesson.php data/sm_comme
 cp data/utility/sample/new_lesson_course/sm_share_new_lesson.php data/sm_share/${URL}/sm_share_${PageName}.php
 
 #Images Copy
-cp data/utility/sample/new_lesson_course/page_cover_cursive-handwriting-capital-letters-A-I.png data/images/${URL}/page_cover/${PageName}.png
+cp data/utility/sample/new_lesson_course/page_cover_new_course.png data/images/${URL}/page_cover/${PageName}.png
 
 #Main Page :-
 #courses/english/cursive-handwriting/alphabet-sequence/lesson-1/cursive-handwriting-capital-letters-A-I.php
