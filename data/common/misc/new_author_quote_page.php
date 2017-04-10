@@ -34,7 +34,7 @@ function new_page($currQuoteAutherId,$currentQuoteNumber) {
 <!-- ################################################################################################ -->
 
 <?php 
-    include "../../../data/page_cover/author/$currQuoteAutherId/quotes/page_cover_".$currQuoteAutherId.".php";
+    include "../../../data/page_cover/author/common/quotes/page_cover_common.php";
 	page_cover_fun($currQuoteAutherId,$currentQuoteNumber);
 ?>
 
@@ -42,7 +42,7 @@ function new_page($currQuoteAutherId,$currentQuoteNumber) {
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 
-<?php include "../../../data/sub_page_content/author/$currQuoteAutherId/quotes/sub_page_content_$currQuoteAutherId.php" ;
+<?php include "../../../data/sub_page_content/author/common/quotes/sub_page_content_common.php" ;
 sub_page_content($currQuoteAutherId,$currentQuoteNumber);
     echo "Hello";
 ?>
