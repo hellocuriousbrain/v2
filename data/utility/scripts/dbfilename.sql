@@ -8,4 +8,4 @@ insert into authorNumber values('0410',1);
 insert into authorRecord (date_val,name,numberOfQuotes,author_id) values('0403','George Herbert',2,'George_Herbert');
 insert into authorRecord (date_val,name,numberOfQuotes,author_id) values('0405','Thomas Hobbes',3,'Thomas_Hobbes');
 insert into authorRecord (date_val,name,numberOfQuotes,author_id) values('0405','Bette Davis',1,'Bette_Davis');
-insert into authorRecord (date_val,name,numberOfQuotes,author_id) values('0410','William Hazlitt',1,'William_Hazlitt');
+insert into authorRecord (date_val,name,numberOfQuotes,author_id) values('0410','William Hazlitt',1,'William-Hazlitt');
