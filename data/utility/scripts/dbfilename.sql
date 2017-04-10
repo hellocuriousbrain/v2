@@ -4,6 +4,8 @@ CREATE TABLE authorNumber ( date_val VARCHAR(10) NOT NULL , number INT(10), PRIM
 CREATE TABLE authorRecord ( uniqueId int(10) NOT NULL AUTO_INCREMENT, date_val VARCHAR(10), name VARCHAR(50),  numberOfQuotes int(10), author_id VARCHAR(50) NOT NULL, PRIMARY KEY (uniqueId,author_id) );
 insert into authorNumber values('0403',1);
 insert into authorNumber values('0405',2);
+insert into authorNumber values('0410',1);
 insert into authorRecord (date_val,name,numberOfQuotes,author_id) values('0403','George Herbert',2,'George_Herbert');
 insert into authorRecord (date_val,name,numberOfQuotes,author_id) values('0405','Thomas Hobbes',3,'Thomas_Hobbes');
 insert into authorRecord (date_val,name,numberOfQuotes,author_id) values('0405','Bette Davis',1,'Bette_Davis');
+insert into authorRecord (date_val,name,numberOfQuotes,author_id) values('0410','William Hazlitt',1,'William_Hazlitt');

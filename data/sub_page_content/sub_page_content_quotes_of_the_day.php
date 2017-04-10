@@ -86,7 +86,7 @@
                     <li class="fl_right"> <a class="font_size_30" href="../../../../author/<?php echo $authorId ?>/quotes/<?php echo $authorId ?>.php">By <?php echo $authorName ?></a></li>
                     </ul>
                     <hr class="quotes_main">
-                    <a href="../../../../author/<?php echo $authorId ?>/quotes/1/<?php echo $authorId ?>.php"><img class="imgl borderedbox inspace-5" src="../data/images/author/<?php echo $authorId ?>/quotes/1/<?php echo $authorId ?>_Quotes.jpg" alt=""></a>
+                    <a href="../../../../author/<?php echo $authorId ?>/quotes/1/<?php echo $authorId ?>.php"><img class="imgl borderedbox inspace-5" src="../data/images/author/<?php echo $authorId ?>/quotes/1/<?php echo $authorId ?>-Quotes.jpg" alt=""></a>
                     <p class="font_size_30 center">
                     <?php include "../data/author/$authorId/quotes/1/$authorId.php"; ?>
 
