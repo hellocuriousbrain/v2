@@ -5,11 +5,13 @@ CREATE TABLE authorRecord ( uniqueId int(10) NOT NULL AUTO_INCREMENT, date_val V
 insert into authorNumber values('0403',1);
 insert into authorNumber values('0405',2);
 insert into authorNumber values('0406',1);
+insert into authorNumber values('0407',1);
 insert into authorNumber values('0410',1);
 insert into authorNumber values('0411',1);
 insert into authorRecord (date_val,name,numberOfQuotes,author_id) values('0403','George Herbert',2,'George_Herbert');
 insert into authorRecord (date_val,name,numberOfQuotes,author_id) values('0405','Thomas Hobbes',3,'Thomas_Hobbes');
 insert into authorRecord (date_val,name,numberOfQuotes,author_id) values('0405','Bette Davis',1,'Bette_Davis');
 insert into authorRecord (date_val,name,numberOfQuotes,author_id) values('0406','Alexander Herzen',3,'Alexander-Herzen');
+insert into authorRecord (date_val,name,numberOfQuotes,author_id) values('0407','Jackie Chan',3,'Jackie-Chan');
 insert into authorRecord (date_val,name,numberOfQuotes,author_id) values('0410','William Hazlitt',1,'William-Hazlitt');
 insert into authorRecord (date_val,name,numberOfQuotes,author_id) values('0411','Andrew Wiles',3,'Andrew-Wiles');

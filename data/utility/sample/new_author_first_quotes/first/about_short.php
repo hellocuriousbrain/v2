@@ -1,2 +1,0 @@
-Aleksandr Ivanovich Herzen was a Russian writer and thinker known as the "father of Russian socialism" and one of the main fathers of agrarian populism.
-He is known as the "father of Russian socialism," although his actual philosophy is not that easy to characterize. He was as much anarchist as socialist, although at bottom they were both influenced by the positivism of the era which held that social transformation would create the good society and good citizenry.
