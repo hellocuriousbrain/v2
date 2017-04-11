@@ -44,7 +44,6 @@ function new_page($currQuoteAutherId,$currentQuoteNumber) {
 
 <?php include "../../../data/sub_page_content/author/common/quotes/sub_page_content_common.php" ;
 sub_page_content($currQuoteAutherId,$currentQuoteNumber);
-    echo "Hello";
 ?>
     
 <!-- ################################################################################################ -->
