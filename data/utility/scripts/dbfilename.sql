@@ -10,4 +10,4 @@ insert into authorRecord (date_val,name,numberOfQuotes,author_id) values('0403',
 insert into authorRecord (date_val,name,numberOfQuotes,author_id) values('0405','Thomas Hobbes',3,'Thomas_Hobbes');
 insert into authorRecord (date_val,name,numberOfQuotes,author_id) values('0405','Bette Davis',1,'Bette_Davis');
 insert into authorRecord (date_val,name,numberOfQuotes,author_id) values('0410','William Hazlitt',1,'William-Hazlitt');
-insert into authorRecord (date_val,name,numberOfQuotes,author_id) values('0411','Andrew Wiles',1,'Andrew-Wiles');
+insert into authorRecord (date_val,name,numberOfQuotes,author_id) values('0411','Andrew Wiles',2,'Andrew-Wiles');

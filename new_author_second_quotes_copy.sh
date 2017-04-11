@@ -16,11 +16,6 @@ cp ${SampleURL}/new_author_quotes.php data/${URL}/$2/$1.php
 #Enter Title, Need to Edit
 cp ${SampleURL}/title_new_author_sub.php data/title/${URL}/$2/title_$1.php
 
-#Main Contain, No Need to Edit
-#cp ${SampleURL}/sub_page_content_new_author_sub.php data/sub_page_content/${URL}/$2/sub_page_content_$1.php
-
-#Data, Need to Edit
-cp $3/$1_Quotes.jpg data/images/${URL}/$2/$1-Quotes.jpg
 
 #Social Media Share, Need to Edit
 cp ${SampleURL}/sm_share_new_author_sub.php ${SampleURL}/sm_share_new_author_sub_modify.php 
