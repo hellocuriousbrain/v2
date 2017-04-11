@@ -1,1 +1,0 @@
-William Hazlitt was an English writer, drama and literary critic, painter, social commentator, and philosopher.William Hazlitt is considered as one of the greatest literary critics and essayists.He is recognized as the best art critic of the Romantic period. Hazlitt was a political liberal and wrote expressive defenses of the ideas of the French Revolution.
