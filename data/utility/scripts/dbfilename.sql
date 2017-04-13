@@ -22,10 +22,10 @@ insert into authorRecord (date_val,name,numberOfQuotes,author_id) values('0406',
 insert into authorRecord (date_val,name,numberOfQuotes,author_id) values('0407','Jackie Chan',3,'Jackie-Chan');
 insert into authorRecord (date_val,name,numberOfQuotes,author_id) values('0408','Robert Kiyosaki',3,'Robert-Kiyosaki');
 insert into authorRecord (date_val,name,numberOfQuotes,author_id) values('0409','Charles Baudelaire',3,'Charles-Baudelaire');
-insert into authorRecord (date_val,name,numberOfQuotes,author_id) values('0410','William Hazlitt',1,'William-Hazlitt');
+insert into authorRecord (date_val,name,numberOfQuotes,author_id) values('0410','William Hazlitt',3,'William-Hazlitt');
 insert into authorRecord (date_val,name,numberOfQuotes,author_id) values('0411','Andrew Wiles',3,'Andrew-Wiles');
 insert into authorRecord (date_val,name,numberOfQuotes,author_id) values('0412','Tom Clancy',3,'Tom-Clancy');
-insert into authorRecord (date_val,name,numberOfQuotes,author_id) values('0413','Thomas Jefferson ',3,'Thomas-Jefferson ');
+insert into authorRecord (date_val,name,numberOfQuotes,author_id) values('0413','Thomas Jefferson',3,'Thomas-Jefferson');
 insert into authorRecord (date_val,name,numberOfQuotes,author_id) values('0414','B. R. Ambedkar',3,'B-R-Ambedkar');
 insert into authorRecord (date_val,name,numberOfQuotes,author_id) values('0415','Henry James',3,'Henry-James');
 insert into authorRecord (date_val,name,numberOfQuotes,author_id) values('0416','Charlie Chaplin',3,'Charlie-Chaplin');

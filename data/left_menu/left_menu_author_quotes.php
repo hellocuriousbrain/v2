@@ -31,7 +31,7 @@ function left_menu_fun($currQuoteAutherId, $authorRecordTable,$uniqueIdFieldVal,
     }
     $leftUniqueIdVal++;
 ?>
-        <li><a <?php if ($currentUniqueIdVal == $leftUniqueIdVal) { ?> class="bold" <?php } ?> href="../../../../author/<?php echo $authorLeftId ?>/quotes/<?php echo $authorLeftId ?>.php"><?php echo $authorLeftName ?></a>
+        <li><a <?php if ($currentUniqueIdVal == $leftUniqueIdVal-1) { ?> class="bold" <?php } ?> href="../../../../author/<?php echo $authorLeftId ?>/quotes/<?php echo $authorLeftId ?>.php"><?php echo $authorLeftName ?></a>
           </li>
 
 
