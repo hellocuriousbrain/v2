@@ -1,2 +1,2 @@
-<title> Don't try to be like Jackie. There is only one Jackie. Study computers instead. :- Jackie Chan Quotes - Curious Brain </title>
+<title> Life should be great rather than long. :- B. R. Ambedkar Quotes - Curious Brain </title>
 

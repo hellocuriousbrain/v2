@@ -1,2 +1,2 @@
-<title> Jackie Chan Quotes - Curious Brain </title>
+<title> B. R. Ambedkar Quotes - Curious Brain </title>
 

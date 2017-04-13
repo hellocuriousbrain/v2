@@ -1,2 +1,2 @@
-<title> Cinema reflects culture and there is no harm in adapting technology, but not at the cost of losing your originality. :- Jackie Chan Quotes - Curious Brain </title>
+<title> The more we do, the more we can do; the more busy we are, the more leisure we have.:- William Hazlitt Quotes - Curious Brain </title>
 

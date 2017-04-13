@@ -1,2 +1,1 @@
-Cinema reflects culture and there is no harm in adapting technology, but not at the cost of losing your originality.
-
+The more we do, the more we can do; the more busy we are, the more leisure we have.
