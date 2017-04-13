@@ -15,6 +15,7 @@ insert into authorNumber values('0413',1);
 insert into authorNumber values('0414',1);
 insert into authorNumber values('0415',1);
 insert into authorNumber values('0416',1);
+insert into authorNumber values('0417',1);
 insert into authorRecord (date_val,name,numberOfQuotes,author_id) values('0403','George Herbert',2,'George_Herbert');
 insert into authorRecord (date_val,name,numberOfQuotes,author_id) values('0405','Thomas Hobbes',3,'Thomas_Hobbes');
 insert into authorRecord (date_val,name,numberOfQuotes,author_id) values('0405','Bette Davis',1,'Bette_Davis');
@@ -29,3 +30,4 @@ insert into authorRecord (date_val,name,numberOfQuotes,author_id) values('0413',
 insert into authorRecord (date_val,name,numberOfQuotes,author_id) values('0414','B. R. Ambedkar',3,'B-R-Ambedkar');
 insert into authorRecord (date_val,name,numberOfQuotes,author_id) values('0415','Henry James',3,'Henry-James');
 insert into authorRecord (date_val,name,numberOfQuotes,author_id) values('0416','Charlie Chaplin',3,'Charlie-Chaplin');
+insert into authorRecord (date_val,name,numberOfQuotes,author_id) values('0417','Karen Blixen',3,'Karen-Blixen');

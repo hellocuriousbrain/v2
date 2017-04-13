@@ -1,0 +1,1 @@
+Baroness Karen Christenze von Blixen-Finecke was a Danish author, also known by the pen name Isak Dinesen, who wrote works in Danish, French and English. She also at times used the pen names Tania Blixen, Osceola, and Pierre Andrézel.
