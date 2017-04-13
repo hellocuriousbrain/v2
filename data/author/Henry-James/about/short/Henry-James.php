@@ -1,0 +1,1 @@
+Henry James, OM (15 April 1843 – 28 February 1916) was an American-born British writer. He is regarded as one of the key figures of 19th-century literary realism. He was the son of Henry James, Sr. and the brother of philosopher and psychologist William James and diarist Alice James.
