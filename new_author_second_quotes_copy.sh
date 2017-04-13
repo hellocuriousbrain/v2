@@ -12,9 +12,11 @@ cp ${SampleURL}/common/new_author_sub.php ${URL}/$2/$1.php
 
 #Enter Quotes, Need to Edit
 cp ${SampleURL}/second/quotes.php data/${URL}/$2/$1.php
+awk 'FNR == 3 {print}' $3/Quotes/$QuotesAuthorId/$QuotesNumber/1.txt > data/${URL}/$QuotesNumber/$QuotesAuthorId.php
 
 #Enter Title, Need to Edit
-cp ${SampleURL}/second/title_sub.php data/title/${URL}/$2/title_$1.php
+awk 'FNR == 1 {print}' $3/Quotes/$QuotesAuthorId/$QuotesNumber/1.txt > data/title/${URL}/$QuotesNumber/title_$QuotesAuthorId.php
+#cp ${SampleURL}/second/title_sub.php data/title/${URL}/$2/title_$1.php
 
 
 #Social Media Share, Need to Edit

@@ -11,15 +11,21 @@ SampleURL=data/utility/sample/new_author_quotes
 cp ${SampleURL}/common/new_author_sub.php ${URL}/$2/$1.php
 cp ${SampleURL}/common/new_author_main.php ${URL}/$1.php
 
+#Enter Title, Need to Edit
+awk 'FNR == 1 {print}' $3/Quotes/$QuotesAuthorId/$QuotesNumber/1.txt > data/title/${URL}/title_$QuotesAuthorId.php
+#cp ${SampleURL}/first/title_main.php data/title/${URL}/title_$1.php
+awk 'FNR == 3 {print}' $3/Quotes/$QuotesAuthorId/$QuotesNumber/1.txt > data/title/${URL}/$QuotesNumber/title_$QuotesAuthorId.php
+#cp ${SampleURL}/first/title_sub.php data/title/${URL}/$2/title_$1.php
+
+
 #Enter Quotes, Need to Edit
-cp ${SampleURL}/first/quotes.php data/${URL}/$2/$1.php
+awk 'FNR == 5 {print}' $3/Quotes/$QuotesAuthorId/$QuotesNumber/1.txt > data/${URL}/$QuotesNumber/$QuotesAuthorId.php
+#cp ${SampleURL}/first/quotes.php data/${URL}/$2/$1.php
 
 #Enter About Author, Need to Edit
-cp ${SampleURL}/first/about_short.php data/author/$1/about/short/$1.php
+awk 'FNR == 7 {print}' $3/Quotes/$QuotesAuthorId/$QuotesNumber/1.txt > data/author/$QuotesAuthorId/about/short/$QuotesAuthorId.php
+#cp ${SampleURL}/first/about_short.php data/author/$1/about/short/$1.php
 
-#Enter Title, Need to Edit
-cp ${SampleURL}/first/title_sub.php data/title/${URL}/$2/title_$1.php
-cp ${SampleURL}/first/title_main.php data/title/${URL}/title_$1.php
 
 #Page Cover, No Need to Edit
 #cp ${SampleURL}/page_cover_new_author.php data/page_cover/${URL}/page_cover_$1.php
