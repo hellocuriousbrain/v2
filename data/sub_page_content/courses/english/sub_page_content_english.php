@@ -56,9 +56,9 @@ A collection of step-by-step lessons covering beginner, intermediate, and advanc
 </p>
 <br>
 <h3 class="heading_h3">
-<a href="../../courses/cursive_handwriting.php">  Cursive HandWriting  </a>
+<a href="../../courses/english/cursive-handwriting/cursive_handwriting.php">  Cursive HandWriting  </a>
 </h3>
-<a href="../../courses/cursive_handwriting.php"><img class="imgl borderedbox inspace-5" src="../../data/images/english/cursive_handwriting/cursive_handwriting_lesson.jpg" alt=""></a>
+<a href="../../courses/english/cursive-handwriting/cursive_handwriting.php"><img class="imgl borderedbox inspace-5" src="../../data/images/english/cursive_handwriting/cursive_handwriting_lesson.jpg" alt=""></a>
 <p>
 
  We are going to explain methods for Cursive handwriting in this session.
@@ -67,7 +67,7 @@ Cursive handwriting is easy if we know how to write, how to move pen to make lin
 
 Cursive hand writing is not only learning letter individually it is about to make 
 
-<a class="btn medium inverse" href="../../courses/cursive_handwriting.php"> READ MORE  »</a>
+<a class="btn medium inverse" href="../../courses/english/cursive-handwriting/cursive_handwriting.php"> READ MORE  »</a>
 
 </p>
 

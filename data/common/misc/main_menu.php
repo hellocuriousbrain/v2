@@ -5,10 +5,10 @@
       <li class="active"><a href="../../../../../index.php">Home</a></li>
       <li><a class="drop" href="../../../../../courses/courses.php">Courses</a>
         <ul>
-          <li><a class="drop" href="../../../../../courses/english.php">English</a>
+          <li><a class="drop" href="../../../../../courses/english/english.php">English</a>
             <ul>
               <li><a href="../../../../../courses/idioms.php">Idioms</a></li>
-              <li><a href="../../../../../courses/cursive_handwriting.php">Cursive Handwriting</a></li>
+              <li><a href="../../../../../courses/english/cursive-handwriting/cursive_handwriting.php">Cursive Handwriting</a></li>
             </ul>
           </li>
         </ul>

@@ -9,7 +9,7 @@
       <p>hellocuriousbrain.com's self-paced video courses are created by the best teachers and designed to help you meet your educational goals.</p>
       <img class="imgl borderedbox inspace-5" src="../data/images/misc/video_tutorials.jpg" alt="">
       <p> They will help you improve your grades, better understand concepts from class, and prepare for tests. </p>
-      <p> We have started with English Topics first. Please go through  <a href="../courses/english.php" title="English Lessons">English Lessons</a>. We have explained lessons through videos and PPTs. Our Videos are uploaded on<a href="https://www.youtube.com/channel/UCfiKJU9biy3dQg-GUfEAwzw" target="_blank"> youtube channel </a>.</p>
+      <p> We have started with English Topics first. Please go through  <a href="../courses/english/english.php" title="English Lessons">English Lessons</a>. We have explained lessons through videos and PPTs. Our Videos are uploaded on<a href="https://www.youtube.com/channel/UCfiKJU9biy3dQg-GUfEAwzw" target="_blank"> youtube channel </a>.</p>
       <p>We will be explaining on more topics in future. Please let us know if any perticuler topic need to added in comment section. </p>
 	<p>  Most video lessons are 10 minutes or less, so you get the information you need in a fast and fun format. </p>
       <div id="comments">
