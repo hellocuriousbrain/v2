@@ -8,12 +8,12 @@
     <ul class="nospace group elements">
       <li class="one_third first">
         <figure><img src="../data/images/index_body_2/Cursive_Handwriting_A_I.jpg" alt="">
-          <figcaption><a href="../courses/cursive_handwriting_lesson_1.php">Lesson # 1</a></figcaption>
+          <figcaption><a href="../courses/english/cursive-handwriting/alphabet-sequence/lesson-1/cursive-handwriting-capital-letters-A-I.php">Lesson # 1</a></figcaption>
         </figure>
       </li>
       <li class="one_third">
         <figure><img src="../data/images/index_body_2/Cursive_Handwriting_J_R.jpg" alt="">
-          <figcaption><a href="../courses/cursive_handwriting_lesson_2.php">Lesson # 2</a></figcaption>
+          <figcaption><a href="../courses/english/cursive-handwriting/alphabet-sequence/lesson-2/cursive-handwriting-capital-letters-J-R.php">Lesson # 2</a></figcaption>
         </figure>
       </li>
       <li class="one_third">
@@ -22,7 +22,7 @@
         </figure>
       </li>
     </ul>
-    <p class="nospace center"><a class="btn" href="../courses/cursive_handwriting.php">Cursive HandWriting Lesson</a></p>
+    <p class="nospace center"><a class="btn" href="../courses/english/cursive-handwriting/cursive_handwriting.php">Cursive HandWriting Lesson</a></p>
     <!-- ################################################################################################ -->
   </div>
 </div>

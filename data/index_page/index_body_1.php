@@ -8,23 +8,23 @@
     </div>
     <ul class="nospace group services">
       <li class="one_third first">
-        <article><a href="#"><i class="fa fa-key"></i></a>
+        <article><a href="../../courses/english/cursive-handwriting/alphabet-sequence/lesson-1/cursive-handwriting-capital-letters-A-I.php"><i class="fa fa-key"></i></a>
           <h1 class="heading_h1">Cursive Handwriting Lesson#1</h1>
           <p>We are going to explain method for Cursive Handwriting from Alphabet A to I.
 
 Beginner can use four line of Notebook. Follow the instructions &hellip;</p>
-          <footer><a href="../../courses/cursive_handwriting_lesson_1.php">Read More &raquo;</a></footer>
+          <footer><a href="../../courses/english/cursive-handwriting/alphabet-sequence/lesson-1/cursive-handwriting-capital-letters-A-I.php">Read More &raquo;</a></footer>
         </article>
       </li>
       <li class="one_third">
-        <article><a href="#"><i class="fa fa-language"></i></a>
+        <article><a href="../../courses/english/cursive-handwriting/alphabet-sequence/lesson-2/cursive-handwriting-capital-letters-J-R.php"><i class="fa fa-language"></i></a>
           <h1 class="heading_h1">Cursive Handwriting Lesson#2</h1>
           <p>We will be explaining Capital letters Cursive handwriting from J to R in this lesson step by step. So stay with us. It is not tough all you have to watch&hellip;</p>
-          <footer><a href="../../courses/cursive_handwriting_lesson_2.php">Read More &raquo;</a></footer>
+          <footer><a href="../../courses/english/cursive-handwriting/alphabet-sequence/lesson-2/cursive-handwriting-capital-letters-J-R.php">Read More &raquo;</a></footer>
         </article>
       </li>
       <li class="one_third">
-        <article><a href="#"><i class="fa fa-laptop"></i></a>
+        <article><a href="../../courses/idioms_lesson_1.php"><i class="fa fa-laptop"></i></a>
           <h1 class="heading_h1">Idioms Lesson # 1</h1>
           <p> #1   Hen Pecked husband = A husband under the control of this wife<br> 
  #2   Be born with a silver spoon = Be born in a rich family
@@ -33,7 +33,7 @@ Beginner can use four line of Notebook. Follow the instructions &hellip;</p>
         </article>
       </li>
       <li class="one_third first">
-        <article><a href="#"><i class="fa fa-bar-chart"></i></a>
+        <article><a href="../../courses/idioms_lesson_2.php"><i class="fa fa-bar-chart"></i></a>
           <h1 class="heading_h1">Idioms Lesson # 2</h1>
           <p>#8  See eye to eye = Do or say something to make things worse
 <br>
@@ -43,7 +43,7 @@ Beginner can use four line of Notebook. Follow the instructions &hellip;</p>
         </article>
       </li>
       <li class="one_third">
-        <article><a href="#"><i class="fa fa-music"></i></a>
+        <article><a href="../../courses/idioms_lesson_3.php"><i class="fa fa-music"></i></a>
           <h1 class="heading_h1">Idioms Lesson # 3</h1>
           <p>
 #15  A baker’s dozen = Thirteen
@@ -57,12 +57,12 @@ Beginner can use four line of Notebook. Follow the instructions &hellip;</p>
         </article>
       </li>
       <li class="one_third">
-        <article><a href="#"><i class="fa fa-bolt"></i></a>
+        <article><a href="../../courses/english/english.php"><i class="fa fa-bolt"></i></a>
           <h1 class="heading_h1">English Learning</h1>
           <p> English might be challenging to learn, But it is easy if we learn in proper way.
 
 Today English is world’s largest used language in different ways either it is  &hellip;</p>
-          <footer><a href="../../courses/english.php">Read More &raquo;</a></footer>
+          <footer><a href="../../courses/english/english.php">Read More &raquo;</a></footer>
         </article>
       </li>
     </ul>

@@ -9,9 +9,9 @@
               <p class="uppercase">Cursive Handwriting</p>
               <h1 class="heading_h1">Steps and Methods for Cursive Handwriting Lesson # 1 </h1>
               <p> We are going to explain method for Cursive Handwriting from Alphabet A to I. Beginner can use four line of Notebook. Follow the instructions and steps </p>
-              <p><a class="btn medium inverse" href="../courses/cursive_handwriting_lesson_1.php">Read More &raquo;</a></p>
+              <p><a class="btn medium inverse" href="../courses/english/cursive-handwriting/alphabet-sequence/lesson-1/cursive-handwriting-capital-letters-A-I.php">Read More &raquo;</a></p>
             </div>
-            <div class="one_half"><a href="../courses/cursive_handwriting_lesson_1.php"><img src="../data/images/slider/Cursive_Handwriting_A_I.jpg" alt=""></a></div>
+            <div class="one_half"><a href="../courses/english/cursive-handwriting/alphabet-sequence/lesson-1/cursive-handwriting-capital-letters-A-I.php"><img src="../data/images/slider/Cursive_Handwriting_A_I.jpg" alt=""></a></div>
           </article>
         </li>
         <li>
@@ -20,9 +20,9 @@
               <p class="uppercase">Cursive Handwriting</p>
               <h1 class="heading_h1">Steps and Methods for Cursive Handwriting Lesson # 2</h1>
               <p>We will be explaining Capital letters Cursive handwriting from J to R in this lesson step by step. So stay with us. It is not tough all you have to watch the video with concentration and then practice.</p>
-              <p><a class="btn medium inverse" href="../courses/cursive_handwriting_lesson_2.php">Read More &raquo;</a></p>
+              <p><a class="btn medium inverse" href="../courses/english/cursive-handwriting/alphabet-sequence/lesson-2/cursive-handwriting-capital-letters-J-R.php">Read More &raquo;</a></p>
             </div>
-            <div class="one_half"><a href="../courses/cursive_handwriting_lesson_2.php"><img src="../data/images/slider/Cursive_Handwriting_J_R.jpg" alt=""></a></div>
+            <div class="one_half"><a href="../courses/english/cursive-handwriting/alphabet-sequence/lesson-2/cursive-handwriting-capital-letters-J-R.php"><img src="../data/images/slider/Cursive_Handwriting_J_R.jpg" alt=""></a></div>
           </article>
         </li>
         <li>

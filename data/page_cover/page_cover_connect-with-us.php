@@ -8,8 +8,8 @@ function page_cover_fun($currpageId) {
     <!-- ################################################################################################ -->
     <ul>
       <li><a href="../../../index.php">Home</a></li>
-      <li><a href="../../About_Us/About_Us.php">About_Us</a></li>
-      <li><a href="../../About_Us/About_Us.php">About_Us</a></li>
+      <li><a href="../../About-Us/About-Us.php">About Us</a></li>
+      <li><a href="../../About-Us/connect-with-us.php">connect with us</a></li>
     </ul>
     <!-- ################################################################################################ -->
   </div>

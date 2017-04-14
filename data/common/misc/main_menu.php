@@ -16,12 +16,12 @@
       <li><a href="../../../../../students/students.php">Students</a></li>
       <li><a href="../../../../../teachers/teachers.php">Teachers</a></li>
       <li><a href="../../../../../parents/parents.php">Parents</a></li>
-      <li><a href="../../../../../quotes/quotes_of_the_day.php">Quotes Of The Day</a></li>
-      <li><a class="drop" href="../../../../../About_Us/About_Us.php">About Us</a>
+      <li><a href="../../../../../quotes/quotes-of-the-day.php">Quotes Of The Day</a></li>
+      <li><a class="drop" href="../../../../../About-Us/About-Us.php">About Us</a>
         <ul>
-	  <li><a href="../../../../../About_Us/About_Us.php"> About Us </a></li>
-	  <li><a href="../../../../../About_Us/privacy_policy.php"> Privacy Policy </a></li>
-	  <li><a href="../../../../../About_Us/connect_with_us.php"> Connect with Us </a></li>
+	  <li><a href="../../../../../About-Us/About-Us.php"> About Us </a></li>
+	  <li><a href="../../../../../About-Us/privacy-policy.php"> Privacy Policy </a></li>
+	  <li><a href="../../../../../About-Us/connect-with-us.php"> Connect with Us </a></li>
         </ul>
       </li>
     </ul>
