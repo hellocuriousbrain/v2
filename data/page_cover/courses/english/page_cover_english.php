@@ -9,7 +9,7 @@ function page_cover_fun($currpageId) {
     <ul>
       <li><a href="../../index.php">Home</a></li>
       <li><a href="../../courses/courses.php">Courses</a></li>
-      <li><a href="../../courses/english.php">English</a></li>
+      <li><a href="../../courses/english/english.php">English</a></li>
     </ul>
     <!-- ################################################################################################ -->
   </div>

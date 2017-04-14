@@ -45,13 +45,13 @@ A collection of step-by-step lessons covering beginner, intermediate, and advanc
 </h2>
 </p>
 <h3 class="heading_h3">
-<a href="../../courses/idioms.php"> Idioms Lesson Plan </a>
+<a href="../../../courses/idioms.php"> Idioms Lesson Plan </a>
 </h3>
-<a href="../../courses/idioms.php"><img class="imgl borderedbox inspace-5" src="../../data/images/english/idioms/world_of_idimos_lessons.jpg" alt=""></a>
+<a href="../../../courses/idioms.php"><img class="imgl borderedbox inspace-5" src="../../data/images/english/idioms/world_of_idimos_lessons.jpg" alt=""></a>
 <p>
  The use of idioms makes communication so effective and powerful whether in listening, speaking, reading, or writing.
  Human brain has tendency to forget things that is not revised and learned properly but when things are revised it becomes true knowledge  
-<a class="btn medium inverse" href="../../courses/idioms.php"> READ MORE  »</a>
+<a class="btn medium inverse" href="../../../courses/idioms.php"> READ MORE  »</a>
 
 </p>
 <br>
@@ -73,7 +73,7 @@ Cursive hand writing is not only learning letter individually it is about to mak
 
       <div id="comments">
         <h2>Write A Comment</h2>
-<div class="fb-comments" data-href="http://www.hellocuriousbrain.com/courses/english.php" data-width="900" data-numposts="5"></div>
+<div class="fb-comments" data-href="http://www.hellocuriousbrain.com/courses/english/english.php" data-width="700" data-numposts="5"></div>
       </div>
       <!-- ################################################################################################ -->
     </div>
@@ -85,7 +85,7 @@ Cursive hand writing is not only learning letter individually it is about to mak
 
 <div id="facebook_share">
     <div class="sm_share">
-        <div class="fb-share-button" data-href="http://www.hellocuriousbrain.com/courses/english.php" data-layout="box_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.hellocuriousbrain.com%2Fcourses%2Fenglish.php&amp;src=sdkpreparse">Share</a></div>
+<div class="fb-share-button" data-href="http://www.hellocuriousbrain.com/courses/english/english.php" data-layout="box_count" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.hellocuriousbrain.com%2Fcourses%2Fenglish%2Fenglish.php&amp;src=sdkpreparse">Share</a></div>
     </div>
 </div>
 

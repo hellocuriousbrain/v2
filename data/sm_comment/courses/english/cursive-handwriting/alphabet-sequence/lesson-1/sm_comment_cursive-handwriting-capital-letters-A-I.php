@@ -1,1 +1,1 @@
-<div class="fb-comments" data-href="http://www.hellocuriousbrain.com/courses/cursive_handwriting_lesson_1.php" data-width="900" data-numposts="5"></div>
+<div class="fb-comments" data-href="http://www.hellocuriousbrain.com/courses/english/cursive-handwriting/alphabet-sequence/lesson-1/cursive-handwriting-capital-letters-A-I.php" data-width="700" data-numposts="5"></div>
