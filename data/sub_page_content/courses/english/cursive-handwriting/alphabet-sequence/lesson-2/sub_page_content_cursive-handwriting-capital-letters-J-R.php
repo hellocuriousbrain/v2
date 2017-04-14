@@ -74,7 +74,8 @@ Please leave comments in below section.
 <!-- / FB share  -->
 <div id="facebook_share">
     <div class="sm_share">
-        <div class="fb-share-button" data-href="http://www.hellocuriousbrain.com/courses/cursive_handwriting_lesson_2.php" data-layout="box_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.hellocuriousbrain.com%2Fcourses%2Fcursive_handwriting_lesson_2.php&amp;src=sdkpreparse">Share</a></div>
+<div class="fb-share-button" data-href="http://www.hellocuriousbrain.com/courses/english/cursive-handwriting/alphabet-sequence/lesson-2/cursive-handwriting-capital-letters-J-R.php" data-layout="box_count" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.hellocuriousbrain.com%2Fcourses%2Fenglish%2Fcursive-handwriting%2Falphabet-sequence%2Flesson-2%2Fcursive-handwriting-capital-letters-J-R.php&amp;src=sdkpreparse">Share</a></div>
+
     </div>
 </div>
 
