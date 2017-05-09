@@ -19,6 +19,7 @@ function left_menu_fun($currpageId, $level1,$level2,$level3) {
                 <ul>
                   <li><a <?php if ($level3 == "121") { ?> class="bold" <?php } ?> href="../../../../../courses/english/cursive-handwriting/alphabet-sequence/lesson-1/cursive-handwriting-capital-letters-A-I.php">Cursive handwriting Lesson #1 </a></li>
                   <li><a <?php if ($level3 == "221") { ?> class="bold" <?php } ?> href="../../../../../courses/english/cursive-handwriting/alphabet-sequence/lesson-2/cursive-handwriting-capital-letters-J-R.php">Cursive handwriting Lesson #2 </a></li>
+                  <li><a <?php if ($level3 == "321") { ?> class="bold" <?php } ?> href="../../../../../courses/english/cursive-handwriting/alphabet-sequence/lesson-3/cursive-handwriting-capital-letters-S-Z.php">Cursive handwriting Lesson #3 </a></li>
                 </ul>
               </li>
             </ul>

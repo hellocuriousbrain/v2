@@ -54,6 +54,10 @@ cp data/utility/sample/new_lesson_course/sub_page_content_new_lesson.php data/su
 cp data/utility/sample/new_lesson_course/sm_comment_new_lesson.php data/sm_comment/${URL}/sm_comment_${PageName}.php
 cp data/utility/sample/new_lesson_course/sm_share_new_lesson.php data/sm_share/${URL}/sm_share_${PageName}.php
 
+#Title :-
+cp data/utility/sample/new_lesson_course/new_title.php data/title/courses/${URL}/title_${PageName}.php
+
+
 #Images Copy
 cp data/utility/sample/new_lesson_course/page_cover_new_course.png data/images/${URL}/page_cover/${PageName}.png
 

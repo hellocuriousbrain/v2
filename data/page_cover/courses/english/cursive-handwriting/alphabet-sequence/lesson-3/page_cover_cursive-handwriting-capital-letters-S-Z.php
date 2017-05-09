@@ -11,9 +11,10 @@ function page_cover_fun($currentCourseName,$currentChapterName, $currentType, $c
       <li><a href="../../../../../courses/courses.php">Courses</a></li>
       <li><a href="../../../../../courses/english/english.php">English</a></li>
       <li><a href="../../../../../courses/english/cursive-handwriting/cursive_handwriting.php">cursive handwriting</a></li>
-      <li><a href="../../../../../courses/english/cursive-handwriting/alphabet-sequence/lesson-1/cursive-handwriting-capital-letters-A-I.php">cursive handwriting lesson#1</a></li>
+      <li><a href="../../../../../courses/english/cursive-handwriting/alphabet-sequence/lesson-3/cursive-handwriting-capital-letters-S-Z.php">cursive handwriting lesson#3</a></li>
     </ul>
     <!-- ################################################################################################ -->
   </div>
 </div>
 <?php } ?>
+
