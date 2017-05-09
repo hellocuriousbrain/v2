@@ -16,7 +16,7 @@
       <li><a href="../../../../../students/students.php">Students</a></li>
       <li><a href="../../../../../teachers/teachers.php">Teachers</a></li>
       <li><a href="../../../../../parents/parents.php">Parents</a></li>
-      <li><a href="../../../../../quotes/quotes-of-the-day.php">Quotes Of The Day</a></li>
+  <!--    <li><a href="../../../../../quotes/quotes-of-the-day.php">Quotes Of The Day</a></li>  -->
       <li><a class="drop" href="../../../../../About-Us/About-Us.php">About Us</a>
         <ul>
 	  <li><a href="../../../../../About-Us/About-Us.php"> About Us </a></li>

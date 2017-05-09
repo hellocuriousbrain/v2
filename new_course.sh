@@ -55,7 +55,7 @@ cp data/utility/sample/new_lesson_course/sm_comment_new_lesson.php data/sm_comme
 cp data/utility/sample/new_lesson_course/sm_share_new_lesson.php data/sm_share/${URL}/sm_share_${PageName}.php
 
 #Title :-
-cp data/utility/sample/new_lesson_course/new_title.php data/title/courses/${URL}/title_${PageName}.php
+cp data/utility/sample/new_lesson_course/new_title.php data/title/${URL}/title_${PageName}.php
 
 
 #Images Copy
