@@ -41,20 +41,20 @@ mkdir -p data/images/${URL}/page_cover/
 
 #Copy :-
 
-#Main File :-
+#Main File :- No edit
 cp data/utility/sample/new_lesson_course/new_lesson.php ${URL}/${PageName}.php
 
-#Page-Cover :-
+#Page-Cover :- Edit
 cp data/utility/sample/new_lesson_course/page_cover_new_lesson.php data/page_cover/${URL}/page_cover_${PageName}.php
 
-#Main Contain 
+#Main Contain :- Edit
 cp data/utility/sample/new_lesson_course/sub_page_content_new_lesson.php data/sub_page_content/${URL}/sub_page_content_${PageName}.php
 
-#Social Media Comments :-
+#Social Media Comments :- Edit
 cp data/utility/sample/new_lesson_course/sm_comment_new_lesson.php data/sm_comment/${URL}/sm_comment_${PageName}.php
 cp data/utility/sample/new_lesson_course/sm_share_new_lesson.php data/sm_share/${URL}/sm_share_${PageName}.php
 
-#Title :-
+#Title :- Edit
 cp data/utility/sample/new_lesson_course/new_title.php data/title/${URL}/title_${PageName}.php
 
 

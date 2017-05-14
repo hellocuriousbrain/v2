@@ -9,10 +9,11 @@ function sub_page_content($currentCourseName,$currentChapterName, $currentType, 
       <!-- ################################################################################################ -->
 
 <?php include "../../../../../data/left_menu/left_menu_english.php";
-    $level1 = "1";
-    $level2 = "21";
-    $level3 = "121";
-	left_menu_fun($currpageId, $level1,$level2,$level3);
+    $level1 = "2";
+    $level2 = "1";
+    $level3 = "1";
+    $chapter = "2";
+	left_menu_fun($currpageId, $level1,$level2,$level3,$chapter);
 ?>
       <div class="sdb_holder">
         
@@ -31,10 +32,6 @@ function sub_page_content($currentCourseName,$currentChapterName, $currentType, 
       <p>
 We are going to explain which letters are vowels and which are consonants.
 </p>
-
-
-      
-
 <h3 class="heading_h3">
 Alphabet
 </h3>

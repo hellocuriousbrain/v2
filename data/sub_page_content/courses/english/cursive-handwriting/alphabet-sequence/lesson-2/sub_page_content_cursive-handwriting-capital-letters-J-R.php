@@ -6,9 +6,10 @@
       <!-- ################################################################################################ -->
 <?php include "../../../../../data/left_menu/left_menu_english.php";
     $level1 = "1";
-    $level2 = "21";
-    $level3 = "221";
-	left_menu_fun($currpageId, $level1,$level2,$level3);
+    $level2 = "1";
+    $level3 = "2";
+    $chapter = "1";
+	left_menu_fun($currpageId, $level1,$level2,$level3,$chapter);
 ?>
 
 

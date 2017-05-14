@@ -10,9 +10,10 @@ function sub_page_content($currentCourseName,$currentChapterName, $currentType, 
 
 <?php include "../../../../../data/left_menu/left_menu_english.php";
     $level1 = "1";
-    $level2 = "21";
-    $level3 = "621";
-	left_menu_fun($currpageId, $level1,$level2,$level3);
+    $level2 = "1";
+    $level3 = "6";
+    $chapter = "1";
+	left_menu_fun($currpageId, $level1,$level2,$level3,$chapter);
 ?>
       <div class="sdb_holder">
         
@@ -30,9 +31,6 @@ function sub_page_content($currentCourseName,$currentChapterName, $currentType, 
 
       <p>
 We are going to explain method for Cursive Handwriting from Alphabet s to z.
-
-
-
 </p>
 
 

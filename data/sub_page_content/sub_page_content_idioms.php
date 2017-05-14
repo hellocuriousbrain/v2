@@ -5,10 +5,11 @@
     <div class="sidebar one_quarter first"> 
       <!-- ################################################################################################ -->
 <?php include "../data/left_menu/left_menu_english.php";
-    $level1 = "1";
-    $level2 = "11";
+    $level1 = "2";
+    $level2 = "19";
     $level3 = "0";
-	left_menu_fun($currpageId, $level1,$level2,$level3);
+    $chapter = "2";
+	left_menu_fun($currpageId, $level1,$level2,$level3,$chapter);
 ?>
 
       <div class="sdb_holder">
