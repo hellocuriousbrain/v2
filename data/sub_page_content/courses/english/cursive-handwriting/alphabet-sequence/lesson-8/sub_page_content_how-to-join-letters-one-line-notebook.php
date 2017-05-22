@@ -11,7 +11,7 @@ function sub_page_content($currentCourseName,$currentChapterName, $currentType, 
 <?php include "../../../../../data/left_menu/left_menu_english.php";
     $level1 = "1";
     $level2 = "1";
-    $level3 = "6";
+    $level3 = "8";
     $chapter = "1";
 	left_menu_fun($currpageId, $level1,$level2,$level3,$chapter);
 ?>
@@ -27,26 +27,23 @@ function sub_page_content($currentCourseName,$currentChapterName, $currentType, 
     <!-- ################################################################################################ -->
     <div class="content three_quarter"> 
       <!-- ################################################################################################ -->
-<div class="center">      <h1> Steps and Methods for Cursive Handwriting Lesson # 6 </h1> </div>
+<div class="center">      <h1> Steps and Methods for Cursive Handwriting Lesson # 8 </h1> </div>
 
       <p>
-We are going to explain method for Cursive Handwriting from Alphabet s to z.
+ We are going to explain method for joining letters in cursive handwriting in one line notebook. 
 </p>
 
 
       <p>
 Beginner can use four line of Notebook. Follow the instructions and steps which is explained in this youtube video. 
 </p>
-      <p>
-s, t, u, v, w, x, y, z alphabet are covered in this video one by one.
-</p>
 
 <br>
 <h2 class="heading_h2">
- Steps and Methods for Cursive Handwriting Lesson #6 in Small Letters s to z are explained in below <a href="https://www.youtube.com/watch?v=qLszIXEBo2k" target="_blank" title="Cursive Handwriting Lessons">youtube Video</a> :-
+ Steps and Methods for Cursive Handwriting Lesson #8 for joining letters in one line notebook are explained in below <a href="https://www.youtube.com/watch?v=uF4W3KXU7j8" target="_blank" title="Cursive Handwriting Lessons">youtube Video</a> :-
 </h2>
 <div class="center">
-<iframe width="320" height="180" src="https://www.youtube.com/embed/qLszIXEBo2k" frameborder="0" allowfullscreen></iframe>
+<iframe width="320" height="180" src="https://www.youtube.com/embed/uF4W3KXU7j8" frameborder="0" allowfullscreen></iframe>
 </div>
 <br>
 <br>

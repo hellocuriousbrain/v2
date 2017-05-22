@@ -15,6 +15,8 @@ function left_menu_fun($currpageId, $level1,$level2,$level3,$chapter) {
                   <li><a <?php if ($level1 == "1" and $level2 == "1" and $level3 == "4") { ?> class="bold" <?php } ?> href="../../../../../courses/english/cursive-handwriting/alphabet-sequence/lesson-4/cursive-handwriting-small-letters-a-i.php">Cursive handwriting Lesson #4 </a></li>
                   <li><a <?php if ($level1 == "1" and $level2 == "1" and $level3 == "5") { ?> class="bold" <?php } ?> href="../../../../../courses/english/cursive-handwriting/alphabet-sequence/lesson-5/cursive-handwriting-small-letters-j-r.php">Cursive handwriting Lesson #5 </a></li>
                   <li><a <?php if ($level1 == "1" and $level2 == "1" and $level3 == "6") { ?> class="bold" <?php } ?> href="../../../../../courses/english/cursive-handwriting/alphabet-sequence/lesson-6/cursive-handwriting-small-letters-s-z.php">Cursive handwriting Lesson #6 </a></li>
+                    <li><a <?php if ($level1 == "1" and $level2 == "1" and $level3 == "7") { ?> class="bold" <?php } ?> href="../../../../../courses/english/cursive-handwriting/alphabet-sequence/lesson-7/how-to-join-letters.php">Cursive handwriting Lesson #7 </a></li>
+                  <li><a <?php if ($level1 == "1" and $level2 == "1" and $level3 == "8") { ?> class="bold" <?php } ?> href="../../../../../courses/english/cursive-handwriting/alphabet-sequence/lesson-8/how-to-join-letters-one-line-notebook.php">Cursive handwriting Lesson #8 </a></li>
             </ul>
 <?php } ?>
           </li>
