@@ -5,20 +5,18 @@
     <div class="sidebar one_quarter first"> 
       <!-- ################################################################################################ -->
 
-<?php include "../../data/left_menu/left_menu_drawing.php";
-    $level1 = "11";
-    $level2 = "0";
-    $level3 = "0";
-    $chapter = "0";
-	left_menu_fun($currpageId, $level1,$level2,$level3,$chapter);
-?>
-      <div class="sdb_holder">
-        
-      </div>
-      <div class="sdb_holder">
-        
-      </div>
-      <!-- ################################################################################################ -->
+        <?php include "../../data/left_menu/left_menu_drawing.php";
+            $level1 = "11";
+            $level2 = "0";
+            $level3 = "0";
+            $chapter = "0";
+	        left_menu_fun($currpageId, $level1,$level2,$level3,$chapter);
+        ?>
+        <div class="sdb_holder">
+        </div>
+        <div class="sdb_holder">
+        </div>
+        <!-- ################################################################################################ -->
     </div>
     <!-- ################################################################################################ -->
     <!-- ################################################################################################ -->
@@ -27,35 +25,50 @@
       <h1> How to Draw </h1>
       <img class="imgr borderedbox inspace-5" src="../../data/images/misc/english_zone.jpg" alt="">
       <p>
-This section covers Drawing learning step by Step with easy tutorials.
-</p>
+            This section covers Drawing learning step by Step with easy tutorials.
+      </p>
       <p>
-Drawing is essential part of personal groath of kids and must curricular activity for anyone.
-
-</p>
+            Drawing is essential part of personal groath of kids and must curricular activity for anyone.
+      </p>
       <img class="imgl borderedbox inspace-5" src="../../data/images/misc/english_is_fun.jpg" alt="">
       <p>
-It is required to draw, to make mind sharp, many more.So we can not avoid to learn draw. Don’t worry we are here to help you.
-We have created drawing lessons using Alphabet.
-</p>
+            It is required to draw, to make mind sharp, many more.So we can not avoid to learn draw. Don’t worry we are here to help you.
+            We have created drawing lessons using Alphabet.
+      </p>
       <p>
-We will provide lesson so that Drawing learning will be easy for you. You will be able to draw easily.
-</p>
-<br>
-      <h2 class="heading_h2">
-A collection of step-by-step lessons covering beginner, intermediate, and advanced topics :-
-</h2>
-</p>
-<h3 class="heading_h3">
-<a href="../../../courses/drawing/drawing-with-letters/drawing-with-letters.php"> Drawing with Lettes </a>
-</h3>
-<a href="../../../courses/drawing/drawing-with-letters/drawing-with-letters.php"><img class="imgl borderedbox inspace-5" src="../../data/images/english/idioms/world_of_idimos_lessons.jpg" alt=""></a>
-<p>
- The use of idioms makes communication so effective and powerful whether in listening, speaking, reading, or writing.
- Human brain has tendency to forget things that is not revised and learned properly but when things are revised it becomes true knowledge  
-<a class="btn medium inverse" href="../../../courses/drawing/drawing-with-letters/drawing-with-letters.php"> READ MORE  »</a>
+            We will provide lesson so that Drawing learning will be easy for you. You will be able to draw easily.
+      </p>
+      <br>
 
-</p>
+      <h3 class="heading_h3">
+            What Drawing Tool Do I need ?
+      </h3>
+ <p>
+            There are so many drawing tools available in market of different brands. You can choose from below list as per your choice.
+      </p>
+ <ul>
+  <li>Sketching and Drawing sheets</li>
+  <li>Coloured Pencils</li>
+  <li>Watercolours</li>
+  <li>Sketch pen</li>
+  <li>Oil crayons</li>
+  <li>Brushes</li>
+</ul> 
+
+      <br>    
+      <h2 class="heading_h2">
+            A collection of step-by-step lessons covering beginner, intermediate, and advanced topics :-
+      </h2>
+      <h3 class="heading_h3">
+            <a href="../../../courses/drawing/drawing-with-letters/drawing-with-letters.php"> Drawing with Lettes </a>
+      </h3>
+      <a href="../../../courses/drawing/drawing-with-letters/drawing-with-letters.php"><img class="imgl borderedbox inspace-5" src="../../data/images/english/idioms/world_of_idimos_lessons.jpg" alt=""></a>
+      <p>
+            Kids learn to draw alphabet in their early stage of education. We have provided lessons to draw differnet things using Alphabats in this section.
+        Kids can use these alphabate to draw easily. First we are providing tutorial using Capital letters. We will use color to make drawing more attractive.
+        
+        <a class="btn medium inverse" href="../../../courses/drawing/drawing-with-letters/drawing-with-letters.php"> READ MORE  »</a>
+      </p>
 
       <div id="comments">
         <h2>Write A Comment</h2>

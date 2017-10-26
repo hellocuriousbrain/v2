@@ -27,42 +27,40 @@
     <!-- ################################################################################################ -->
     <div class="content three_quarter"> 
       <!-- ################################################################################################ -->
-      <h1> Drawing with Letters </h1>
+      <h1> How to Draw using Alphabet </h1>
       <img class="imgr borderedbox inspace-5" src="../../../data/images/courses/english/cursive-handwriting/capital_cursive.jpg" alt="">
-      <p>
-We are going to explain methods for Cursive handwriting in this session.
-
+      <p class="bold">
+How to Teach Kids to Draw Using the Alphabet.
 </p>
       <p>
-Cursive handwriting is easy if we know how to write, how to move pen to make link between letters in continues way. 
+Kids learn Alphabet in their preschool study. They recognise Alphabate easyly and also can draw Alphabates easyly. 
+It is possible to create basic drawing using alphabates. Alphabates can be turns in shapes with easy mathods and tricks.
 </p>
      <p>
-Cursive hand writing is not only learning letter individually it is about to make link between letters in continues way to form a word.
-
+We prepared tutorials to make drawing easy for kids. Kids can just follow some easy instucation and will be able to draw easyly.
+This make kids creative and sharp their brain.
 
 </p>
       <p>
-Beginners can starting practicing using pencil. Because you can use erase if you make mistake and draw it again.
-Ink pen will print  magical writing for the pro.
+We have prepared video tutorials also for this.<a href="https://www.youtube.com/watch?v=6uJg9LrsEsw&list=PL7qb-DIeorTR_VwQZCZy-rLHwn60wxegz" target="_blank" title="Drawing Lessons">Please check playlist for video tutorial here.</a>
 
 </p>
 <h2 class="heading_h2">
-We have divided Cursive handwriting in below lessons :- 
+We have divided Drawing Tutorial in below lessons :- 
 </h2>
 
 <br>
 <h3 class="heading_h3">
-<a href="../../../courses/english/cursive-handwriting/alphabet-sequence/lesson-1/cursive-handwriting-capital-letters-A-I.php"> 
-Steps and Methods for Cursive Handwriting Lesson # 1
+<a href="../../../courses/drawing/drawing-with-letters/capital-letters/lesson-1/drawing-with-letters-A-B.php"> 
+Lesson #1 :- How to Draw Using A and B Letters
 </a>
 </h3>
-<a href="../../../courses/english/cursive-handwriting/alphabet-sequence/lesson-1/cursive-handwriting-capital-letters-A-I.php"><img class="imgl borderedbox inspace-5" src="../../../data/images/courses/english/cursive-handwriting/Cursive_handwriting_lesson_plan_1.jpg" alt=""></a>
+<a href="../../../courses/drawing/drawing-with-letters/capital-letters/lesson-1/drawing-with-letters-A-B.php"><img class="imgl borderedbox inspace-5" src="../../../data/images/courses/english/cursive-handwriting/Cursive_handwriting_lesson_plan_1.jpg" alt=""></a>
 <p>
 
-We are going to explain method for Cursive Handwriting from Alphabet A to I.
-
-Beginner can use four line of Notebook. Follow the instructions and steps 
- <a class="btn medium inverse" href="../../../courses/english/cursive-handwriting/alphabet-sequence/lesson-1/cursive-handwriting-capital-letters-A-I.php"> READ MORE  »</a>
+How to Draw Kite using letter A.How to Draw monkey using letter B. 
+In this lesson we are going to make a kite and a monkey using capital letter A and B.
+ <a class="btn medium inverse" href="../../../courses/drawing/drawing-with-letters/capital-letters/lesson-1/drawing-with-letters-A-B.php"> READ MORE  »</a>
 </p>
 
 <br>

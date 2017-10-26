@@ -27,34 +27,32 @@ function sub_page_content($currentCourseName,$currentChapterName, $currentType, 
     <!-- ################################################################################################ -->
     <div class="content three_quarter"> 
       <!-- ################################################################################################ -->
-<div class="center">      <h1> Steps and Methods for Cursive Handwriting Lesson # 1 </h1> </div>
+<div class="center">      <h1> Lesson # 1 :- How to draw using capital letter A and B  </h1> </div>
 
-      <p>
-We are going to explain method for Cursive Handwriting from Alphabet A to I.
-
-
-
+      <p class="bold">
+How to Draw Kite using letter A ?
 </p>
-
-
-      <p>
-Beginner can use four line of Notebook. Follow the instructions and steps which is explained in this youtube video. 
+      <p class="bold">
+How to Draw Monkey using letter B ?
 </p>
       <p>
-A, B, C, D, E, F, G, H, I alphabet are covered in this video one by one.
+In this lesson we are going to make a kite and a monkey using capital letter A and B.
+</p>
+      <p>
+So friends, what are you waiting for ? Get ready with you tools and let's draw.
 </p>
 
 <br>
 <h2 class="heading_h2">
- Steps and Methods for Cursive Handwriting Lesson #1 in Capital Letters A to I are explained in below <a href="https://www.youtube.com/watch?v=i3mayro0Bsc" target="_blank" title="Cursive Handwriting Lessons">youtube Video</a> :-
+ Steps and Methods for Drawing using A and B are explained in below <a href="https://www.youtube.com/watch?v=6uJg9LrsEsw" target="_blank" title="Drawing Lessons">youtube Video</a> :-
 </h2>
 <div class="center">
-<iframe width="320" height="180" src="https://www.youtube.com/embed/i3mayro0Bsc" frameborder="0" allowfullscreen></iframe>
+<iframe width="320" height="180" src="https://www.youtube.com/embed/6uJg9LrsEsw" frameborder="0" allowfullscreen></iframe>
 </div>
 <br>
 <br>
 <p>
-We hope it will help to improve your cursive handwriting. We will be explaining from J to R in next video lesson.
+We hope it will help to improve your drawing. We will be explaining from C and D in next video lesson.
 </p>
 <p>
 Please leave comments in below section.
