@@ -11,7 +11,7 @@ function page_cover_fun($currentCourseName,$currentChapterName, $currentType, $c
       <li><a href="../../../../../courses/courses.php">Courses</a></li>
       <li><a href="../../../../../courses/drawing/drawing.php">Drawing</a></li>
       <li><a href="../../../../../courses/drawing/drawing-with-letters/drawing-with-letters.php">Drawing with Letters</a></li>
-      <li><a href="../../../../../courses/drawing/drawing-with-letters/capital-letters/lesson-1/drawing-with-letters-A-B.php">Drawing lesson#1</a></li>
+      <li><a href="../../../../../courses/drawing/drawing-with-letters/capital-letters/lesson-2/drawing-with-letters-C-D.php">Drawing lesson#1</a></li>
     </ul>
     <!-- ################################################################################################ -->
   </div>

@@ -64,15 +64,14 @@
       </h3>
       <a href="../../../courses/drawing/drawing-with-letters/drawing-with-letters.php"><img class="imgl borderedbox inspace-5" src="../../data/images/english/idioms/world_of_idimos_lessons.jpg" alt=""></a>
       <p>
-            Kids learn to draw alphabet in their early stage of education. We have provided lessons to draw differnet things using Alphabats in this section.
-        Kids can use these alphabate to draw easily. First we are providing tutorial using Capital letters. We will use color to make drawing more attractive.
-        
+            Kids learn to draw alphabet in their early stage of education. We have provided lessons to draw different things using Alphabets in this section.
+        Kids can use these alphabet to draw easily. First we are providing tutorial using Capital letters. We will use colour to make drawing more attractive.
         <a class="btn medium inverse" href="../../../courses/drawing/drawing-with-letters/drawing-with-letters.php"> READ MORE  »</a>
       </p>
 
       <div id="comments">
         <h2>Write A Comment</h2>
-<div class="fb-comments" data-href="http://www.hellocuriousbrain.com/courses/english/english.php" data-width="700" data-numposts="5"></div>
+<div class="fb-comments" data-href="http://www.hellocuriousbrain.com/courses/drawing/drawing.php" data-width="700" data-numposts="5"></div>
       </div>
       <!-- ################################################################################################ -->
     </div>
@@ -84,7 +83,7 @@
 
 <div id="facebook_share">
     <div class="sm_share">
-<div class="fb-share-button" data-href="http://www.hellocuriousbrain.com/courses/english/english.php" data-layout="box_count" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.hellocuriousbrain.com%2Fcourses%2Fenglish%2Fenglish.php&amp;src=sdkpreparse">Share</a></div>
+<div class="fb-share-button" data-href="http://www.hellocuriousbrain.com/courses/drawing/drawing.php" data-layout="box_count" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.hellocuriousbrain.com%2Fcourses%2Fdrawing%2Fdrawing.php&amp;src=sdkpreparse">Share</a></div>
     </div>
 </div>
 

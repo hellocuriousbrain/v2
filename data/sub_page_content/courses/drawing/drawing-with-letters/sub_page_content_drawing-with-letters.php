@@ -33,13 +33,12 @@
 How to Teach Kids to Draw Using the Alphabet.
 </p>
       <p>
-Kids learn Alphabet in their preschool study. They recognise Alphabate easyly and also can draw Alphabates easyly. 
-It is possible to create basic drawing using alphabates. Alphabates can be turns in shapes with easy mathods and tricks.
+Kids learn Alphabet in their preschool study. They recognise Alphabet easily and also can draw Alphabets easily. 
+It is possible to create basic drawing using alphabets. Alphabets can be turns in shapes with easy methods and tricks.
 </p>
      <p>
-We prepared tutorials to make drawing easy for kids. Kids can just follow some easy instucation and will be able to draw easyly.
+We prepared tutorials to make drawing easy for kids. Kids can just follow some easy instruction and will be able to draw easily.
 This make kids creative and sharp their brain.
-
 </p>
       <p>
 We have prepared video tutorials also for this.<a href="https://www.youtube.com/watch?v=6uJg9LrsEsw&list=PL7qb-DIeorTR_VwQZCZy-rLHwn60wxegz" target="_blank" title="Drawing Lessons">Please check playlist for video tutorial here.</a>
@@ -66,21 +65,24 @@ In this lesson we are going to make a kite and a monkey using capital letter A a
 <br>
 
 <h3 class="heading_h3">
-<a href="../../../courses/english/cursive-handwriting/alphabet-sequence/lesson-2/cursive-handwriting-capital-letters-J-R.php"> 
-Steps and Methods for Cursive Handwriting Lesson # 2
+<a href="../../../courses/drawing/drawing-with-letters/capital-letters/lesson-2/drawing-with-letters-C-D.php"> 
+Lesson #2 :- How to Draw Using C and D Letters
+
 </a>
 </h3>
-<a href="../../../courses/english/cursive-handwriting/alphabet-sequence/lesson-2/cursive-handwriting-capital-letters-J-R.php"><img class="imgl borderedbox inspace-5" src="../../../data/images/courses/english/cursive-handwriting/Cursive_handwriting_lesson_plan_2.jpg" alt=""></a>
+<a href="../../../courses/drawing/drawing-with-letters/capital-letters/lesson-2/drawing-with-letters-C-D.php"><img class="imgl borderedbox inspace-5" src="../../../data/images/courses/english/cursive-handwriting/Cursive_handwriting_lesson_plan_2.jpg" alt=""></a>
 <p>
-We will be explaining Capital letters Cursive handwriting from J to R in this lesson step by step. So stay with us. It is not tough all you have to watch 
+How to Draw Fish using letter C.How to Draw parrot using letter D. 
+In this lesson we are going to make a Fish and a pattot using capital letter C and D.
 
- <a class="btn medium inverse" href="../../../courses/english/cursive-handwriting/alphabet-sequence/lesson-2/cursive-handwriting-capital-letters-J-R.php"> READ MORE  »</a>
+
+ <a class="btn medium inverse" href="../../../courses/drawing/drawing-with-letters/capital-letters/lesson-2/drawing-with-letters-C-D.php"> READ MORE  »</a>
 </p>
 
 
       <div id="comments">
             <h2>Write A Comment</h2>
-<div class="fb-comments" data-href="http://www.hellocuriousbrain.com/courses/english/cursive-handwriting/cursive_handwriting.php" data-width="700" data-numposts="5"></div>
+<div class="fb-comments" data-href="http://www.hellocuriousbrain.com/courses/drawing/drawing-with-letters/drawing-with-letters.php" data-width="700" data-numposts="5"></div>
       </div>
       <!-- ################################################################################################ -->
     </div>
@@ -93,7 +95,7 @@ We will be explaining Capital letters Cursive handwriting from J to R in this le
 <!-- / FB share  -->
 <div id="facebook_share">
     <div class="sm_share">
-<div class="fb-share-button" data-href="http://www.hellocuriousbrain.com/courses/english/cursive-handwriting/cursive_handwriting.php" data-layout="box_count" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.hellocuriousbrain.com%2Fcourses%2Fenglish%2Fcursive-handwriting%2Fcursive_handwriting.php&amp;src=sdkpreparse">Share</a></div>
+<div class="fb-share-button" data-href="http://www.hellocuriousbrain.com/courses/drawing/drawing-with-letters/drawing-with-letters.php" data-layout="box_count" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.hellocuriousbrain.com%2Fcourses%2Fdrawing%2Fdrawing-with-letters%2Fdrawing-with-letters.php&amp;src=sdkpreparse">Share</a></div>
     </div>
 </div>
 
