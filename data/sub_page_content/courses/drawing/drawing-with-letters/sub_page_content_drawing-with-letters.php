@@ -28,7 +28,7 @@
     <div class="content three_quarter"> 
       <!-- ################################################################################################ -->
       <h1> How to Draw using Alphabet </h1>
-      <img class="imgr borderedbox inspace-5" src="../../../data/images/courses/english/cursive-handwriting/capital_cursive.jpg" alt="">
+      <img class="imgr borderedbox inspace-5" src="../../../data/images/courses/drawing/drawing-with-letters/drawing-with-alphabate.jpg" alt="">
       <p class="bold">
 How to Teach Kids to Draw Using the Alphabet.
 </p>
@@ -54,7 +54,7 @@ We have divided Drawing Tutorial in below lessons :-
 Lesson #1 :- How to Draw Using A and B Letters
 </a>
 </h3>
-<a href="../../../courses/drawing/drawing-with-letters/capital-letters/lesson-1/drawing-with-letters-A-B.php"><img class="imgl borderedbox inspace-5" src="../../../data/images/courses/english/cursive-handwriting/Cursive_handwriting_lesson_plan_1.jpg" alt=""></a>
+<a href="../../../courses/drawing/drawing-with-letters/capital-letters/lesson-1/drawing-with-letters-A-B.php"><img class="imgl borderedbox inspace-5" src="../../../data/images/courses/drawing/drawing-with-letters/drawing-using-a-b.jpg" alt=""></a>
 <p>
 
 How to Draw Kite using letter A.How to Draw monkey using letter B. 
@@ -70,7 +70,7 @@ Lesson #2 :- How to Draw Using C and D Letters
 
 </a>
 </h3>
-<a href="../../../courses/drawing/drawing-with-letters/capital-letters/lesson-2/drawing-with-letters-C-D.php"><img class="imgl borderedbox inspace-5" src="../../../data/images/courses/english/cursive-handwriting/Cursive_handwriting_lesson_plan_2.jpg" alt=""></a>
+<a href="../../../courses/drawing/drawing-with-letters/capital-letters/lesson-2/drawing-with-letters-C-D.php"><img class="imgl borderedbox inspace-5" src="../../../data/images/courses/drawing/drawing-with-letters/drawing-with-c-d.jpg" alt=""></a>
 <p>
 How to Draw Fish using letter C.How to Draw parrot using letter D. 
 In this lesson we are going to make a Fish and a pattot using capital letter C and D.

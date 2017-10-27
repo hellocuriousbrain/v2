@@ -23,14 +23,14 @@
     <div class="content three_quarter"> 
       <!-- ################################################################################################ -->
       <h1> How to Draw </h1>
-      <img class="imgr borderedbox inspace-5" src="../../data/images/misc/english_zone.jpg" alt="">
+      <img class="imgr borderedbox inspace-5" src="../../data/images/courses/drawing/parrot-using-d.jpg" alt="">
       <p>
             This section covers Drawing learning step by Step with easy tutorials.
       </p>
       <p>
             Drawing is essential part of personal groath of kids and must curricular activity for anyone.
       </p>
-      <img class="imgl borderedbox inspace-5" src="../../data/images/misc/english_is_fun.jpg" alt="">
+      <img class="imgl borderedbox inspace-5" src="../../data/images/courses/drawing/kite-using-A.jpg" alt="">
       <p>
             It is required to draw, to make mind sharp, many more.So we can not avoid to learn draw. Don’t worry we are here to help you.
             We have created drawing lessons using Alphabet.
@@ -62,12 +62,14 @@
       <h3 class="heading_h3">
             <a href="../../../courses/drawing/drawing-with-letters/drawing-with-letters.php"> Drawing with Lettes </a>
       </h3>
-      <a href="../../../courses/drawing/drawing-with-letters/drawing-with-letters.php"><img class="imgl borderedbox inspace-5" src="../../data/images/english/idioms/world_of_idimos_lessons.jpg" alt=""></a>
+      <a href="../../../courses/drawing/drawing-with-letters/drawing-with-letters.php"><img class="imgl borderedbox inspace-5" src="../../data/images/courses/drawing/drawing-using-letters.jpg" alt=""></a>
       <p>
             Kids learn to draw alphabet in their early stage of education. We have provided lessons to draw different things using Alphabets in this section.
         Kids can use these alphabet to draw easily. First we are providing tutorial using Capital letters. We will use colour to make drawing more attractive.
         <a class="btn medium inverse" href="../../../courses/drawing/drawing-with-letters/drawing-with-letters.php"> READ MORE  »</a>
       </p>
+    <br>
+    <br>
 
       <div id="comments">
         <h2>Write A Comment</h2>
