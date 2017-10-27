@@ -27,7 +27,7 @@ function sub_page_content($currentCourseName,$currentChapterName, $currentType, 
     <!-- ################################################################################################ -->
     <div class="content three_quarter"> 
       <!-- ################################################################################################ -->
-<div class="center">      <h1> Lesson # 1 :- How to draw using capital letter C and D </h1> </div>
+<div class="center">      <h1> Lesson # 2 :- How to draw using capital letter C and D </h1> </div>
 
       <p class="bold">
 How to Draw Fish using letter C ?

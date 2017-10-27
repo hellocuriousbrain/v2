@@ -11,6 +11,8 @@
               <li><a href="../../../../../courses/english/cursive-handwriting/cursive_handwriting.php">Cursive Handwriting</a></li>
             </ul>
           </li>
+          <li><a class="drop" href="../../../../../courses/drawing/drawing.php">Drawing</a>
+          </li>
         </ul>
       </li>
       <li><a href="../../../../../students/students.php">Students</a></li>
