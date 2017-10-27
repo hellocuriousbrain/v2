@@ -28,7 +28,7 @@
     <div class="content three_quarter"> 
       <!-- ################################################################################################ -->
       <h1> How to Draw using Alphabet </h1>
-      <img class="imgr borderedbox inspace-5" src="../../../data/images/courses/drawing/drawing-with-letters/drawing-with-alphabate.jpg" alt="">
+      <img class="imgr borderedbox inspace-5" src="../../../data/images/courses/drawing/drawing-with-letters/drawing-with-alphabate.png" alt="">
       <p class="bold">
 How to Teach Kids to Draw Using the Alphabet.
 </p>
