@@ -11,7 +11,7 @@ function sub_page_content($currentCourseName,$currentChapterName, $currentType, 
 <?php include "../../../../../data/left_menu/left_menu_hindi.php";
     $level1 = "1";
     $level2 = "1";
-    $level3 = "1";
+    $level3 = "6";
     $chapter = "1";
 	left_menu_fun($currpageId, $level1,$level2,$level3,$chapter);
 ?>
@@ -27,10 +27,10 @@ function sub_page_content($currentCourseName,$currentChapterName, $currentType, 
     <!-- ################################################################################################ -->
     <div class="content three_quarter"> 
       <!-- ################################################################################################ -->
-<div class="center">      <h1> Steps and Methods for Hindi Handwriting Lesson # 1 </h1> </div>
+<div class="center">      <h1> Steps and Methods for Hindi Handwriting Lesson # 6 </h1> </div>
 
       <p>
-We are going to explain method for Hindi Handwriting from अ to ऋ .
+We are going to explain method for Hindi Handwriting from त to न .
 </p>
 
 
@@ -40,15 +40,15 @@ Follow the instructions and steps which is explained in this youtube video.
 
 <br>
 <h2 class="heading_h2">
- Steps and Methods for Hindi Handwriting Lesson #1 from अ to ऋ  are explained in below <a href="https://www.youtube.com/watch?v=qLszIXEBo2k" target="_blank" title="Hindi Handwriting Lessons">youtube Video</a> :-
+ Steps and Methods for Hindi Handwriting Lesson #6 from त to न  are explained in below <a href="https://www.youtube.com/watch?v=k0pmZryjrkA" target="_blank" title="Hindi Handwriting Lessons">youtube Video</a> :-
 </h2>
 <div class="center">
-<iframe width="320" height="180" src="https://www.youtube.com/embed/qLszIXEBo2k" frameborder="0" allowfullscreen></iframe>
+<iframe width="320" height="180" src="https://www.youtube.com/embed/k0pmZryjrkA" frameborder="0" allowfullscreen></iframe>
 </div>
 <br>
 <br>
 <p>
-We hope it will help to improve your hindi handwriting. We will be explaining method for Hindi Handwriting from ए to अः  in next video lesson.
+We hope it will help to improve your hindi handwriting. We will be explaining method for Hindi Handwriting from प to म  in next video lesson.
 </p>
 <p>
 Please leave comments in below section.
