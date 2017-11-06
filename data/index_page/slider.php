@@ -9,9 +9,9 @@
               <p class="uppercase">Cursive Handwriting</p>
               <h1 class="heading_h11">Complete Lesson for Cursive Handwriting </h1>
               <p> How to write cursive Handwriting easily ? How to writing Capital Cursive handwriting? How to write small cursive Handwriting? </p>
-              <p><a class="btn medium" href="../courses/english/cursive-handwriting/alphabet-sequence/lesson-1/cursive-handwriting-capital-letters-A-I.php">Read More &raquo;</a></p>
+              <p><a class="btn medium" href="../courses/english/cursive-handwriting/cursive_handwriting.php">Read More &raquo;</a></p>
             </div>
-            <div class="one_half"><a href="../courses/english/cursive-handwriting/alphabet-sequence/lesson-1/cursive-handwriting-capital-letters-A-I.php"><img src="../data/images/slider/Cursive_Handwriting_A_I.jpg" alt=""></a></div>
+            <div class="one_half"><a href="../courses/english/cursive-handwriting/cursive_handwriting.php"><img src="../data/images/slider/Cursive-Handwriting.jpg" alt=""></a></div>
           </article>
         </li>
         <li>
@@ -20,9 +20,9 @@
               <p class="uppercase">Hindi Handwriting</p>
               <h1 class="heading_h11">Tutorial to improve hindi Handwriting </h1>
               <p>How to write beautiful hindi Handwriting easily ? How to improve Hindi Handwriting? Video tutorial for Hindi Handwriting.</p>
-              <p><a class="btn medium inverse" href="../courses/english/cursive-handwriting/alphabet-sequence/lesson-2/cursive-handwriting-capital-letters-J-R.php">Read More &raquo;</a></p>
+              <p><a class="btn medium inverse" href="../courses/hindi/hindi-handwriting/hindi-handwriting.php">Read More &raquo;</a></p>
             </div>
-            <div class="one_half"><a href="../courses/english/cursive-handwriting/alphabet-sequence/lesson-2/cursive-handwriting-capital-letters-J-R.php"><img src="../data/images/slider/Cursive_Handwriting_J_R.jpg" alt=""></a></div>
+            <div class="one_half"><a href="../courses/hindi/hindi-handwriting/hindi-handwriting.php"><img src="../data/images/slider/Hindi-Varnamala.jpg" alt=""></a></div>
           </article>
         </li>
         <li>

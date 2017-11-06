@@ -11,6 +11,11 @@
               <li><a href="../../../../../courses/english/cursive-handwriting/cursive_handwriting.php">Cursive Handwriting</a></li>
             </ul>
           </li>
+            <li><a class="drop" href="../../../../../courses/hindi/hindi.php">Hindi</a>
+            <ul>
+              <li><a href="../../../../../courses/hindi/hindi-handwriting/hindi-handwriting.php">Hindi Handwriting</a></li>
+            </ul>
+          </li>
           <li><a class="drop" href="../../../../../courses/drawing/drawing.php">Drawing</a>
           </li>
         </ul>

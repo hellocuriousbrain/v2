@@ -11,7 +11,7 @@ function page_cover_fun($currentCourseName,$currentChapterName, $currentType, $c
       <li><a href="../../../../../courses/courses.php">Courses</a></li>
       <li><a href="../../../../../courses/<?php echo$currentCourseName ?>/<?php echo$currentCourseName?>.php">Hindi</a></li>
       <li><a href="../../../../../courses/<?php echo$currentCourseName ?>/<?php echo$currentChapterName ?>/<?php echo$currentChapterName ?>.php">Hindi handwriting</a></li>
-      <li><a href="../../../../../courses/<?php echo$currentCourseName ?>/<?php echo$currentChapterName ?>/<?php echo$currentType ?>/<?php echo$currentLessonNumber ?>/<?php echo$currpageId ?>.php">Hindi handwriting lesson#1</a></li>
+      <li><a href="../../../../../courses/<?php echo$currentCourseName ?>/<?php echo$currentChapterName ?>/<?php echo$currentType ?>/<?php echo$currentLessonNumber ?>/<?php echo$currpageId ?>.php">Hindi handwriting lesson#2</a></li>
     </ul>
     <!-- ################################################################################################ -->
   </div>

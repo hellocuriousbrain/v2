@@ -59,7 +59,7 @@ cp data/utility/sample/new_lesson_course/new_title.php data/title/${URL}/title_$
 
 
 #Images Copy
-cp data/utility/sample/new_lesson_course/page_cover_new_course.png data/images/${URL}/page_cover/${PageName}.png
+cp data/utility/sample/new_lesson_course/page_cover_new_course.jpg data/images/${URL}/page_cover/${PageName}.jpg
 
 #Main Page :-
 #courses/english/cursive-handwriting/alphabet-sequence/lesson-1/cursive-handwriting-capital-letters-A-I.php
