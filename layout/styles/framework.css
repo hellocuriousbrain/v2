@@ -51,6 +51,7 @@ img{width:auto; max-width:100%; height:auto; margin:0; padding:0; border:none; l
 /* Fonts
 --------------------------------------------------------------------------------------------------------------- */
 body, input, textarea, select{font-family: 'Open Sans', sans-serif;}
+h1, .heading_h11{font-family: 'Pangolin', cursive;}
 h1, .heading_h1{font-family: 'Pangolin', cursive;}
 h2, .heading_h2{font-family: 'Pangolin', cursive;}
 h3, .heading_h3{font-family: 'Pangolin', cursive;}
@@ -74,6 +75,7 @@ label{margin-bottom:5px;}
 
 /* Generalise
 --------------------------------------------------------------------------------------------------------------- */
+h1, .heading_h11{margin:0 0 20px 0; font-size:48px; line-height:normal; font-weight:normal;color:#FFFFFF;}
 h1, .heading_h1{margin:0 0 20px 0; font-size:32px; line-height:normal; font-weight:normal;color:#8A0C0C;}
 h2, .heading_h2{margin:0 0 20px 0; font-size:24px; line-height:normal; font-weight:normal;color:#8A0C0C;}
 h3, .heading_h3{margin:0 0 20px 0; font-size:20px; line-height:normal; font-weight:normal;color:#8A0C0C;}

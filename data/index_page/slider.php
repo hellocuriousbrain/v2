@@ -7,9 +7,9 @@
           <article class="group">
             <div class="one_half first">
               <p class="uppercase">Cursive Handwriting</p>
-              <h1 class="heading_h1">Steps and Methods for Cursive Handwriting Lesson # 1 </h1>
-              <p> We are going to explain method for Cursive Handwriting from Alphabet A to I. Beginner can use four line of Notebook. Follow the instructions and steps </p>
-              <p><a class="btn medium inverse" href="../courses/english/cursive-handwriting/alphabet-sequence/lesson-1/cursive-handwriting-capital-letters-A-I.php">Read More &raquo;</a></p>
+              <h1 class="heading_h11">Complete Lesson for Cursive Handwriting </h1>
+              <p> How to write cursive Handwriting easily ? How to writing Capital Cursive handwriting? How to write small cursive Handwriting? </p>
+              <p><a class="btn medium" href="../courses/english/cursive-handwriting/alphabet-sequence/lesson-1/cursive-handwriting-capital-letters-A-I.php">Read More &raquo;</a></p>
             </div>
             <div class="one_half"><a href="../courses/english/cursive-handwriting/alphabet-sequence/lesson-1/cursive-handwriting-capital-letters-A-I.php"><img src="../data/images/slider/Cursive_Handwriting_A_I.jpg" alt=""></a></div>
           </article>
@@ -17,9 +17,9 @@
         <li>
           <article class="group">
             <div class="one_half first">
-              <p class="uppercase">Cursive Handwriting</p>
-              <h1 class="heading_h1">Steps and Methods for Cursive Handwriting Lesson # 2</h1>
-              <p>We will be explaining Capital letters Cursive handwriting from J to R in this lesson step by step. So stay with us. It is not tough all you have to watch the video with concentration and then practice.</p>
+              <p class="uppercase">Hindi Handwriting</p>
+              <h1 class="heading_h11">Tutorial to improve hindi Handwriting </h1>
+              <p>How to write beautiful hindi Handwriting easily ? How to improve Hindi Handwriting? Video tutorial for Hindi Handwriting.</p>
               <p><a class="btn medium inverse" href="../courses/english/cursive-handwriting/alphabet-sequence/lesson-2/cursive-handwriting-capital-letters-J-R.php">Read More &raquo;</a></p>
             </div>
             <div class="one_half"><a href="../courses/english/cursive-handwriting/alphabet-sequence/lesson-2/cursive-handwriting-capital-letters-J-R.php"><img src="../data/images/slider/Cursive_Handwriting_J_R.jpg" alt=""></a></div>
@@ -28,12 +28,12 @@
         <li>
           <article class="group">
             <div class="one_half first">
-              <p class="uppercase">Idioms</p>
-              <h1 class="heading_h1">Tips and tricks for Idioms Lesson # 3</h1>
-              <p> #15  A baker’s dozen = Thirteen <br> #16   Spread like wild fire = Rapidly / Quickly  </p>
-              <p><a class="btn medium inverse" href="../courses/idioms_lesson_3.php">Read More &raquo;</a></p>
+              <p class="uppercase">Drawing</p>
+              <h1 class="heading_h11">How to teach kids to Draw using Letters ?</h1>
+              <p>Drawing for kids with letters in easy steps. The complete tutorial for drawing from A to Z. Video tutorials are also available. </p>
+              <p><a class="btn medium inverse" href="../courses/drawing/drawing.php">Read More &raquo;</a></p>
             </div>
-            <div class="one_half"><a href="../courses/idioms_lesson_3.php"><img src="../data/images/slider/Speak_of_the_devil.jpeg" alt=""></a></div>
+            <div class="one_half"><a href="../courses/drawing/drawing.php"><img src="../data/images/slider/Speak_of_the_devil.jpeg" alt=""></a></div>
           </article>
         </li>
       </ul>
