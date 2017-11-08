@@ -1,4 +1,4 @@
-<div class="wrapper row2">
+<div class="nav-container row2">
   <nav id="mainav" class="hoc clear"> 
     <!-- ################################################################################################ -->
     <ul class="clear">

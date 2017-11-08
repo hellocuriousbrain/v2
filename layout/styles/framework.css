@@ -99,6 +99,8 @@ hr{display:block; width:100%; height:1px; border:solid; border-width:1px 0 0 0;}
 .font-x3{font-size:2.8rem;}
 
 .wrapper{display:block; width:100%; margin:0; padding:0; text-align:left; word-wrap:break-word;}
+.nav-container{ background: url('images/nav_bg.jpg') repeat-x 0 0;}
+	.f-nav{ z-index: 9999; position: fixed; left: 0; top: 0; width: 100%;} /* this make our menu fixed top */
 /*
 The "hoc" class is a generic class used to centre a containing element horizontally
 It should be used in conjunction with a second class or ID
