@@ -3,66 +3,64 @@
     <!-- main body -->
     <!-- ################################################################################################ -->
     <div class="center btmspace-50">
-      <h3 class="font-x2 nospace">Tips and Tricks</h3>
+      <h3 class="font-x2 nospace">Tutorials </h3>
       <p class="nospace">Tips and tricks Lessons with examples </p>
     </div>
     <ul class="nospace group services">
       <li class="one_third first">
-        <article><a href="../../courses/english/cursive-handwriting/alphabet-sequence/lesson-1/cursive-handwriting-capital-letters-A-I.php"><i class="fa fa-key"></i></a>
-          <h1 class="heading_h1">Cursive Handwriting Lesson#1</h1>
-          <p>We are going to explain method for Cursive Handwriting from Alphabet A to I.
+        <article><a href="../../courses/english/cursive-handwriting/cursive_handwriting.php"><i class="fa fa-key"></i></a>
+          <h1 class="heading_h1">Cursive Handwriting</h1>
+          <p>This section contain complete tutorial for Cursive Handwriting.
 
-Beginner can use four line of Notebook. Follow the instructions &hellip;</p>
-          <footer><a href="../../courses/english/cursive-handwriting/alphabet-sequence/lesson-1/cursive-handwriting-capital-letters-A-I.php">Read More &raquo;</a></footer>
+Cursive Handwriting is not tough if you learn it in proper way &hellip;</p>
+          <footer><a href="../../courses/english/cursive-handwriting/cursive_handwriting.php">Read More &raquo;</a></footer>
         </article>
       </li>
       <li class="one_third">
-        <article><a href="../../courses/english/cursive-handwriting/alphabet-sequence/lesson-2/cursive-handwriting-capital-letters-J-R.php"><i class="fa fa-language"></i></a>
-          <h1 class="heading_h1">Cursive Handwriting Lesson#2</h1>
-          <p>We will be explaining Capital letters Cursive handwriting from J to R in this lesson step by step. So stay with us. It is not tough all you have to watch&hellip;</p>
-          <footer><a href="../../courses/english/cursive-handwriting/alphabet-sequence/lesson-2/cursive-handwriting-capital-letters-J-R.php">Read More &raquo;</a></footer>
+        <article><a href="../../courses/hindi/hindi-handwriting/hindi-handwriting.php"><i class="fa fa-language"></i></a>
+          <h1 class="heading_h1">Hindi Handwriting</h1>
+          <p>This section contain complete tutorial for Hindi Handwriting. Complete video tutorial is also available for all lessons&hellip;</p>
+          <footer><a href="../../courses/hindi/hindi-handwriting/hindi-handwriting.php">Read More &raquo;</a></footer>
         </article>
       </li>
       <li class="one_third">
-        <article><a href="../../courses/idioms_lesson_1.php"><i class="fa fa-laptop"></i></a>
-          <h1 class="heading_h1">Idioms Lesson # 1</h1>
-          <p> #1   Hen Pecked husband = A husband under the control of this wife<br> 
- #2   Be born with a silver spoon = Be born in a rich family
+        <article><a href="../../courses/drawing/drawing-with-letters/drawing-with-letters.php"><i class="fa fa-laptop"></i></a>
+          <h1 class="heading_h1">Drawing with letters</h1>
+          <p>  How to Teach Kids to Draw Using the Alphabet. <br> 
+Easy Drawing tutorial step by Step .
   &hellip;</p>
-          <footer><a href="../../courses/idioms_lesson_1.php">Read More &raquo;</a></footer>
+          <footer><a href="../../courses/drawing/drawing-with-letters/drawing-with-letters.php">Read More &raquo;</a></footer>
         </article>
       </li>
       <li class="one_third first">
-        <article><a href="../../courses/idioms_lesson_2.php"><i class="fa fa-bar-chart"></i></a>
-          <h1 class="heading_h1">Idioms Lesson # 2</h1>
-          <p>#8  See eye to eye = Do or say something to make things worse
+        <article><a href="../../courses/english/grammar/grammar.php"><i class="fa fa-bar-chart"></i></a>
+          <h1 class="heading_h1"> English Grammar </h1>
+          <p> We are going to teach english grammar lessons in this session. 
 <br>
 
-#9   A gift of the gab = Talent for speaking/Ability to speak&hellip;</p>
-          <footer><a href="../../courses/idioms_lesson_2.php">Read More &raquo;</a></footer>
+We have divided English Grammar in Easy lessons&hellip;</p>
+          <footer><a href="../../courses/english/grammar/grammar.php">Read More &raquo;</a></footer>
         </article>
       </li>
       <li class="one_third">
-        <article><a href="../../courses/idioms_lesson_3.php"><i class="fa fa-music"></i></a>
-          <h1 class="heading_h1">Idioms Lesson # 3</h1>
+        <article><a href="../../students/students.php"><i class="fa fa-music"></i></a>
+          <h1 class="heading_h1">Students </h1>
           <p>
-#15  A baker’s dozen = Thirteen
+In this section we will be writing Tips and Advice for students.
 
 <br>
-#16   Spread like wild fire = Rapidly / Quickly
-<br>
-#17   Wet behind the ears
+ We will provide guideline to students to resolve common Problems in effective way. 
 &hellip;</p>
-          <footer><a href="../../courses/idioms_lesson_3.php">Read More &raquo;</a></footer>
+          <footer><a href="../../students/students.php">Read More &raquo;</a></footer>
         </article>
       </li>
       <li class="one_third">
-        <article><a href="../../courses/english/english.php"><i class="fa fa-bolt"></i></a>
-          <h1 class="heading_h1">English Learning</h1>
-          <p> English might be challenging to learn, But it is easy if we learn in proper way.
+        <article><a href="../../parents/parents.php"><i class="fa fa-bolt"></i></a>
+          <h1 class="heading_h1">Parenting</h1>
+          <p>  “Train a child in the way he should go, and when he is old he will not turn from it” . 
 
-Today English is world’s largest used language in different ways either it is  &hellip;</p>
-          <footer><a href="../../courses/english/english.php">Read More &raquo;</a></footer>
+Today Your valuable involvement will certainly enhance Child-parent performance. &hellip;</p>
+          <footer><a href="../../parents/parents.php">Read More &raquo;</a></footer>
         </article>
       </li>
     </ul>
