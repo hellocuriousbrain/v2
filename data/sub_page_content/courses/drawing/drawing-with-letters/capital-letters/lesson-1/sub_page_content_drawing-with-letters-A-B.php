@@ -156,7 +156,10 @@ Please leave comments in below section.
 
       <div id="comments">
         <h2>Write A Comment</h2>
-            <?php include "../../../../../data/sm_comment/courses/$currentCourseName/$currentChapterName/$currentType/$currentLessonNumber/sm_comment_$currpageId.php"; ?>
+<?php include "../../../../../data/sm_comment/l5-section/sm_comment_new_lesson.php"; 
+        sub_page_comment($currentCourseName,$currentChapterName,$currentType,$currentLessonNumber,  $currpageId)
+            ?>
+
       </div>
       <!-- ################################################################################################ -->
     </div>
@@ -170,7 +173,9 @@ Please leave comments in below section.
 <!-- / FB share  -->
 <div id="facebook_share">
     <div class="sm_share">
-            <?php include "../../../../../data/sm_share/courses/$currentCourseName/$currentChapterName/$currentType/$currentLessonNumber/sm_share_$currpageId.php"; ?>
+            <?php include "../../../../../data/sm_share/l5-section/sm_share_new_lesson.php"; 
+        sub_page_share($currentCourseName,$currentChapterName,$currentType,$currentLessonNumber,  $currpageId)
+?>
     </div>
 </div>
 

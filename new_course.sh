@@ -22,8 +22,8 @@ URL=courses/$CourseName/$ChapterName/$CourseType/$LessonNumber/
 #Main File 
 mkdir -p ${URL}
 
-#title
-mkdir -p data/title/${URL}
+#metadata
+mkdir -p data/metadata/${URL}
 
 #Page Cover
 mkdir -p data/page_cover/${URL}
@@ -55,7 +55,7 @@ cp data/utility/sample/new_lesson_course/sub_page_content_new_lesson.php data/su
 #cp data/utility/sample/new_lesson_course/sm_share_new_lesson.php data/sm_share/${URL}/sm_share_${PageName}.php
 
 #Title :- Edit
-cp data/utility/sample/new_lesson_course/new_title.php data/title/${URL}/title_${PageName}.php
+cp data/utility/sample/new_lesson_course/new_metadata.php data/metadata/${URL}/metadata_${PageName}.php
 
 
 #Images Copy

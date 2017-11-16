@@ -9,6 +9,6 @@
     $currentLessonNumber = $folders[5];
 	$currpage = substr($_SERVER["SCRIPT_NAME"],strrpos($_SERVER["SCRIPT_NAME"],"/")+1);
 	$currpageId = substr($currpage, 0 , -4);
-	include '../../../../../data/common/misc/new_drawing-with-capital-letters_sub_page.php';
+	include '../../../../../data/common/misc/l5_sub_page.php';
 	new_page($currentCourseName,$currentChapterName, $currentType, $currentLessonNumber, $currpageId); 
 ?>

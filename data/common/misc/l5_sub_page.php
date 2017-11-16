@@ -5,8 +5,11 @@ function new_page($currentCourseName,$currentChapterName, $currentType, $current
 <!DOCTYPE html>
 <html>
 <head>
-<?php include "./../../../../../data/title/courses/$currentCourseName/$currentChapterName/$currentType/$currentLessonNumber/title_".$currpageId.".php" ?>
-<?php include 'head.php' ?>
+<?php 
+    include "./../../../../../data/metadata/courses/$currentCourseName/$currentChapterName/$currentType/$currentLessonNumber/metadata_".$currpageId.".php"; 
+metadata($currentCourseName,$currentChapterName, $currentType, $currentLessonNumber, $currpageId)
+?>
+<?php include 'head-css.php' ?>
 </head>
 <body id="top">
 <?php include_once("./../../../../../data/common/misc/analyticstracking.php") ?>
