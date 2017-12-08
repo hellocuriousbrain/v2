@@ -11,7 +11,7 @@ function sub_page_content($currentCourseName,$currentChapterName, $currentType, 
 <?php include "../../../../../data/left_menu/left_menu_drawing.php";
     $level1 = "1";
     $level2 = "1";
-    $level3 = "1";
+    $level3 = "4";
     $chapter = "1";
 	left_menu_fun($currpageId, $level1,$level2,$level3,$chapter);
 ?>
