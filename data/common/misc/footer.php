@@ -5,7 +5,7 @@
       <h6 class="title">Contact Us</h6>
       <ul class="nospace linklist contact">
         <li><i class="fa fa-facebook-f"></i><div class="fb-page" data-href="https://www.facebook.com/hellocuriousbrain/" data-tabs="timeline" data-width="300" data-height="70" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/hellocuriousbrain/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/hellocuriousbrain/">Curious brain</a></blockquote></div> </li>
-        <li><i class="fa fa-whatsapp"></i> Whatsapp at 7095836066 </li>
+        <li><i class="fa fa-whatsapp"></i> Whatsapp at 7286088022 </li>
         <li><i class="fa fa-envelope-o"></i> hellocuriousbrain@gmail.com</li>
       </ul>
     </div>

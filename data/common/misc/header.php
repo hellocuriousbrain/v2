@@ -7,7 +7,7 @@
     <div id="quickinfo" class="fl_right">
       <ul class="nospace inline">
         <li><strong>Whatsapp at:</strong><br>
-          7095836066</li>
+          7286088022</li>
       </ul>
     </div>
     <!-- ################################################################################################ -->

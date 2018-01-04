@@ -12,7 +12,7 @@
       <p>  
  Follow us on Twitter   </p>
       <p>   Subscribe us on YouTube for video lessons  </p>
-      <p>    Message “Add” on our whats app service 7095836066 for regular updates.   </p>
+      <p>    Message “Add” on our whats app service 7286088022 for regular updates.   </p>
       <p>     Email us on hellocuriousbrain@gmail.com.    </p>
 	
       
