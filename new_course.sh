@@ -32,8 +32,8 @@ mkdir -p data/page_cover/${URL}
 mkdir -p data/sub_page_content/${URL}
 
 #Social Media
-mkdir -p data/sm_comment/${URL}
-mkdir -p data/sm_share/${URL}
+#mkdir -p data/sm_comment/${URL}
+#mkdir -p data/sm_share/${URL}
 
 #Images Folder :-
 mkdir -p data/images/${URL}/page_cover/
@@ -54,7 +54,7 @@ cp data/utility/sample/new_lesson_course/sub_page_content_new_lesson.php data/su
 #cp data/utility/sample/new_lesson_course/sm_comment_new_lesson.php data/sm_comment/${URL}/sm_comment_${PageName}.php
 #cp data/utility/sample/new_lesson_course/sm_share_new_lesson.php data/sm_share/${URL}/sm_share_${PageName}.php
 
-#Title :- Edit
+#Metadata :- Edit
 cp data/utility/sample/new_lesson_course/new_metadata.php data/metadata/${URL}/metadata_${PageName}.php
 
 

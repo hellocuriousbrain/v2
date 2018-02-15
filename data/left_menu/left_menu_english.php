@@ -21,6 +21,23 @@ function left_menu_fun($currpageId, $level1,$level2,$level3,$chapter) {
 <?php } ?>
           </li>
         </ul>
+
+
+
+<ul>
+        <li><a <?php if ($level1 == "3" or $level1 == "11") { ?> class="bold" <?php } ?> href="../../../../../courses/english/english-handwriting/english-handwriting.php">English handwriting</a>
+<?php if ($chapter == "3") { ?>
+            <ul>
+                  <li><a <?php if ($level1 == "3" and $level2 == "1" and $level3 == "1") { ?> class="bold" <?php } ?> href="../../../../../courses/english/english-handwriting/alphabet-sequence/lesson-1/english-handwriting-capital-letters-A-I.php">English handwriting Lesson #1 </a></li>
+                  <li><a <?php if ($level1 == "3" and $level2 == "1" and $level3 == "2") { ?> class="bold" <?php } ?> href="../../../../../courses/english/english-handwriting/alphabet-sequence/lesson-2/english-handwriting-capital-letters-J-R.php">English handwriting Lesson #2 </a></li>
+                  <li><a <?php if ($level1 == "3" and $level2 == "1" and $level3 == "3") { ?> class="bold" <?php } ?> href="../../../../../courses/english/english-handwriting/alphabet-sequence/lesson-3/english-handwriting-capital-letters-S-Z.php">English handwriting Lesson #3 </a></li>
+            </ul>
+<?php } ?>
+          </li>
+        </ul>
+
+
+
 <ul>
         <li><a <?php if ($level1 == "2" or $level1 == "11") { ?> class="bold" <?php } ?> href="../../../../../courses/english/grammar/grammar.php">Grammar</a>
 <?php if ($chapter == "2") { ?>
