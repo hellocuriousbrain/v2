@@ -17,8 +17,8 @@
         </figure>
       </li>
       <li class="one_third">
-        <figure><img src="../data/images/index_body_2/Speak_of_the_devil.jpeg" alt="">
-          <figcaption><a href="../courses/idioms_lesson_1.php">Lesson # 3</a></figcaption>
+        <figure><img src="../data/images/index_body_2/Cursive_Handwriting_S_Z.jpg" alt="">
+          <figcaption><a href="../courses/english/cursive-handwriting/alphabet-sequence/lesson-3/cursive-handwriting-capital-letters-S-Z.php">Lesson # 3</a></figcaption>
         </figure>
       </li>
     </ul>

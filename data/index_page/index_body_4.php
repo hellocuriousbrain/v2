@@ -30,17 +30,17 @@
         <p>We will be explaining Capital letters Cursive handwriting from J to R in this lesson step by step. So stay with us. It is not tough all &hellip;</p>
         <p class="nospace"><a href="../courses/english/cursive-handwriting/alphabet-sequence/lesson-2/cursive-handwriting-capital-letters-J-R.php">Read More &raquo;</a></p>
       </article>
-      <article class="one_third"><a href="../courses/idioms_lesson_3.php"><img class="btmspace-30" src="../data/images/index_body_2/Speak_of_the_devil.jpeg" alt=""></a>
-        <h4 class="nospace btmspace-10 font-x1 uppercase">Idioms Lesson # 3</h4>
+      <article class="one_third"><a href="../courses/english/cursive-handwriting/alphabet-sequence/lesson-3/cursive-handwriting-capital-letters-S-Z.php"><img class="btmspace-30" src="../data/images/index_body_2/Cursive_Handwriting_S_Z.jpg" alt=""></a>
+        <h4 class="nospace btmspace-10 font-x1 uppercase">Cursive Handwriting Lesson # 3</h4>
         <ul class="nospace btmspace-10 group font-xs">
           <li class="fl_left">
             <time datetime="2045-04-04">14<sup>th</sup> March 2017</time>
           </li>
-          <li class="fl_right">by <a href="../courses/idioms_lesson_3.php">Admin</a></li>
+          <li class="fl_right">by <a href="../courses/english/cursive-handwriting/alphabet-sequence/lesson-3/cursive-handwriting-capital-letters-S-Z.php">Admin</a></li>
         </ul>
         <hr>
-        <p>A baker’s dozen,Spread like wild fire,Wet behind the ears,Behind closed doors,Cock and bull story&hellip;</p>
-        <p class="nospace"><a href="../courses/idioms_lesson_3.php">Read More &raquo;</a></p>
+        <p>We will be explaining Capital letters Cursive handwriting from S to Z in this lesson step by step. So stay with us. It is not tough all &hellip;</p>
+        <p class="nospace"><a href="../courses/english/cursive-handwriting/alphabet-sequence/lesson-3/cursive-handwriting-capital-letters-S-Z.php">Read More &raquo;</a></p>
       </article>
     </div>
     <!-- ################################################################################################ -->

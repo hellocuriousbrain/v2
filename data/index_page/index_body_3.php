@@ -3,23 +3,26 @@
     <!-- ################################################################################################ -->
     <li>
       <article>
-        <h1 class="heading_h1">Idioms Lesson # 1</h1>
-        <p>Hen Pecked husband,Be born with a silver spoon,Throw dust into someone eyes,Rub salt into the sound&hellip;</p>
-        <p><a class="btn" href="../courses/english/cursive-handwriting/alphabet-sequence/lesson-1/cursive-handwriting-capital-letters-A-I.php">Lesson # 1</a></p>
+        <h1 class="heading_h1">Hindi Handwriting Lesson # 1</h1>
+        <p> We are going to explain method for Hindi Handwriting from अ to ऋ .
+Follow the instructions and steps which is explained in this youtube video. &hellip;</p>
+        <p><a class="btn" href="../courses/hindi/hindi-handwriting/in-sequence/lesson-1/hindi-handwriting-lesson-1.php">Lesson # 1</a></p>
       </article>
     </li>
     <li>
       <article>
-        <h1 class="heading_h1">Idioms Lesson # 2</h1>
-        <p>See eye to eye,A gift of the gab,By Leaps and bound,To foam at one’s mouth,By fits and starts&hellip;</p>
-        <p><a class="btn inverse" href="../courses/english/cursive-handwriting/alphabet-sequence/lesson-2/cursive-handwriting-capital-letters-J-R.php">Lesson # 2</a></p>
+        <h1 class="heading_h1">Hindi Handwriting Lesson # 2</h1>
+        <p> We are going to explain method for Hindi Handwriting from ए to अः .
+Follow the instructions and steps which is explained in this youtube video. &hellip;</p>
+        <p><a class="btn inverse" href="../courses/hindi/hindi-handwriting/in-sequence/lesson-2/hindi-handwriting-lesson-2.php">Lesson # 2</a></p>
       </article>
     </li>
     <li>
       <article>
-        <h1 class="heading_h1">Idioms Lesson # 3</h1>
-        <p>A baker’s dozen,Spread like wild fire,Wet behind the ears,Behind closed doors,Cock and bull story&hellip;</p>
-        <p><a class="btn" href="../courses/idioms_lesson_3.php">Lesson # 3</a></p>
+        <h1 class="heading_h1">Hindi Handwriting Lesson # 3</h1>
+        <p> We are going to explain method for Hindi Handwriting from क to ङ.
+Follow the instructions and steps which is explained in this youtube video. &hellip;</p>
+        <p><a class="btn" href="../courses/hindi/hindi-handwriting/in-sequence/lesson-3/hindi-handwriting-lesson-3.php">Lesson # 3</a></p>
       </article>
     </li>
     <!-- ################################################################################################ -->
