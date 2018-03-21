@@ -31,6 +31,9 @@ function left_menu_fun($currpageId, $level1,$level2,$level3,$chapter) {
                   <li><a <?php if ($level1 == "3" and $level2 == "1" and $level3 == "1") { ?> class="bold" <?php } ?> href="../../../../../courses/english/english-handwriting/alphabet-sequence/lesson-1/english-handwriting-capital-letters-A-I.php">English handwriting Lesson #1 </a></li>
                   <li><a <?php if ($level1 == "3" and $level2 == "1" and $level3 == "2") { ?> class="bold" <?php } ?> href="../../../../../courses/english/english-handwriting/alphabet-sequence/lesson-2/english-handwriting-capital-letters-J-R.php">English handwriting Lesson #2 </a></li>
                   <li><a <?php if ($level1 == "3" and $level2 == "1" and $level3 == "3") { ?> class="bold" <?php } ?> href="../../../../../courses/english/english-handwriting/alphabet-sequence/lesson-3/english-handwriting-capital-letters-S-Z.php">English handwriting Lesson #3 </a></li>
+                  <li><a <?php if ($level1 == "3" and $level2 == "1" and $level3 == "4") { ?> class="bold" <?php } ?> href="../../../../../courses/english/english-handwriting/alphabet-sequence/lesson-4/english-handwriting-small-letters-a-i.php">English handwriting Lesson #4 </a></li>
+                  <li><a <?php if ($level1 == "3" and $level2 == "1" and $level3 == "5") { ?> class="bold" <?php } ?> href="../../../../../courses/english/english-handwriting/alphabet-sequence/lesson-5/english-handwriting-small-letters-j-r.php">English handwriting Lesson #5 </a></li>
+                  <li><a <?php if ($level1 == "3" and $level2 == "1" and $level3 == "6") { ?> class="bold" <?php } ?> href="../../../../../courses/english/english-handwriting/alphabet-sequence/lesson-6/english-handwriting-small-letters-s-z.php">English handwriting Lesson #6 </a></li>
             </ul>
 <?php } ?>
           </li>
