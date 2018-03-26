@@ -6,9 +6,9 @@ function metadata($currentCourseName,$currentChapterName, $currentType, $current
 
 <!-- General Meta Tags -->
 <!-- Edit -->
-<title>Cursive Handwriting online Lesson # 1 Upper Case from A to I - Curious Brain</title>
-<meta name="Keywords" content="Cursive Handwriting,Online Tutorial,eschool,Curious brain, Upper Case from A to I"/>
-<meta name="description" content="How to write Cursive Handwriting ?. Cursive Handwriting online Lesson # 1 Upper Case from A to I. Cursive Handwriting tutorial in easy steps."/>
+<title>English Handwriting online Lesson # 2 Upper Case from J to R - Curious Brain</title>
+<meta name="Keywords" content="English Handwriting,Online Tutorial,eschool,Curious brain, Upper Case from J to R"/>
+<meta name="description" content="How to write English Handwriting ? English Handwriting online Lesson # 2 Upper Case from J to R. English Handwriting tutorial in easy steps."/>
 <!-- Till Here -->
 
 <link rel="canonical" href="http://www.hellocuriousbrain.com/courses/<?php echo$currentCourseName ?>/<?php echo$currentChapterName ?>/<?php echo$currentType ?>/<?php echo$currentLessonNumber ?>/<?php echo $currpageId  ?>.php" />
@@ -18,8 +18,8 @@ function metadata($currentCourseName,$currentChapterName, $currentType, $current
 <meta property="og:type" content="article" />
 
 <!-- Edit -->
-<meta property="og:title" content="Cursive Handwriting online Lesson # 1 Upper Case from A to I - Curious Brain" />
-<meta property="og:description" content="How to write Cursive Handwriting ?. Cursive Handwriting online Lesson # 1 Upper Case from A to I. Cursive Handwriting tutorial in easy steps." />
+<meta property="og:title" content="English Handwriting online Lesson # 2 Upper Case from J to R - Curious Brain" />
+<meta property="og:description" content="How to write English Handwriting ? English Handwriting online Lesson # 2 Upper Case from J to R. English Handwriting tutorial in easy steps." />
 <!-- Till Here -->
 
 <meta property="og:image" content="http://www.hellocuriousbrain.com/data/images/courses/<?php echo$currentCourseName ?>/<?php echo$currentChapterName ?>/<?php echo$currentType ?>/<?php echo$currentLessonNumber ?>/metadata/og/<?php echo $currpageId  ?>.jpg" />
@@ -43,8 +43,8 @@ function metadata($currentCourseName,$currentChapterName, $currentType, $current
 <meta name="twitter:card" content="summary_large_image" />
 
 <!-- Edit -->
-<meta name="twitter:description" content="How to write Cursive Handwriting ?. Cursive Handwriting online Lesson # 1 Upper Case from A to I. Cursive Handwriting tutorial in easy steps." />
-<meta name="twitter:title" content="Cursive Handwriting online Lesson # 1 Upper Case from A to I - Curious Brain" />
+<meta name="twitter:description" content="How to write English Handwriting ? English Handwriting online Lesson # 2 Upper Case from J to R. English Handwriting tutorial in easy steps." />
+<meta name="twitter:title" content="English Handwriting online Lesson # 2 Upper Case from J to R - Curious Brain" />
 <!-- Till Here -->
 
 <meta name="twitter:site" content="@hicuriousbrain" />
