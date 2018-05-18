@@ -1,4 +1,4 @@
-<div class="wrapper row3">
+<div class="wrapper row3" style="background-image:url('../data/images/index_body_4/index-4-bg.jpg');">
   <div class="hoc container clear"> 
     <!-- ################################################################################################ -->
     <div class="center btmspace-50">

@@ -21,7 +21,9 @@
 #topbar .fl_left{margin-top:4px;}
 #topbar .fl_left .inline > li i{margin:0 5px 0 0; line-height:normal;}
 
-
+.bgimg {
+    background-image: url('../../data/images/index_body_1/Cursive-Handwriting-bg.jpg');
+}
 /* Header
 --------------------------------------------------------------------------------------------------------------- */
 #header{padding:0px 0;}
@@ -188,7 +190,7 @@ nav ul, nav ol{margin:0; padding:0; list-style:none;}
 #mainav form select option{margin:5px; padding:0;}
 
 /* Breadcrumb */
-#breadcrumb{padding:100px 0 20px;height:120px}
+#breadcrumb{padding:100px 0 20px;height:0px}
 #breadcrumb ul{margin:0; padding:0; list-style:none; text-transform:uppercase;}
 #breadcrumb li{display:inline-block; margin:0 6px 0 0; padding:0;}
 #breadcrumb li a{display:block; position:relative; margin:0; padding:0 12px 0 0; font-size:12px;}

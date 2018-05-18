@@ -1,4 +1,4 @@
-<div class="wrapper bgded overlay" style="background-image:url('../data/images/background//02.jpg');">
+<div class="wrapper bgded " style="background-image:url('../data/images/index_body_2/index-2-bg.jpg');">
   <div class="hoc container clear"> 
     <!-- ################################################################################################ -->
     <div class="center btmspace-50">

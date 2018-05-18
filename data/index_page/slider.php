@@ -1,6 +1,64 @@
+
+<div>
+    <div id="main" class="hoc clear"> 
+      <section class="slider">
+        <div class="flexslider carousel">
+          <ul class="slides">
+            <li>
+  	    	    <a href="../courses/english/cursive-handwriting/alphabet-sequence/lesson-1/cursive-handwriting-capital-letters-A-I.php"><img src="../data/images/slider/cursive-handwriting-slider.jpg" /></a>
+  	    		</li>
+  	    		<li>
+  	    	    <img src="../data/images/slider/drawing-handwriting-slider.jpg" />
+  	    		</li>
+  	    		<li>
+  	    	    <img src="../data/images/slider/Hindi-handwriting-slider.jpg" />
+  	    		</li>
+  	    		<li>
+  	    	    <img src="../data/images/slider/english-handwriting-slider.jpg" />
+  	    		</li>
+  	    		<li>
+  	    	    <img src="../data/images/slider/kids-zone-slider.jpg" />
+  	    		</li>
+          </ul>
+        </div>
+      </section>
+    </div>
+
+  </div>
+
+  <!-- jQuery -->
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="js/libs/jquery-1.7.min.js">\x3C/script>')</script>
+
+  <!-- FlexSlider -->
+  <script defer src="./layout/scripts/jquery.flexslider.js"></script>
+
+   <script type="text/javascript">
+    $(function(){
+      SyntaxHighlighter.all();
+    });
+    $(window).load(function(){
+      $('.flexslider').flexslider({
+        animation: "slide",
+        slideshowSpeed: 3000,
+        animationSpeed: 1000, 
+        itemWidth: 210,
+        itemMargin: 5,
+        minItems: 2,
+        maxItems: 4,
+        start: function(slider){
+          $('body').removeClass('loading');
+        }
+      });
+    });
+  </script>
+
+
+
+
+<!-- 
 <div class="wrapper bgded overlay" style="background-image:url('../data/images/background/01.jpg');">
   <div id="pageintro" class="hoc clear"> 
-    <!-- ################################################################################################ -->
     <div class="flexslider basicslider">
       <ul class="slides">
         <li>
@@ -38,7 +96,6 @@
         </li>
       </ul>
     </div>
-    <!-- ################################################################################################ -->
   </div>
 </div>
-
+-->

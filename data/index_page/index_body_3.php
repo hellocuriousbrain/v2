@@ -1,4 +1,4 @@
-<div class="wrapper bgded" style="background-image:url('../data/images/background/03.jpg');">
+<div class="wrapper bgded" style="background-image:url('../data/images/index_body_3/index-3-bg.jpg');">
   <ul class="nospace group clrbox">
     <!-- ################################################################################################ -->
     <li>
