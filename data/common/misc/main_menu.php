@@ -9,6 +9,7 @@
             <ul>
               <li><a href="../../../../../courses/idioms.php">Idioms</a></li>
               <li><a href="../../../../../courses/english/cursive-handwriting/cursive_handwriting.php">Cursive Handwriting</a></li>
+              <li><a href="../../../../../courses/english/english-handwriting/english-handwriting.php">English Handwriting</a></li>
             </ul>
           </li>
             <li><a class="drop" href="../../../../../courses/hindi/hindi.php">Hindi</a>

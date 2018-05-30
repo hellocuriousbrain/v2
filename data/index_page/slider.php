@@ -5,16 +5,16 @@
         <div class="flexslider carousel">
           <ul class="slides">
             <li>
-  	    	    <a href="../courses/english/cursive-handwriting/alphabet-sequence/lesson-1/cursive-handwriting-capital-letters-A-I.php"><img src="../data/images/slider/cursive-handwriting-slider.jpg" /></a>
+  	    	    <a href="../courses/english/cursive-handwriting/cursive_handwriting.php"><img src="../data/images/slider/cursive-handwriting-slider.jpg" /></a>
   	    		</li>
   	    		<li>
-  	    	    <img src="../data/images/slider/drawing-handwriting-slider.jpg" />
+  	    	    <a href="../courses/drawing/drawing.php"><img src="../data/images/slider/drawing-handwriting-slider.jpg" /></a>
   	    		</li>
   	    		<li>
-  	    	    <img src="../data/images/slider/Hindi-handwriting-slider.jpg" />
+  	    	    <a href="../courses/hindi/hindi-handwriting/hindi-handwriting.php"><img src="../data/images/slider/Hindi-handwriting-slider.jpg" /></a>
   	    		</li>
   	    		<li>
-  	    	    <img src="../data/images/slider/english-handwriting-slider.jpg" />
+  	    	    <a href="../courses/english/english-handwriting/english-handwriting.php"><img src="../data/images/slider/english-handwriting-slider.jpg" /></a>
   	    		</li>
   	    		<li>
   	    	    <img src="../data/images/slider/kids-zone-slider.jpg" />

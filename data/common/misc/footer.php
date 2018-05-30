@@ -12,7 +12,6 @@
     <div class="one_third">
       <h6 class="title">Our Partners</h6>
       <ul class="nospace linklist">
-        <li><a href="https://www.facebook.com/gpsgangapurcity/" target="_blank">GPS Gangapur </a></li>
         <li><a href="https://www.facebook.com/sewa.bharti.vidya" target="_blank">Sewa Bharti</a></li>
         <li><a href="http://bharatghumotour.blogspot.com" target="_blank">Bharat Ghumo</a></li>
         <li><a href="http://dealhogayi.blogspot.com" target="_blank">Deal Ho Gayi</a></li>

@@ -46,10 +46,21 @@ Beginners can starting practicing using pencil. Because you can use erase if you
 Ink pen will print  magical writing for the pro.
 
 </p>
+<br>
+<br>
+<br>
+<br>
 <h2 class="heading_h2">
 We have divided Cursive handwriting in below lessons :- 
 </h2>
-
+<ul class=" pushleft" style="list-style-type:disc">
+  <li>Capital letters writing</li>
+  <li>Small letters writing</li>
+  <li>Joining of letters</li>
+  <li>Joining of 2,3 lettes</li>
+  <li>Assigments, worksheets</li>
+  <li>FAQs</li>
+</ul> 
 <br>
 <h3 class="heading_h3">
 <a href="../../../courses/english/cursive-handwriting/alphabet-sequence/lesson-1/cursive-handwriting-capital-letters-A-I.php"> 

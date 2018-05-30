@@ -17,6 +17,7 @@ html, body{margin:0; padding:0; font-size:14px; line-height:1.6em;}
 .inline *:last-child{margin-right:0;}
 .pushright li{margin-right:20px;}
 .pushright li:last-child{margin-right:0;}
+.pushleft li{margin-left:60px;}
 .borderedbox{border:1px solid;}
 .borderedbox_quotes{border:1px solid;padding:2px 2px 2px 2px;}
 .borderedbox_videotutorial{border:1px solid;padding:20px 20px 20px 20px;}
