@@ -12,12 +12,12 @@
         </figure>
       </li>
       <li class="one_third">
-        <figure><img src="../data/images/index_body_2/Cursive_Handwriting_J_R.jpg" alt="">
+        <figure><img src="../data/images/index_body_2/hindi-handwriting.jpg" alt="">
           <figcaption><a href="../courses/hindi/hindi-handwriting/hindi-handwriting.php">Hindi Handwriting</a></figcaption>
         </figure>
       </li>
       <li class="one_third">
-        <figure><img src="../data/images/index_body_2/Cursive_Handwriting_S_Z.jpg" alt="">
+        <figure><img src="../data/images/index_body_2/english-handwriting-small-letters.jpg" alt="">
           <figcaption><a href="../courses/english/english-handwriting/english-handwriting.php">English Handwriting</a></figcaption>
         </figure>
       </li>

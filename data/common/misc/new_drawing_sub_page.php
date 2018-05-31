@@ -33,8 +33,8 @@ function new_page($currpageId) {
 <!-- ################################################################################################ -->
 
 <?php 
-    include "../../data/page_cover/courses/drawing/page_cover_".$currpageId.".php";
-	page_cover_fun($currpageId);
+//    include "../../data/page_cover/courses/drawing/page_cover_".$currpageId.".php";
+//	page_cover_fun($currpageId);
 ?>
 
 <!-- ################################################################################################ -->

@@ -12,9 +12,9 @@
           <h1 class="heading_h1">Capital letters in cursive</h1>
           <p>This section contain complete tutorial for Capital letters in cursive Handwriting.
                 We have divided this part in three lessons as below :-
-                a) From A to I
-                b) From J to R
-                c) From S to Z.
+                <br>a) From A to I
+                <br>b) From J to R
+                <br>c) From S to Z.
              &hellip;</p>
           <footer><a href="../../courses/english/cursive-handwriting/alphabet-sequence/lesson-1/cursive-handwriting-capital-letters-A-I.php">Read More &raquo;</a></footer>
         </article>
@@ -22,48 +22,47 @@
       <li class="one_third">
         <article><a href="../../courses/english/cursive-handwriting/alphabet-sequence/lesson-4/cursive-handwriting-small-letters-a-i.php"><i class="fa fa-language"></i></a>
           <h1 class="heading_h1">Small letters in cursive</h1>
-          <p>This section contain complete tutorial for Hindi Handwriting. Complete video tutorial is also available for all lessons&hellip;</p>
+          <p>This section contain complete tutorial for Small letters in cursive Handwriting.
+                We have divided this part in three lessons as below :-
+                <br>a) From a to i
+                <br>b) From j to r
+                <br>c) From s to z.&hellip;</p>
           <footer><a href="../../courses/english/cursive-handwriting/alphabet-sequence/lesson-4/cursive-handwriting-small-letters-a-i.php">Read More &raquo;</a></footer>
         </article>
       </li>
       <li class="one_third">
         <article><a href="../../courses/english/cursive-handwriting/alphabet-sequence/lesson-7/how-to-join-letters.php"><i class="fa fa-laptop"></i></a>
           <h1 class="heading_h1">Joining of letters</h1>
-          <p>  How to Teach Kids to Draw Using the Alphabet. <br> 
-Easy Drawing tutorial step by Step .
+          <p>  Cursive handwriting is easy if we know how to write, how to move pen to make link between letters in continues way.
+Cursive hand writing is not only learning letter individually it is about to make link between letters in continues way to form a word.
   &hellip;</p>
           <footer><a href="../../courses/english/cursive-handwriting/alphabet-sequence/lesson-7/how-to-join-letters.php">Read More &raquo;</a></footer>
         </article>
       </li>
       <li class="one_third first">
-        <article><a href="../../courses/english/grammar/grammar.php"><i class="fa fa-bar-chart"></i></a>
-          <h1 class="heading_h1"> Joining of 2,3 lettes </h1>
-          <p> We are going to teach english grammar lessons in this session. 
-<br>
-
-We have divided English Grammar in Easy lessons&hellip;</p>
-          <footer><a href="../../courses/english/grammar/grammar.php">Read More &raquo;</a></footer>
+        <article><a href="../../courses/english/cursive-handwriting/alphabet-sequence/lesson-9/how-to-write-speedily.php"><i class="fa fa-bar-chart"></i></a>
+          <h1 class="heading_h1"> How to write speedly </h1>
+          <p> How to write speedily ?  <br> Write lines with fixing timer, check how much time it is taking to write, then write same thing in speed, writing may be poor but this time concentrate on speed. <br>After speed is proper then handwriting will come automatically because you have improved handwriting already. 
+&hellip;</p>
+          <footer><a href="../../courses/english/cursive-handwriting/alphabet-sequence/lesson-9/how-to-write-speedily.php">Read More &raquo;</a></footer>
         </article>
       </li>
       <li class="one_third">
-        <article><a href="../../students/students.php"><i class="fa fa-music"></i></a>
+        <article><a href="../../courses/english/cursive-handwriting/alphabet-sequence/Assigments-Worksheets/download.php"><i class="fa fa-music"></i></a>
           <h1 class="heading_h1">Assigments,Worksheets </h1>
           <p>
-In this section we will be writing Tips and Advice for students.
-
+We are providing Assigments in this seccion. This will help to improve Handwriting.
 <br>
- We will provide guideline to students to resolve common Problems in effective way. 
+We are also providing worksheets as well for writing.
 &hellip;</p>
-          <footer><a href="../../students/students.php">Read More &raquo;</a></footer>
+          <footer><a href="../../courses/english/cursive-handwriting/alphabet-sequence/Assigments-Worksheets/download.php">Read More &raquo;</a></footer>
         </article>
       </li>
       <li class="one_third">
-        <article><a href="../../parents/parents.php"><i class="fa fa-bolt"></i></a>
+        <article><a href="../../courses/english/cursive-handwriting/alphabet-sequence/quesion-answers/faqs.php"><i class="fa fa-bolt"></i></a>
           <h1 class="heading_h1">FAQs </h1>
-          <p>  “Train a child in the way he should go, and when he is old he will not turn from it” . 
-
-Today Your valuable involvement will certainly enhance Child-parent performance. &hellip;</p>
-          <footer><a href="../../parents/parents.php">Read More &raquo;</a></footer>
+          <p>  This section Contain Questions answers asked by viewers. &hellip;</p>
+          <footer><a href="../../courses/english/cursive-handwriting/alphabet-sequence/quesion-answers/faqs.php">Read More &raquo;</a></footer>
         </article>
       </li>
     </ul>

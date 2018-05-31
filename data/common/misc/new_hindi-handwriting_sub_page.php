@@ -33,8 +33,8 @@ function new_page($currentCourseName,$currentChapterName,$currpageId) {
 <!-- ################################################################################################ -->
 
 <?php 
-    include "./../../../data/page_cover/courses/$currentCourseName/$currentChapterName/page_cover_".$currpageId.".php";
-	page_cover_fun($currentCourseName,$currentChapterName,  $currpageId);
+//    include "./../../../data/page_cover/courses/$currentCourseName/$currentChapterName/page_cover_".$currpageId.".php";
+//	page_cover_fun($currentCourseName,$currentChapterName,  $currpageId);
 ?>
 
 <!-- ################################################################################################ -->

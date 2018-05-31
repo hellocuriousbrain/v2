@@ -36,8 +36,8 @@ metadata($currentCourseName,$currentChapterName, $currentType, $currentLessonNum
 <!-- ################################################################################################ -->
 
 <?php 
-    include "./../../../../../data/page_cover/courses/$currentCourseName/$currentChapterName/$currentType/$currentLessonNumber/page_cover_".$currpageId.".php";
-	page_cover_fun($currentCourseName,$currentChapterName, $currentType, $currentLessonNumber, $currpageId);
+//    include "./../../../../../data/page_cover/courses/$currentCourseName/$currentChapterName/$currentType/$currentLessonNumber/page_cover_".$currpageId.".php";
+//	page_cover_fun($currentCourseName,$currentChapterName, $currentType, $currentLessonNumber, $currpageId);
 ?>
 
 <!-- ################################################################################################ -->

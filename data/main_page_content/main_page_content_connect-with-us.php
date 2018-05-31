@@ -14,7 +14,11 @@
       <p>   Subscribe us on YouTube for video lessons  </p>
       <p>    Message “Add” on our whats app service 7286088022 for regular updates.   </p>
       <p>     Email us on hellocuriousbrain@gmail.com.    </p>
-	
+<br>
+<br>
+<br>
+<p>     Address :-    </p>
+	<p>     Curious Brain, 7-1-H10,Road No 5G, Panchvati Colony, Manikonda, Hyderabad, 500089     </p>
       
       <!-- ################################################################################################ -->
     </div>
