@@ -18,6 +18,10 @@ function left_menu_fun($currpageId, $level1,$level2,$level3,$chapter) {
                     <li><a <?php if ($level1 == "1" and $level2 == "1" and $level3 == "7") { ?> class="bold" <?php } ?> href="../../../../../courses/english/cursive-handwriting/alphabet-sequence/lesson-7/how-to-join-letters.php">Cursive handwriting Lesson #7 </a></li>
                   <li><a <?php if ($level1 == "1" and $level2 == "1" and $level3 == "8") { ?> class="bold" <?php } ?> href="../../../../../courses/english/cursive-handwriting/alphabet-sequence/lesson-8/how-to-join-letters-one-line-notebook.php">Cursive handwriting Lesson #8 </a></li>
                   <li><a <?php if ($level1 == "1" and $level2 == "1" and $level3 == "9") { ?> class="bold" <?php } ?> href="../../../../../courses/english/cursive-handwriting/alphabet-sequence/lesson-9/how-to-write-speedily.php">Cursive handwriting Lesson #9 </a></li>
+                  <li><a <?php if ($level1 == "1" and $level2 == "1" and $level3 == "10") { ?> class="bold" <?php } ?> href="../../../../../courses/english/cursive-handwriting/alphabet-sequence/lesson-10/joining-of-two-letters.php">Cursive handwriting Lesson #10 </a></li>
+                  <li><a <?php if ($level1 == "1" and $level2 == "1" and $level3 == "11") { ?> class="bold" <?php } ?> href="../../../../../courses/english/cursive-handwriting/alphabet-sequence/lesson-11/joining-of-three-letters.php">Cursive handwriting Lesson #11 </a></li>
+                  <li><a <?php if ($level1 == "1" and $level2 == "1" and $level3 == "12") { ?> class="bold" <?php } ?> href="../../../../../courses/english/cursive-handwriting/alphabet-sequence/Assigments-Worksheets/download.php">Cursive handwriting Assigments and worksheet </a></li>
+                  <li><a <?php if ($level1 == "1" and $level2 == "1" and $level3 == "13") { ?> class="bold" <?php } ?> href="../../../../../courses/english/cursive-handwriting/alphabet-sequence/quesion-answers/faqs.php">Cursive handwriting FAQs </a></li>
             </ul>
 <?php } ?>
           </li>

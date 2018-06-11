@@ -11,7 +11,7 @@ function sub_page_content($currentCourseName,$currentChapterName, $currentType, 
 <?php include "../../../../../data/left_menu/left_menu_english.php";
     $level1 = "1";
     $level2 = "1";
-    $level3 = "9";
+    $level3 = "11";
     $chapter = "1";
 	left_menu_fun($currpageId, $level1,$level2,$level3,$chapter);
 ?>
@@ -27,59 +27,31 @@ function sub_page_content($currentCourseName,$currentChapterName, $currentType, 
     <!-- ################################################################################################ -->
     <div class="content three_quarter"> 
       <!-- ################################################################################################ -->
-<div class="center">      <h1> How to write speedily - Cursive Handwriting </h1> </div>
+<div class="center">      <h1> Joining of three letters - Cursive Handwriting Lesson # 11 </h1> </div>
 
       <p>
-We are going to explain common problems faced while writing cursive handwriting.
+We are going to explain methods for join of three letters in cursive handwriting . 
 </p>
-
-
       <p>
- <b> 1) How to Improve Handwriting ? </b>
-<br>
- a) Make good shape of letters
-<br>
- b) Practice more and more
-<br>
- c) Make letters mostly in round shape
-<br>
- d) Proper distance between letters and words
-</p>
-      <p> <b>
-2) How Beginners should start ?
-</b>
-<br>
- a) Start practice with pencil
-<br>
- b) Start practice in four line notebook
-<br>
- c) Practice more and more
-</p>
+This is practise lesson. We will learn to join of three letters from A to Z in this lesson. 
 
-
-<p> <b>
-3) How to write speedily ?
-</b>
-<br>
- Write lines with fixing timer, check how much time it is taking to write, then write same thing in speed, writing may be poor but this time concentrate on speed. After speed is proper then handwriting will come automatically because you have improved handwriting already.
 </p>
-
-<p> <b>
-4) How to write in un-ruled notebook ?
-</b>
-<br>
- Write first word, by seeing first word write next word,by this when 1 line get completes, then take a reference of first line to write in next line. Continue link this.
+      <p>
+You can practise like this for joining of three letters.
 </p>
 
 <br>
 <h2 class="heading_h2">
- Cursive handwriting lesson 9, common problems,How Beginners should start,How to write speedily are explained in below <a href="https://youtu.be/7DXB3bAj1tw" target="_blank" title="Cursive Handwriting Lessons">youtube Video</a> :-
+ Steps and Methods for Joining of two letters from a to z are explained in below <a href="https://www.youtube.com/watch?v=EU6TOQJQe0U" target="_blank" title="Cursive Handwriting Lessons">youtube Video</a> :-
 </h2>
 <div class="center">
-<iframe width="320" height="180" src="https://www.youtube.com/embed/7DXB3bAj1tw" frameborder="0" allowfullscreen></iframe>
+<iframe width="320" height="180" src="https://www.youtube.com/embed/EU6TOQJQe0U" frameborder="0" allowfullscreen></iframe>
 </div>
 <br>
 <br>
+<p>
+We hope it will help to improve your cursive handwriting. You can download practise assignment and worksheet also to practise cursive handwriting.
+</p>
 <p>
 Please leave comments in below section.
 </p>

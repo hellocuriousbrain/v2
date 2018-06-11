@@ -11,7 +11,7 @@ function sub_page_content($currentCourseName,$currentChapterName, $currentType, 
 <?php include "../../../../../data/left_menu/left_menu_english.php";
     $level1 = "1";
     $level2 = "1";
-    $level3 = "1";
+    $level3 = "12";
     $chapter = "1";
 	left_menu_fun($currpageId, $level1,$level2,$level3,$chapter);
 ?>
@@ -27,34 +27,62 @@ function sub_page_content($currentCourseName,$currentChapterName, $currentType, 
     <!-- ################################################################################################ -->
     <div class="content three_quarter"> 
       <!-- ################################################################################################ -->
-<div class="center">      <h1> Steps and Methods for Cursive Handwriting Lesson # 1 </h1> </div>
+<div class="center">      <h1> Assigments and Worksheets - Cursive Handwriting</h1> </div>
 
       <p>
-We are going to explain method for Cursive Handwriting from Alphabet A to I.
-
-
+Assignment for cursive handwriting is available.
+If you practise more your handwriting will get improve more.
+So please go through all the assignment and write in one line note book or four line notebook.
+You can see improvement bu practising more.
 
 </p>
 
 
       <p>
-Beginner can use four line of Notebook. Follow the instructions and steps which is explained in this youtube video. 
-</p>
-      <p>
-A, B, C, D, E, F, G, H, I alphabet are covered in this video one by one.
-</p>
+Post photo of these assignments to our whats app number or through any social media network. We will let you know if you have made any mistake in handwriting.</p>
+<div class="center">      
+<h2><b>
+Assignment 1 :- </h2> </b>
+<img src="../../../../../data/images/courses/english/cursive-handwriting/alphabet-sequence/Assigments-Worksheets/assignment-1.jpg" />
 
 <br>
-<h2 class="heading_h2">
- Steps and Methods for Cursive Handwriting Lesson #1 in Capital Letters A to I are explained in below <a href="https://www.youtube.com/watch?v=i3mayro0Bsc" target="_blank" title="Cursive Handwriting Lessons">youtube Video</a> :-
-</h2>
-<div class="center">
-<iframe width="320" height="180" src="https://www.youtube.com/embed/i3mayro0Bsc" frameborder="0" allowfullscreen></iframe>
+<br>
+<br>
+<br>
+<h2><b>
+Assignment 2 :- </h2> </b>
+<img src="../../../../../data/images/courses/english/cursive-handwriting/alphabet-sequence/Assigments-Worksheets/assignment-2.jpg" />
+
+<br>
+<br>
+<br>
+<br>
+<h2><b>
+Assignment 3 :- </h2> </b>
+<img src="../../../../../data/images/courses/english/cursive-handwriting/alphabet-sequence/Assigments-Worksheets/assignment-3.jpg" />
+
+<br>
+<br>
+<br>
+<br>
+<h2><b>
+Assignment 4 :- </h2> </b>
+<img src="../../../../../data/images/courses/english/cursive-handwriting/alphabet-sequence/Assigments-Worksheets/assignment-4.jpg" />
+
+<br>
+<br>
+<br>
+<br>
+<h2><b>
+Worksheet :- </h2> </b>
+<img src="../../../../../data/images/courses/english/cursive-handwriting/alphabet-sequence/Assigments-Worksheets/assignment-line.jpg" />
+
+
 </div>
-<br>
-<br>
+
+
 <p>
-We hope it will help to improve your cursive handwriting. We will be explaining from J to R in next video lesson.
+We hope it will help to improve your cursive handwriting. 
 </p>
 <p>
 Please leave comments in below section.
@@ -62,7 +90,9 @@ Please leave comments in below section.
 
       <div id="comments">
         <h2>Write A Comment</h2>
-            <?php include "../../../../../data/sm_comment/courses/$currentCourseName/$currentChapterName/$currentType/$currentLessonNumber/sm_comment_$currpageId.php"; ?>
+<?php include "../../../../../data/sm_comment/l5-section/sm_comment_new_lesson.php"; 
+        sub_page_comment($currentCourseName,$currentChapterName,$currentType,$currentLessonNumber,  $currpageId)
+            ?>
       </div>
       <!-- ################################################################################################ -->
     </div>
@@ -76,7 +106,9 @@ Please leave comments in below section.
 <!-- / FB share  -->
 <div id="facebook_share">
     <div class="sm_share">
-            <?php include "../../../../../data/sm_share/courses/$currentCourseName/$currentChapterName/$currentType/$currentLessonNumber/sm_share_$currpageId.php"; ?>
+            <?php include "../../../../../data/sm_share/l5-section/sm_share_new_lesson.php"; 
+        sub_page_share($currentCourseName,$currentChapterName,$currentType,$currentLessonNumber,  $currpageId)
+?>
     </div>
 </div>
 
