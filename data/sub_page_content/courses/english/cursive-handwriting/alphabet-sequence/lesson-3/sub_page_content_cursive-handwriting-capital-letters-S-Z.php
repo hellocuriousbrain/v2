@@ -27,7 +27,7 @@ function sub_page_content($currentCourseName,$currentChapterName, $currentType, 
     <!-- ################################################################################################ -->
     <div class="content three_quarter"> 
       <!-- ################################################################################################ -->
-<div class="center">      <h1> Steps and Methods for Cursive Handwriting Lesson # 3 </h1> </div>
+<div class="center">      <h1> Capital letters from S to Z - Cursive Handwriting </h1> </div>
 
       <p>
 We are going to explain method for Cursive Handwriting from Alphabet S to Z.
@@ -46,7 +46,7 @@ S, T, U, V, W, X, Y, Z alphabet are covered in this video one by one.
 
 <br>
 <h2 class="heading_h2">
- Steps and Methods for Cursive Handwriting Lesson #3 in Capital Letters S to Z are explained in below <a href="https://www.youtube.com/watch?v=5dH1xyfUfp8" target="_blank" title="Cursive Handwriting Lessons">youtube Video</a> :-
+ Steps and Methods for Cursive Handwriting Lesson #3 in Capital Letters S to Z are explained in below <a href="https://www.youtube.com/watch?v=5dH1xyfUfp8&list=PL7qb-DIeorTRVtECGbpL6WtZ-ZBbuY3CV&index=3" target="_blank" title="Cursive Handwriting Lessons">youtube Video</a> :-
 </h2>
 <div class="center">
 <iframe width="320" height="180" src="https://www.youtube.com/embed/5dH1xyfUfp8" frameborder="0" allowfullscreen></iframe>

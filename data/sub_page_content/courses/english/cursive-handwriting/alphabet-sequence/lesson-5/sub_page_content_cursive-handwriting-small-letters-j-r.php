@@ -27,7 +27,7 @@ function sub_page_content($currentCourseName,$currentChapterName, $currentType, 
     <!-- ################################################################################################ -->
     <div class="content three_quarter"> 
       <!-- ################################################################################################ -->
-<div class="center">      <h1> Steps and Methods for Cursive Handwriting Lesson # 5 </h1> </div>
+<div class="center">      <h1> Small letters from j to r - Cursive Handwriting </h1> </div>
 
       <p>
 We are going to explain method for Cursive Handwriting from Alphabet j to r.
@@ -46,7 +46,7 @@ j, k, l, m, n, o, p, q, r alphabet are covered in this video one by one.
 
 <br>
 <h2 class="heading_h2">
- Steps and Methods for Cursive Handwriting Lesson #5 in Capital Letters j to r are explained in below <a href="https://www.youtube.com/watch?v=YFgr3WdqaEw" target="_blank" title="Cursive Handwriting Lessons">youtube Video</a> :-
+ Steps and Methods for Cursive Handwriting Lesson #5 in Capital Letters j to r are explained in below <a href="https://www.youtube.com/watch?v=YFgr3WdqaEw&list=PL7qb-DIeorTRVtECGbpL6WtZ-ZBbuY3CV&index=4" target="_blank" title="Cursive Handwriting Lessons">youtube Video</a> :-
 </h2>
 <div class="center">
 <iframe width="320" height="180" src="https://www.youtube.com/embed/YFgr3WdqaEw" frameborder="0" allowfullscreen></iframe>

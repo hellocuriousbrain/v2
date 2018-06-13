@@ -73,7 +73,7 @@ We are going to explain common problems faced while writing cursive handwriting.
 
 <br>
 <h2 class="heading_h2">
- Cursive handwriting lesson 9, common problems,How Beginners should start,How to write speedily are explained in below <a href="https://youtu.be/7DXB3bAj1tw" target="_blank" title="Cursive Handwriting Lessons">youtube Video</a> :-
+ Cursive handwriting lesson 9, common problems,How Beginners should start,How to write speedily are explained in below <a href="https://www.youtube.com/watch?v=7DXB3bAj1tw&list=PL7qb-DIeorTRVtECGbpL6WtZ-ZBbuY3CV&index=9" target="_blank" title="Cursive Handwriting Lessons">youtube Video</a> :-
 </h2>
 <div class="center">
 <iframe width="320" height="180" src="https://www.youtube.com/embed/7DXB3bAj1tw" frameborder="0" allowfullscreen></iframe>

@@ -42,7 +42,7 @@ You can practise like this for joining of three letters.
 
 <br>
 <h2 class="heading_h2">
- Steps and Methods for Joining of two letters from a to z are explained in below <a href="https://www.youtube.com/watch?v=EU6TOQJQe0U" target="_blank" title="Cursive Handwriting Lessons">youtube Video</a> :-
+ Steps and Methods for Joining of two letters from a to z are explained in below <a href="https://www.youtube.com/watch?v=EU6TOQJQe0U&index=12&list=PL7qb-DIeorTRVtECGbpL6WtZ-ZBbuY3CV" target="_blank" title="Cursive Handwriting Lessons">youtube Video</a> :-
 </h2>
 <div class="center">
 <iframe width="320" height="180" src="https://www.youtube.com/embed/EU6TOQJQe0U" frameborder="0" allowfullscreen></iframe>

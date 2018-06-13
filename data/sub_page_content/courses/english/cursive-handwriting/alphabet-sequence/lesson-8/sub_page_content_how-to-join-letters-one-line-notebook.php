@@ -27,7 +27,7 @@ function sub_page_content($currentCourseName,$currentChapterName, $currentType, 
     <!-- ################################################################################################ -->
     <div class="content three_quarter"> 
       <!-- ################################################################################################ -->
-<div class="center">      <h1> Steps and Methods for Cursive Handwriting Lesson # 8 </h1> </div>
+<div class="center">      <h1> joining letters in one line notebook - Cursive Handwriting Lesson # 8 </h1> </div>
 
       <p>
  We are going to explain method for joining letters in cursive handwriting in one line notebook. 
@@ -40,7 +40,7 @@ Beginner can use four line of Notebook. Follow the instructions and steps which 
 
 <br>
 <h2 class="heading_h2">
- Steps and Methods for Cursive Handwriting Lesson #8 for joining letters in one line notebook are explained in below <a href="https://www.youtube.com/watch?v=uF4W3KXU7j8" target="_blank" title="Cursive Handwriting Lessons">youtube Video</a> :-
+ Steps and Methods for Cursive Handwriting Lesson #8 for joining letters in one line notebook are explained in below <a href="https://www.youtube.com/watch?v=uF4W3KXU7j8&list=PL7qb-DIeorTRVtECGbpL6WtZ-ZBbuY3CV&index=8" target="_blank" title="Cursive Handwriting Lessons">youtube Video</a> :-
 </h2>
 <div class="center">
 <iframe width="320" height="180" src="https://www.youtube.com/embed/uF4W3KXU7j8" frameborder="0" allowfullscreen></iframe>

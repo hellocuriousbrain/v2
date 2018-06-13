@@ -27,13 +27,10 @@ function sub_page_content($currentCourseName,$currentChapterName, $currentType, 
     <!-- ################################################################################################ -->
     <div class="content three_quarter"> 
       <!-- ################################################################################################ -->
-<div class="center">      <h1> Steps and Methods for Cursive Handwriting Lesson # 1 </h1> </div>
+<div class="center">      <h1> Capital letters from A to I - Cursive Handwriting </h1> </div>
 
       <p>
 We are going to explain method for Cursive Handwriting from Alphabet A to I.
-
-
-
 </p>
 
 
@@ -46,7 +43,7 @@ A, B, C, D, E, F, G, H, I alphabet are covered in this video one by one.
 
 <br>
 <h2 class="heading_h2">
- Steps and Methods for Cursive Handwriting Lesson #1 in Capital Letters A to I are explained in below <a href="https://www.youtube.com/watch?v=i3mayro0Bsc" target="_blank" title="Cursive Handwriting Lessons">youtube Video</a> :-
+ Steps and Methods for Cursive Handwriting Lesson #1 in Capital Letters A to I are explained in below <a href="https://www.youtube.com/watch?v=i3mayro0Bsc&list=PL7qb-DIeorTRVtECGbpL6WtZ-ZBbuY3CV" target="_blank" title="Cursive Handwriting Lessons">youtube Video</a> :-
 </h2>
 <div class="center">
 <iframe width="320" height="180" src="https://www.youtube.com/embed/i3mayro0Bsc" frameborder="0" allowfullscreen></iframe>

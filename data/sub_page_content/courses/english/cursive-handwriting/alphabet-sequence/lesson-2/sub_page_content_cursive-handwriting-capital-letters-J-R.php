@@ -25,7 +25,7 @@
     <!-- ################################################################################################ -->
     <div class="content three_quarter"> 
       <!-- ################################################################################################ -->
-<div class="center">      <h1> Steps and Methods for Cursive Handwriting Lesson # 2 </h1> </div>
+<div class="center">      <h1> Captial letters from J to R - Cursive Handwriting </h1> </div>
 
       <p>
 We have explained cursive hand writting from A to I in <a href="http://www.hellocuriousbrain.com/courses/english/cursive-handwriting/alphabet-sequence/lesson-1/cursive-handwriting-capital-letters-A-I.php" title="Cursive handwriting Lessons#1">previous lesson</a> . If you missed previous lesson, don't worry <a href="http://www.hellocuriousbrain.com/courses/english/cursive-handwriting/alphabet-sequence/lesson-1/cursive-handwriting-capital-letters-A-I.php" title="Cursive handwriting Lessons#1">Click here to go back to lesson #1</a> .
@@ -40,13 +40,13 @@ We will be explaining Capital letters Cursive handwriting from J to R in this le
 
 </p>
       <p>
-So guys what are you waiting for. Follow the instructions and steps which are explained in this <a href="https://www.youtube.com/watch?v=n4Onpv2zccI" target="_blank" title="Cursive Handwriting Lessons">youtube Video</a>. 
+So guys what are you waiting for. Follow the instructions and steps which are explained in this <a href="https://www.youtube.com/watch?v=n4Onpv2zccI&list=PL7qb-DIeorTRVtECGbpL6WtZ-ZBbuY3CV&index=2" target="_blank" title="Cursive Handwriting Lessons">youtube Video</a>. 
 
 </p>
 
 <br>
 <h2 class="heading_h2">
- Steps and Methods for Cursive Handwriting Lesson #2 in Capital Letters J to R are explained in below <a href="https://www.youtube.com/watch?v=n4Onpv2zccI" target="_blank" title="Cursive Handwriting Lessons">youtube Video</a> :-
+ Steps and Methods for Cursive Handwriting Lesson #2 in Capital Letters J to R are explained in below <a href="https://www.youtube.com/watch?v=n4Onpv2zccI&list=PL7qb-DIeorTRVtECGbpL6WtZ-ZBbuY3CV&index=2" target="_blank" title="Cursive Handwriting Lessons">youtube Video</a> :-
 </h2>
 <div class="center">
 <iframe width="320" height="180" src="https://www.youtube.com/embed/n4Onpv2zccI" frameborder="0" allowfullscreen></iframe>

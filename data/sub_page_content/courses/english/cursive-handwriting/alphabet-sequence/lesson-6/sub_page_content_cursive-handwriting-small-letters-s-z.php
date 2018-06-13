@@ -27,7 +27,7 @@ function sub_page_content($currentCourseName,$currentChapterName, $currentType, 
     <!-- ################################################################################################ -->
     <div class="content three_quarter"> 
       <!-- ################################################################################################ -->
-<div class="center">      <h1> Steps and Methods for Cursive Handwriting Lesson # 6 </h1> </div>
+<div class="center">      <h1> Small letters form s to z - Cursive Handwriting </h1> </div>
 
       <p>
 We are going to explain method for Cursive Handwriting from Alphabet s to z.
@@ -43,7 +43,7 @@ s, t, u, v, w, x, y, z alphabet are covered in this video one by one.
 
 <br>
 <h2 class="heading_h2">
- Steps and Methods for Cursive Handwriting Lesson #6 in Small Letters s to z are explained in below <a href="https://www.youtube.com/watch?v=qLszIXEBo2k" target="_blank" title="Cursive Handwriting Lessons">youtube Video</a> :-
+ Steps and Methods for Cursive Handwriting Lesson #6 in Small Letters s to z are explained in below <a href="https://www.youtube.com/watch?v=qLszIXEBo2k&index=6&list=PL7qb-DIeorTRVtECGbpL6WtZ-ZBbuY3CV" target="_blank" title="Cursive Handwriting Lessons">youtube Video</a> :-
 </h2>
 <div class="center">
 <iframe width="320" height="180" src="https://www.youtube.com/embed/qLszIXEBo2k" frameborder="0" allowfullscreen></iframe>
