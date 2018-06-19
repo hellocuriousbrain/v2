@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+<head>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript">
+  var spData = null;
+  function doData(json) {
+      spData = json.feed.entry;
+  }
+  
+  function readData(parent) {
+      var data = spData;
+      var rowData = [];
+      var s = 2;
+          var cell = data[s]["gs$cell"];
+          var val = cell["$t"];
+          var cell1 = data[s+1]["gs$cell"];
+          var val1 = cell1["$t"];
+           document.getElementById("data").innerHTML = val;
+           document.getElementById("data1").innerHTML = val1;
+  }
+  $(document).ready(function(){
+      readData($("#data"));
+      readData($("#data1"));
+  });
+  </script>   
+<script src="https://spreadsheets.google.com/feeds/cells/17l1vBQGCi6oiDELYng5VEkcuF6FzYv5dXzswB__94lo/1/public/values?alt=json-in-script&callback=doData"></script>
+
+</head>
+<body>
+<h1>Parse Google Spreadsheet with JavaScript</h1> 
+    <p id="data"> </p>
+    <p id="data1"> </p>
+</body>
+</html>

@@ -3,7 +3,7 @@
     <!-- ################################################################################################ -->
     <ul class="clear">
       <li class="active"><a href="../../../../../index.php">Home</a></li>
-      <li><a class="drop" href="../../../../../courses/courses.php">Courses</a>
+      <li><a class="drop" href="../../../../../courses/courses.php">Course</a>
         <ul>
           <li><a class="drop" href="../../../../../courses/english/english.php">English</a>
             <ul>
@@ -32,6 +32,7 @@
 	  <li><a href="../../../../../About-Us/connect-with-us.php"> Connect with Us </a></li>
         </ul>
       </li>
+      <li><a href="../../../../../shop/shop.php"> SHOP </a></li>
     </ul>
     <!-- ################################################################################################ -->
   </nav>
