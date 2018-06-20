@@ -28,8 +28,46 @@ function page_content($currpageId) {
     <div class="content three_quarter"> 
       <!-- ################################################################################################ -->
 <div class="center">      <h1> <a id="data"> </a>  </h1> </div>
+	<div id="wrappergallery">
+			<div id="gallery">
+			
+			
+			<!-- start -->
 
-      <p>
+					<div id="outputGallery">
+						<img src="../../../../images/1.jpg" alt="" />
+					</div>
+					
+					<div id="captions">
+					
+						
+						
+						<span class="line">Monument Valley</span>
+						
+						<br class="clear" />
+					</div>			
+
+					<ul class="thumbnailsG category1">
+						<li class="first"><img src="../../../../../images/1_thumb.jpg" title="Monument Valley ; A scenic shot of Monument Valley in Utah." alt="" width="100" height="75" /></li>
+						<li><img src="../../../../images/2_thumb.jpg" title="Honey Bee ; A honey bee hovering in front of a flower." alt="" width="100" height="75" /></li>
+						<li><img src="../../../../images/3_thumb.jpg" title="Cup of Coffee ; An ornate cup of coffee sitting on a matching saucer." alt="" width="100" height="75" /></li>
+						<li><img src="../../../../images/4_thumb.jpg" title="Grand Tetons ; The Grand Tetons in Wyoming with a barn in the foreground." alt="" width="100" height="75" /></li>
+						<li><img src="../../../../images/5_thumb.jpg" title="LA Skyline ; Upwards shot of a small portion of Los Angeles' skyline." alt="" width="100" height="75" /></li>
+					</ul>
+
+					<br class="clear" />
+					
+				
+
+			<!-- end -->			
+			
+			
+			</div>
+
+			
+        </div>
+
+<p>
 We are going to explain methods for join of two letters in cursive handwriting . 
 </p>
       <p>
@@ -71,6 +109,5 @@ Please leave comments in below section.
 
     </div>
 </div>
-
 <?php } ?>
 

@@ -1,0 +1,161 @@
+#wrappergallery {
+	margin: 0 auto;
+	padding: 0;
+	width: 500px;
+}
+
+#outputGallery img {	
+	margin: 0;
+	padding: 0;
+	width: 500px;
+	height: 500px;
+	border: solid 10px #ffffff;
+	
+	/* Round select corners */
+	
+	-webkit-border-radius: 25px 0;
+	-khtml-border-radius: 25px 0;	
+	-moz-border-radius: 25px 0;
+	border-radius: 25px 0;
+}
+
+#navGallery{
+	float: left;
+	margin: -4px 0 0 0;
+	padding: 0;
+	width: 400px;
+	height: 40px;
+	background: #00a5d0;
+	text-align: center;
+	display: block;	
+	overflow: hidden;
+	
+	/* Round select corners */
+		
+	-webkit-border-radius: 0 0 15px 15px;
+	-khtml-border-radius:  0 0 15px 15px;	
+	-moz-border-radius:  0 0 15px 15px;
+	border-radius: 0 0 15px 15px;		
+	
+}
+	#navGallery ul {
+		margin-top: 8px;
+	}
+	#navGallery li {
+		display: inline-block;
+	}
+	
+	#navGallery a {
+		margin: 0;
+		padding: 0 10px;
+		color: #FFF;
+		text-decoration: none;
+		font-size: 18px;
+	}
+
+	#navGallery a.navStopAdvance
+	{
+		display: inline;
+	}
+
+	#navGallery a.navPlayAdvance
+	{
+		display: inline;
+	}
+
+	#navGallery a.active
+	{
+		display: none;
+	}
+
+#captions{
+	margin: 0;
+}
+
+	#captions .line
+	{
+		margin: 5px 0 0 0;
+		float: right;
+		font-size: 24px;
+		font-weight: bold;
+	}
+
+	#captions .line2 {
+		position: absolute;
+		top: 658px;
+		display: block;
+		width: 500px;
+		margin: 0 10px;
+		background: #000;
+		padding: 10px;
+		text-align: left;
+		
+		/* Round select corners */
+		-webkit-border-radius: 0 0 15px 0;
+		-khtml-border-radius: 0 0 15px 0;	
+		-moz-border-radius: 0 0 15px 0;
+		border-radius: 0 0 15px 0;
+		
+		/* Apply Opacity */
+		-khtml-opacity:.70; 
+		-moz-opacity:.70; 
+		-ms-filter:"alpha(opacity=70)"; 
+		filter:alpha(opacity=70); 
+		opacity:.70;		
+	}
+	
+
+	#captions .line3 {
+		display: block;
+		margin: 2em 0 2em 0;
+		font-size: 0.75em;
+	}
+
+.hidden {
+	display: none;
+}
+
+.thumbnailsG
+{
+	width: 500px;
+	list-style: none;
+	margin: 50px auto;
+	padding: 0;
+	position: relative;
+	top: 0;
+}
+
+	.thumbnailsG li
+	{
+		margin: 7px;
+		float: left;
+	}
+	.thumbnailsG .first
+	{
+		margin-left: 0px;
+	}
+	.thumbnailsG .last
+	{
+		margin-right: 0px;
+	}
+	.thumbnailsG li img
+	{
+		width: 100px;
+		height: 75px;
+		border: solid 5px #ffffff;
+		cursor: pointer;
+		
+		/* Round select corners */
+		
+		-webkit-border-radius: 15px 0;
+		-khtml-border-radius: 15px 0;	
+		-moz-border-radius: 15px 0;
+		border-radius: 15px 0;	
+	}
+
+	.thumbnailsG li img.active
+	{
+		border: solid 5px #00a5d0;
+	}
+
+
