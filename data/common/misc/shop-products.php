@@ -15,10 +15,10 @@ function new_page($currpageId) {
   function readData(parent) {
       var data = spData;
       var rowData = [];
-      var s = 2;
+      var s = 50;
           var cell = data[s]["gs$cell"];
           var val = cell["$t"];
-          var cell1 = data[s+1]["gs$cell"];
+          var cell1 = data[s]["gs$cell"];
           var val1 = cell1["$t"];
            document.getElementById("data").innerHTML = val;
            document.getElementById("data1").innerHTML = val1;

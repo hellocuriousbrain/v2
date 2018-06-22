@@ -1,42 +1,46 @@
 <?php
 function page_content($currpageId) {
 ?>
-<div class="wrapper row3">
+<!-- Main Div Starts-->
+<div class="wrapper row3 ">
   <main class="hoc container clear"> 
     <!-- main body -->
     <!-- ################################################################################################ -->
+    <!-- Left Menu Div Starts-->
     <div class="sidebar one_quarter first"> 
       <!-- ################################################################################################ -->
 
-<?php include "../../data/left_menu/left_menu_english.php";
-    $level1 = "1";
-    $level2 = "1";
-    $level3 = "10";
-    $chapter = "1";
-	left_menu_fun($currpageId, $level1,$level2,$level3,$chapter);
-?>
-      <div class="sdb_holder">
-        
-      </div>
-      <div class="sdb_holder">
-        
-      </div>
+        <?php include "../../data/left_menu/left_menu_english.php";
+            $level1 = "1";
+            $level2 = "1";
+            $level3 = "10";
+            $chapter = "1";
+	        left_menu_fun($currpageId, $level1,$level2,$level3,$chapter);
+        ?>
+    <div class="sdb_holder">
+    </div>
+    <div class="sdb_holder">
+    </div>
       <!-- ################################################################################################ -->
     </div>
+    <!-- Left Menu Div Ends-->
     <!-- ################################################################################################ -->
     <!-- ################################################################################################ -->
+    <!-- Main Contain div Starts-->
     <div class="content three_quarter"> 
-      <!-- ################################################################################################ -->
-<div >      <h1> <a id="data"> </a>  </h1> </div>
-    <!-- #region Jssor Slider Begin -->
-    <!-- Generator: Jssor Slider Maker -->
-    <!-- Source: https://www.jssor.com -->
-    <script src="../../js/jquery-1.11.3.min.js" type="text/javascript"></script>
-    <script src="../../js/jssor.slider-27.1.0.min.js" type="text/javascript"></script>
-    <script type="text/javascript">
-        jQuery(document).ready(function ($) {
+    <h2> Camlin White Board Marker Pen- Black (Pack of 10)  </h2> 
+      <!-- ############################################################################################### -->
+        <!-- Slider div Starts-->
+        <div class="content one_half first"> 
+        <!-- #region Jssor Slider Begin -->
+        <!-- Generator: Jssor Slider Maker -->
+        <!-- Source: https://www.jssor.com -->
+        <script src="../../js/jquery-1.11.3.min.js" type="text/javascript"></script>
+        <script src="../../js/jssor.slider-27.1.0.min.js" type="text/javascript"></script>
+        <script type="text/javascript">
+            jQuery(document).ready(function ($) {
 
-            var jssor_1_SlideshowTransitions = [
+                var jssor_1_SlideshowTransitions = [
               {$Duration:800,x:0.3,$During:{$Left:[0.3,0.7]},$Easing:{$Left:$Jease$.$InCubic,$Opacity:$Jease$.$Linear},$Opacity:2},
               {$Duration:800,x:-0.3,$SlideOut:true,$Easing:{$Left:$Jease$.$InCubic,$Opacity:$Jease$.$Linear},$Opacity:2},
               {$Duration:800,x:-0.3,$During:{$Left:[0.3,0.7]},$Easing:{$Left:$Jease$.$InCubic,$Opacity:$Jease$.$Linear},$Opacity:2},
@@ -106,92 +110,93 @@ function page_content($currpageId) {
             $(window).bind("orientationchange", ScaleSlider);
             /*#endregion responsive code end*/
         });
-    </script>
-    <style>
-        /*jssor slider loading skin spin css*/
-        .jssorl-009-spin img {
-            animation-name: jssorl-009-spin;
-            animation-duration: 1.6s;
-            animation-iteration-count: infinite;
-            animation-timing-function: linear;
-        }
+        </script>
+        <style>
+            /*jssor slider loading skin spin css*/
+            .jssorl-009-spin img {
+                animation-name: jssorl-009-spin;
+                animation-duration: 1.6s;
+                animation-iteration-count: infinite;
+                animation-timing-function: linear;
+            }
 
-        @keyframes jssorl-009-spin {
-            from { transform: rotate(0deg); }
-            to { transform: rotate(360deg); }
-        }
+            @keyframes jssorl-009-spin {
+                from { transform: rotate(0deg); }
+                to { transform: rotate(360deg); }
+            }
 
-        /*jssor slider arrow skin 106 css*/
-        .jssora106 {display:block;position:absolute;cursor:pointer;}
-        .jssora106 .c {fill:#fff;opacity:.3;}
-        .jssora106 .a {fill:none;stroke:#000;stroke-width:350;stroke-miterlimit:10;}
-        .jssora106:hover .c {opacity:.5;}
-        .jssora106:hover .a {opacity:.8;}
-        .jssora106.jssora106dn .c {opacity:.2;}
-        .jssora106.jssora106dn .a {opacity:1;}
-        .jssora106.jssora106ds {opacity:.3;pointer-events:none;}
+            /*jssor slider arrow skin 106 css*/
+            .jssora106 {display:block;position:absolute;cursor:pointer;}
+            .jssora106 .c {fill:#fff;opacity:.3;}
+            .jssora106 .a {fill:none;stroke:#000;stroke-width:350;stroke-miterlimit:10;}
+            .jssora106:hover .c {opacity:.5;}
+            .jssora106:hover .a {opacity:.8;}
+            .jssora106.jssora106dn .c {opacity:.2;}
+            .jssora106.jssora106dn .a {opacity:1;}
+            .jssora106.jssora106ds {opacity:.3;pointer-events:none;}
 
-        /*jssor slider thumbnail skin 101 css*/
-        .jssort101 .p {position: absolute;top:0;left:0;box-sizing:border-box;background:#000;}
-        .jssort101 .p .cv {position:relative;top:0;left:0;width:100%;height:100%;border:2px solid #000;box-sizing:border-box;z-index:1;}
-        .jssort101 .a {fill:none;stroke:#fff;stroke-width:400;stroke-miterlimit:10;visibility:hidden;}
-        .jssort101 .p:hover .cv, .jssort101 .p.pdn .cv {border:none;border-color:transparent;}
-        .jssort101 .p:hover{padding:2px;}
-        .jssort101 .p:hover .cv {background-color:rgba(0,0,0,6);opacity:.35;}
-        .jssort101 .p:hover.pdn{padding:0;}
-        .jssort101 .p:hover.pdn .cv {border:2px solid #fff;background:none;opacity:.35;}
-        .jssort101 .pav .cv {border-color:#fff;opacity:.35;}
-        .jssort101 .pav .a, .jssort101 .p:hover .a {visibility:visible;}
-        .jssort101 .t {position:absolute;top:0;left:0;width:100%;height:100%;border:none;opacity:.6;}
-        .jssort101 .pav .t, .jssort101 .p:hover .t{opacity:1;}
-    </style>
-    <div id="jssor_1" style="position:relative;margin:0;top:0px;left:0px;width:440px;height:480px;overflow:hidden;visibility:hidden;">
+            /*jssor slider thumbnail skin 101 css*/
+            .jssort101 .p {position: absolute;top:0;left:0;box-sizing:border-box;background:#000;}
+            .jssort101 .p .cv {position:relative;top:0;left:0;width:100%;height:100%;border:2px solid #000;box-sizing:border-box;z-index:1;}
+            .jssort101 .a {fill:none;stroke:#fff;stroke-width:400;stroke-miterlimit:10;visibility:hidden;}
+            .jssort101 .p:hover .cv, .jssort101 .p.pdn .cv {border:none;border-color:transparent;}
+            .jssort101 .p:hover{padding:2px;}
+            .jssort101 .p:hover .cv {background-color:rgba(0,0,0,6);opacity:.35;}
+            .jssort101 .p:hover.pdn{padding:0;}
+            .jssort101 .p:hover.pdn .cv {border:2px solid #fff;background:none;opacity:.35;}
+            .jssort101 .pav .cv {border-color:#fff;opacity:.35;}
+            .jssort101 .pav .a, .jssort101 .p:hover .a {visibility:visible;}
+            .jssort101 .t {position:absolute;top:0;left:0;width:100%;height:100%;border:none;opacity:.6;}
+            .jssort101 .pav .t, .jssort101 .p:hover .t{opacity:1;}
+        </style>
+        <!-- Main Slider div starts -->
+        <div id="jssor_1" style="position:relative;margin:0;top:0px;left:0px;width:440px;height:480px;overflow:hidden;visibility:hidden;">
         <!-- Loading Screen -->
-        <div data-u="loading" class="jssorl-009-spin" style="position:absolute;top:0px;left:0px;width:100%;height:100%;text-align:center;background-color:rgba(0,0,0,0.7);">
-            <img style="margin-top:-19px;position:relative;top:50%;width:38px;height:38px;" src="../../img/spin.svg" />
-        </div>
-        <div data-u="slides" style="cursor:default;position:relative;top:0px;left:0px;width:440px;height:380px;overflow:hidden;">
-            <div data-p="170.00">
-                <img data-u="image" src="../../img/031.jpg" />
-                <img data-u="thumb" src="../../img/031-s190x90.jpg" />
+            <div data-u="loading" class="jssorl-009-spin" style="position:absolute;top:0px;left:0px;width:100%;height:100%;text-align:center;background-color:rgba(0,0,0,0.7);">
+                <img style="margin-top:-19px;position:relative;top:50%;width:38px;height:38px;" src="../../img/spin.svg" />
             </div>
-            <div data-p="170.00">
-                <img data-u="image" src="../../img/032.jpg" />
-                <img data-u="thumb" src="../../img/032-s190x90.jpg" />
+            <div data-u="slides" style="cursor:default;position:relative;top:0px;left:0px;width:440px;height:380px;overflow:hidden;">
+                <div data-p="170.00">
+                     <img data-u="image" src="../../img/031.jpg" />
+                     <img data-u="thumb" src="../../img/031-s190x90.jpg" />
+                </div>
+                <div data-p="170.00">
+                    <img data-u="image" src="../../img/032.jpg" />
+                    <img data-u="thumb" src="../../img/032-s190x90.jpg" />
+                </div>
+                <div data-p="170.00">
+                    <img data-u="image" src="../../img/033.jpg" />
+                    <img data-u="thumb" src="../../img/033-s190x90.jpg" />
+                </div>
+                <div data-p="170.00">
+                    <img data-u="image" src="../../img/034.jpg" />
+                    <img data-u="thumb" src="../../img/034-s190x90.jpg" />
+                </div>
+                <div data-p="170.00">
+                    <img data-u="image" src="../../img/035.jpg" />
+                    <img data-u="thumb" src="../../img/035-s190x90.jpg" />
+                </div>
+                <div data-p="170.00">
+                    <img data-u="image" src="../../img/036.jpg" />
+                    <img data-u="thumb" src="../../img/036-s190x90.jpg" />
+                </div>
+                <div data-p="170.00">
+                    <img data-u="image" src="../../img/037.jpg" />
+                    <img data-u="thumb" src="../../img/037-s190x90.jpg" />
+                </div>
+                <div data-p="170.00">
+                    <img data-u="image" src="../../img/038.jpg" />
+                    <img data-u="thumb" src="../../img/038-s190x90.jpg" />
+                </div>
+                <div data-p="170.00">
+                    <img data-u="image" src="../../img/039.jpg" />
+                    <img data-u="thumb" src="../../img/039-s190x90.jpg" />
+                </div>
+                <div data-p="170.00">
+                    <img data-u="image" src="../../img/040.jpg" />
+                    <img data-u="thumb" src="../../img/040-s190x90.jpg" />
+                </div>
             </div>
-            <div data-p="170.00">
-                <img data-u="image" src="../../img/033.jpg" />
-                <img data-u="thumb" src="../../img/033-s190x90.jpg" />
-            </div>
-            <div data-p="170.00">
-                <img data-u="image" src="../../img/034.jpg" />
-                <img data-u="thumb" src="../../img/034-s190x90.jpg" />
-            </div>
-            <div data-p="170.00">
-                <img data-u="image" src="../../img/035.jpg" />
-                <img data-u="thumb" src="../../img/035-s190x90.jpg" />
-            </div>
-            <div data-p="170.00">
-                <img data-u="image" src="../../img/036.jpg" />
-                <img data-u="thumb" src="../../img/036-s190x90.jpg" />
-            </div>
-            <div data-p="170.00">
-                <img data-u="image" src="../../img/037.jpg" />
-                <img data-u="thumb" src="../../img/037-s190x90.jpg" />
-            </div>
-            <div data-p="170.00">
-                <img data-u="image" src="../../img/038.jpg" />
-                <img data-u="thumb" src="../../img/038-s190x90.jpg" />
-            </div>
-            <div data-p="170.00">
-                <img data-u="image" src="../../img/039.jpg" />
-                <img data-u="thumb" src="../../img/039-s190x90.jpg" />
-            </div>
-            <div data-p="170.00">
-                <img data-u="image" src="../../img/040.jpg" />
-                <img data-u="thumb" src="../../img/040-s190x90.jpg" />
-            </div>
-        </div>
         <!-- Thumbnail Navigator -->
         <div data-u="thumbnavigator" class="jssort101" style="position:absolute;left:0px;bottom:0px;width:440px;height:100px;background-color:#000;" data-autocenter="1" data-scale-bottom="0.75">
             <div data-u="slides">
@@ -220,48 +225,62 @@ function page_content($currpageId) {
                 <line class="a" x1="5426.1" y1="8000" x2="10573.9" y2="8000"></line>
             </svg>
         </div>
+        </div>
+        <!-- Main Slider div Ends -->
     </div>
-<p>
-We are going to explain methods for join of two letters in cursive handwriting . 
-</p>
-      <p>
-This is practise lesson. We will learn to join of two letters from A to Z in this lesson. 
-</p>
-      <p>
-You can practise like this for joining of two letters.</p>
+        <!-- Slider div Ends -->
+        <!-- half contain div Start -->
+    <div class="content one_half">
+<a href="https://amzn.to/2Ke0JwC" target="_blank" ><img class="btmspace-30" src="../../data/images/buy-now-amazon.png" alt=""></a>
 
+<ul class="ProductDetails">
+        <li> Brand :- Camlin</li>
+        <li> Color :- Black </li>
+      </ul>
 <br>
-<h2 class="heading_h2">
- Steps and Methods for Joining of two letters from a to z are explained in below <a href="https://www.youtube.com/watch?v=X2kSqDAEeUY&index=11&list=PL7qb-DIeorTRVtECGbpL6WtZ-ZBbuY3CV" target="_blank" title="Cursive Handwriting Lessons">youtube Video</a> :-
-</h2>
-<div class="center">
-<iframe width="320" height="180" src="https://www.youtube.com/embed/X2kSqDAEeUY" frameborder="0" allowfullscreen></iframe>
-</div>
+        <h2>Key Feature</h2>
+<ul class="KeyFeature">
+        <li >Refillable, Bright Ink, Easy to erase with duster, tissue and cloth</li>
+        <li>CE Certified </li>
+        <li>Bright Ink for better visibility</li>
+        <li>USP: Available in - 4 Colours (Red, Blue, Green and Red)</li>
+      </ul>
 <br>
-<br>
-<p>
-We hope it will help to improve your cursive handwriting. We will be learn to join three letters in next video lesson.
-</p>
-<p>
-Please leave comments in below section.
+        <h2>Offers</h2>
+      <p>
+Go Cashless with Visa Debit / Credit Cards: Get 10% back up to Rs.100 if you pay with a Visa Card. Offer valid for your first two cashless transactions ever on Amazon. Offer Period: 5th Jun to 30th Jun. Cashback will be credited as Amazon Pay balance
 </p>
 
-      <div id="comments">
+      </div>
+        <!-- half contain div Ends -->
+
+      <!-- ################################################################################################ -->
+<h2>Description</h2>
+      <p>
+Camlin manufactures art materials, marker pens, fountain pens, inks, pencils, and other stationery products. The company is well known for its pens in India.
+
+Camlin is a very popular stationery brand in producing artist materials including water colour, oil paints, pastels, acrylics, inks, pencils etc. for both artists and students.
+</p>
+<img  src="../../data/images/hori.png" />
+  <div id="comments">
+
         <h2>Write A Comment</h2>
 <?php include "../../data/sm_comment/shop/products/comments.php"; 
         page_comment($currpageId)
             ?>
       </div>
-      <!-- ################################################################################################ -->
     </div>
+        <!-- Main contain div Ends -->
+
+    
+
     <!-- ################################################################################################ -->
     <!-- / main body -->
     <div class="clear"></div>
   </main>
 </div>
+        <!-- Main div Ends -->
 
 
-    </div>
-</div>
 <?php } ?>
 
