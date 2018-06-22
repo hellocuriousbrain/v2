@@ -1,14 +1,14 @@
 #wrappergallery {
-	margin: 0 auto;
+	margin: 0;
 	padding: 0;
-	width: 500px;
+	width: 420px;
 }
 
 #outputGallery img {	
 	margin: 0;
 	padding: 0;
-	width: 500px;
-	height: 500px;
+	width: 420px;
+	height: 420px;
 	border: solid 10px #ffffff;
 	
 	/* Round select corners */
@@ -117,9 +117,9 @@
 
 .thumbnailsG
 {
-	width: 500px;
+	width: 420px;
 	list-style: none;
-	margin: 50px auto;
+	margin: 0;
 	padding: 0;
 	position: relative;
 	top: 0;
@@ -140,7 +140,7 @@
 	}
 	.thumbnailsG li img
 	{
-		width: 100px;
+		width: 70px;
 		height: 75px;
 		border: solid 5px #ffffff;
 		cursor: pointer;

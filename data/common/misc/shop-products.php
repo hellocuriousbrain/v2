@@ -30,31 +30,7 @@ function new_page($currpageId) {
   </script>   
 <script src="https://spreadsheets.google.com/feeds/cells/17l1vBQGCi6oiDELYng5VEkcuF6FzYv5dXzswB__94lo/1/public/values?alt=json-in-script&callback=doData"></script>
 <?php include '../../data/common/misc/include-js.php' ?>
-	<script type="text/javascript">
-
-						$.gallerax({
-							outputSelector: 		'#outputGallery img',				// Output selector
-							thumbnailsSelector:		'.thumbnailsG li img',		// Thumbnails selector
-							captionSelector:		'#captions .line',			// Caption selector
-							captionLines:			1,							// Caption lines (3 lines)
-							fade: 					'fast',						// Transition speed (fast)
-							navNextSelector:		'#nav a.navNext',			// 'Next' selector
-							navPreviousSelector:	'#nav a.navPrevious',		// 'Previous' selector
-							navFirstSelector:		'#nav a.navFirst',			// 'First' selector
-							navLastSelector:		'#nav a.navLast',			// 'Last' selector
-							navStopAdvanceSelector:	'#nav a.navStopAdvance',	// 'Stop Advance' selector
-							navPlayAdvanceSelector:	'#nav a.navPlayAdvance',	// 'Play Advance' selector
-							advanceFade:			'slow',						// Advance transition speed (slow)
-							advanceDelay:			4000,						// Advance delay (4 seconds)
-							advanceResume:			12000,						// Advance resume (12 seconds)
-							thumbnailsFunction: 	function(s) {				// Thumbnails function
-							
-								return s.replace(/_thumb\.jpg$/, '.jpg');
-								
-							}
-						});
-
-					</script>
+	
 <?php include "./../../data/metadata/shop/products/metadata_".$currpageId.".php";
 metadata($currpageId)
 ?>
