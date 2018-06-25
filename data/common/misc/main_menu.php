@@ -32,7 +32,7 @@
 	  <li><a href="../../../../../About-Us/connect-with-us.php"> Connect with Us </a></li>
         </ul>
       </li>
-      <li><a href="../../../../../shop/shop.php"> SHOP </a></li>
+<!--      <li><a href="../../../../../shop/shop.php"> SHOP </a></li> -->
     </ul>
     <!-- ################################################################################################ -->
   </nav>

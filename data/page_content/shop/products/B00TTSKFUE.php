@@ -10,10 +10,10 @@ function page_content($currpageId) {
     <div class="sidebar one_quarter first"> 
       <!-- ################################################################################################ -->
 
-        <?php include "../../data/left_menu/left_menu_english.php";
+        <?php include "../../data/left_menu/left_menu_shop.php";
             $level1 = "1";
             $level2 = "1";
-            $level3 = "10";
+            $level3 = "1";
             $chapter = "1";
 	        left_menu_fun($currpageId, $level1,$level2,$level3,$chapter);
         ?>
@@ -208,7 +208,7 @@ function page_content($currpageId) {
         </div>
         <!-- Main Slider div Ends -->
 <br>
-        <h3>Category</h3>
+        <h3>Shop by Category</h3>
         <a class="category">  Office Products > Pens, Pencils & Writing Supplies > Markers & Highlighters > Permanent Markers & Marker Pens  </a>
     </div>
         <!-- Slider div Ends -->
