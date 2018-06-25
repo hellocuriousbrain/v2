@@ -150,57 +150,37 @@ function page_content($currpageId) {
             .jssort101 .pav .t, .jssort101 .p:hover .t{opacity:1;}
         </style>
         <!-- Main Slider div starts -->
-        <div id="jssor_1" style="position:relative;margin:0;top:0px;left:0px;width:440px;height:480px;overflow:hidden;visibility:hidden;">
+        <div id="jssor_1" style="position:relative;margin:0;top:0px;left:0px;width:440px;height:520px;overflow:hidden;visibility:hidden;">
         <!-- Loading Screen -->
             <div data-u="loading" class="jssorl-009-spin" style="position:absolute;top:0px;left:0px;width:100%;height:100%;text-align:center;background-color:rgba(0,0,0,0.7);">
                 <img style="margin-top:-19px;position:relative;top:50%;width:38px;height:38px;" src="../../img/spin.svg" />
             </div>
-            <div data-u="slides" style="cursor:default;position:relative;top:0px;left:0px;width:440px;height:380px;overflow:hidden;">
+            <div data-u="slides" style="cursor:default;position:relative;top:0px;left:0px;width:440px;height:420px;overflow:hidden;">
                 <div data-p="170.00">
-                     <img data-u="image" src="../../img/031.jpg" />
-                     <img data-u="thumb" src="../../img/031-s190x90.jpg" />
+                     <img data-u="image" src="../../img/1.jpg" />
+                     <img data-u="thumb" src="../../img/1-thumb.jpg" />
                 </div>
                 <div data-p="170.00">
-                    <img data-u="image" src="../../img/032.jpg" />
-                    <img data-u="thumb" src="../../img/032-s190x90.jpg" />
+                    <img data-u="image" src="../../img/2.jpg" />
+                    <img data-u="thumb" src="../../img/2-thumb.jpg" />
                 </div>
                 <div data-p="170.00">
-                    <img data-u="image" src="../../img/033.jpg" />
-                    <img data-u="thumb" src="../../img/033-s190x90.jpg" />
+                    <img data-u="image" src="../../img/3.jpg" />
+                    <img data-u="thumb" src="../../img/3-thumb.jpg" />
                 </div>
                 <div data-p="170.00">
-                    <img data-u="image" src="../../img/034.jpg" />
-                    <img data-u="thumb" src="../../img/034-s190x90.jpg" />
+                    <img data-u="image" src="../../img/4.jpg" />
+                    <img data-u="thumb" src="../../img/4-thumb.jpg" />
                 </div>
                 <div data-p="170.00">
-                    <img data-u="image" src="../../img/035.jpg" />
-                    <img data-u="thumb" src="../../img/035-s190x90.jpg" />
-                </div>
-                <div data-p="170.00">
-                    <img data-u="image" src="../../img/036.jpg" />
-                    <img data-u="thumb" src="../../img/036-s190x90.jpg" />
-                </div>
-                <div data-p="170.00">
-                    <img data-u="image" src="../../img/037.jpg" />
-                    <img data-u="thumb" src="../../img/037-s190x90.jpg" />
-                </div>
-                <div data-p="170.00">
-                    <img data-u="image" src="../../img/038.jpg" />
-                    <img data-u="thumb" src="../../img/038-s190x90.jpg" />
-                </div>
-                <div data-p="170.00">
-                    <img data-u="image" src="../../img/039.jpg" />
-                    <img data-u="thumb" src="../../img/039-s190x90.jpg" />
-                </div>
-                <div data-p="170.00">
-                    <img data-u="image" src="../../img/040.jpg" />
-                    <img data-u="thumb" src="../../img/040-s190x90.jpg" />
+                    <img data-u="image" src="../../img/5.jpg" />
+                    <img data-u="thumb" src="../../img/5-thumb.jpg" />
                 </div>
             </div>
         <!-- Thumbnail Navigator -->
         <div data-u="thumbnavigator" class="jssort101" style="position:absolute;left:0px;bottom:0px;width:440px;height:100px;background-color:#000;" data-autocenter="1" data-scale-bottom="0.75">
             <div data-u="slides">
-                <div data-u="prototype" class="p" style="width:190px;height:90px;">
+                <div data-u="prototype" class="p" style="width:120px;height:90px;">
                     <div data-u="thumbnailtemplate" class="t"></div>
                     <svg viewbox="0 0 16000 16000" class="cv">
                         <circle class="a" cx="8000" cy="8000" r="3238.1"></circle>
@@ -227,6 +207,9 @@ function page_content($currpageId) {
         </div>
         </div>
         <!-- Main Slider div Ends -->
+<br>
+        <h3>Category</h3>
+        <a class="category">  Office Products > Pens, Pencils & Writing Supplies > Markers & Highlighters > Permanent Markers & Marker Pens  </a>
     </div>
         <!-- Slider div Ends -->
         <!-- half contain div Start -->
