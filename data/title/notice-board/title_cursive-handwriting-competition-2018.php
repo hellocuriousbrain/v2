@@ -1,1 +1,1 @@
-<title>How to Join letters in one line notebook - Curious Brain</title>
+<title>Online Cursive Handwriting competition - Curious Brain</title>

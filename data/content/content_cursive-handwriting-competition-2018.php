@@ -12,12 +12,12 @@ Write below information on same page :- </p>
 <!-- <a >      <img id="myImg" class="imgm borderedbox inspace-5" src="../data/images/notice-board/cursive_handwriting_Competition-2018.jpg" alt="">
 
 </a> -->
-<a class="example-image-link" href="../data/images/notice-board/cursive_handwriting_Competition-2018.jpg" data-lightbox="example-1"><img class="imgm borderedbox inspace-5 example-image" src="../data/images/notice-board/cursive_handwriting_Competition-320-2018.jpg" alt="image-1" /></a>
+<a class="example-image-link" href="../data/images/notice-board/Online-Cursive-Handwriting-Competition-2018.jpg" data-lightbox="example-1"><img class="imgm borderedbox inspace-5 example-image" src="../data/images/notice-board/Online-Cursive-Handwriting-Competition-320-2018.jpg" alt="image-1" /></a>
       <p > Name :- <br>
 Date of birth :-<br>
 Mobile Number :- <br>
 Email Id (If Any) :- <br> 
-Email Address (Don't forget to mention address because we will send prize on same address) :- <br> </p>
+Postal Address (Don't forget to mention address because we will send prize on same address) :- <br> </p>
 
 <p>  Take a clear photo of page with your mobile camera or you can scan also.
 And what app on 7286088022 or you can email on hellocuriousbrain@gmail.com. </p>
@@ -33,9 +33,7 @@ We will select top handwriting among these.
 </p>
 <br>
 <p>
- We will publish winners on 2nd Oct 2018 on our website www.hellocuriousbrain.com.
-
-So your time starts now. 
+ We will publish winners on 2nd Oct 2018 on same page here.
 </p>
 
 <br>
